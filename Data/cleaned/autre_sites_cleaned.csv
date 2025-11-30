@@ -1,0 +1,3476 @@
+Prix,Marque,Modele,Age,Kilometrage,Energie,Boite_Vitesses,Puissance_Fiscale
+111110.0,Alfa Romeo,156,24,12500,Essence,Manuelle,8
+26500.0,Alfa Romeo,159,16,12500,Diesel,Manuelle,6
+38000.0,Alfa Romeo,Giulietta,9,18891,Essence,Manuelle,7
+43000.0,Alfa Romeo,Giulietta,9,20222,Essence,Automatique,9
+36900.0,Alfa Romeo,Mito,14,10714,Essence,Manuelle,9
+32000.0,Alfa Romeo,Mito,13,13692,Essence,Manuelle,5
+28000.0,Alfa Romeo,Mito,11,16363,Essence,Manuelle,6
+110000.0,Renault,Clio,0,0,Hybride,Automatique,5
+11000.0,Audi,100,38,3588,Diesel,Manuelle,7
+7000.0,Audi,50,2,68179,Essence,Manuelle,4
+18000.0,Audi,80,35,8571,Essence,Manuelle,7
+5000.0,Audi,80,44,3099,Diesel,Manuelle,8
+17500.0,Audi,80,33,4132,Essence,Manuelle,7
+35500.0,Audi,A1,12,14916,Essence,Manuelle,5
+35500.0,Audi,A1,12,14916,Essence,Manuelle,5
+35800.0,Audi,A1,12,14916,Essence,Manuelle,5
+36000.0,Audi,A1,12,10416,Diesel,Manuelle,6
+36500.0,Audi,A1,12,14833,Essence,Manuelle,5
+68000.0,Audi,A3,7,21428,Essence,Automatique,6
+76000.0,Audi,A3,6,20000,Essence,Automatique,6
+19700.0,Audi,A3,20,6817,Diesel,Manuelle,8
+39000.0,Audi,A3,16,21250,Diesel,Manuelle,6
+34000.0,Audi,A3,16,27500,Diesel,Manuelle,6
+35500.0,Audi,A3,16,14375,Essence,Manuelle,5
+38000.0,Audi,A3,15,14666,Essence,Manuelle,6
+30000.0,Audi,A3,15,17200,Diesel,Manuelle,6
+37000.0,Audi,A3,14,17857,Diesel,Manuelle,6
+42000.0,Audi,A3,12,11363,Essence,Automatique,6
+54000.0,Audi,A3,10,24000,Diesel,Manuelle,6
+111111.0,Audi,A3,10,13635,Diesel,Manuelle,5
+67000.0,Audi,A3,9,17000,Essence,Automatique,10
+55000.0,Audi,A3,9,23111,Essence,Manuelle,10
+55000.0,Audi,A3,8,17044,Essence,Manuelle,6
+85000.0,Audi,A3,6,24333,Essence,Automatique,6
+69000.0,Audi,A3,5,21600,Essence,Manuelle,6
+30000.0,Audi,A4,18,16666,Essence,Manuelle,7
+36000.0,Audi,A4,13,10489,Essence,Manuelle,9
+45000.0,Audi,A4,11,22609,Essence,Manuelle,7
+78000.0,Audi,A4,6,22726,Essence,Automatique,8
+16500.0,Audi,A4,25,5454,Essence,Manuelle,7
+20000.0,Audi,A4,22,6198,Essence,Manuelle,7
+23000.0,Audi,A4,22,13636,Essence,Manuelle,7
+22000.0,Audi,A4,22,6198,Essence,Manuelle,7
+25500.0,Audi,A4,20,18500,Diesel,Automatique,7
+123456.0,Audi,A4,20,6817,Diesel,Automatique,7
+12345.0,Audi,A4,20,6817,Diesel,Manuelle,7
+32000.0,Audi,A4,18,7575,Essence,Automatique,10
+25000.0,Audi,A4,18,7575,Essence,Manuelle,7
+18000.0,Audi,A4,18,7575,Essence,Manuelle,7
+29000.0,Audi,A4,17,8021,Diesel,Manuelle,7
+39500.0,Audi,A4,14,25714,Essence,Manuelle,7
+42000.0,Audi,A4,14,13642,Diesel,Manuelle,8
+33000.0,Audi,A4,14,12078,Essence,Automatique,7
+50000.0,Audi,A4,14,11928,Diesel,Manuelle,6
+37900.0,Audi,A4,13,9692,Essence,Manuelle,7
+37900.0,Audi,A4,13,9692,Essence,Manuelle,7
+29000.0,Audi,A4,13,10489,Essence,Manuelle,7
+36000.0,Audi,A4,13,17538,Essence,Manuelle,7
+50000.0,Audi,A4,12,22500,Essence,Automatique,7
+36500.0,Audi,A4,12,14666,Essence,Manuelle,7
+44000.0,Audi,A4,11,24545,Essence,Automatique,7
+45000.0,Audi,A4,11,18454,Essence,Manuelle,7
+40000.0,Audi,A4,11,12396,Essence,Manuelle,7
+45000.0,Audi,A4,11,12396,Essence,Manuelle,7
+43000.0,Audi,A4,11,18545,Essence,Manuelle,7
+52000.0,Audi,A4,10,22000,Essence,Manuelle,7
+91000.0,Audi,A4,5,21400,Essence,Automatique,8
+120000.0,Audi,A4,3,14000,Essence,Automatique,8
+119000.0,Audi,A5,6,25000,Essence,Automatique,8
+119000.0,Audi,A5,5,12200,Essence,Automatique,7
+99000.0,Audi,A6,7,19857,Essence,Automatique,9
+15500.0,Audi,Q7,64,2130,Essence,Manuelle,7
+87000.0,Audi,Q2,5,28000,Essence,Automatique,6
+90000.0,Audi,Q3,6,15000,Essence,Automatique,8
+76000.0,Audi,Q3,11,14363,Diesel,Manuelle,8
+95000.0,Audi,Q3,8,11375,Essence,Automatique,9
+85000.0,Audi,Q3,7,18571,Essence,Automatique,8
+49800.0,Audi,Q5,14,12857,Essence,Automatique,13
+70000.0,Audi,Q5,11,27272,Diesel,Manuelle,10
+53800.0,Audi,Q7,16,12549,Diesel,Automatique,16
+36000.0,Audi,S4,24,8625,Essence,Manuelle,9
+37900.0,Audi,A4,13,9692,Essence,Manuelle,7
+35000.0,Tata,Xénon,5,44800,Diesel,Manuelle,7
+60000.0,Renault,Clio,3,37109,Essence,Manuelle,5
+134900.0,Cupra,Leon,2,50000,Essence,Automatique,11
+99000.0,Volkswagen,Golf,1,34000,Essence,Automatique,5
+45000.0,Wallyscar,16,1,5000,Essence,Manuelle,7
+8000.0,Renault,Master,0,0,Diesel,Manuelle,8
+9800.0,Peugeot,106,29,3918,Essence,Manuelle,4
+111000.0,Peugeot,208,24,5922,Essence,Manuelle,6
+10700.0,Renault,R19,24,8333,Essence,Manuelle,7
+17500.0,Renault,Clio,23,4840,Essence,Manuelle,4
+13000.0,Volkswagen,Polo,22,5303,Essence,Manuelle,4
+30500.0,Renault,Laguna,15,4333,Diesel,Manuelle,6
+23000.0,Renault,Clio,14,7951,Essence,Manuelle,5
+42000.0,Dongfeng,S50,13,9278,Essence,Manuelle,6
+26500.0,Citroen,C3,12,10165,Essence,Manuelle,5
+26500.0,Peugeot,208,11,17000,Essence,Manuelle,5
+32000.0,Citroen,C3,7,22000,Essence,Manuelle,4
+21500.0,Chery,QQ,7,12857,Essence,Manuelle,4
+35000.0,Tata,Xénon,7,40428,Diesel,Manuelle,7
+20700.0,Chery,Tiggo,7,8301,Essence,Manuelle,4
+31000.0,Tata,Xénon,7,23457,Diesel,Manuelle,7
+35000.0,Tata,Xénon,6,23500,Diesel,Manuelle,7
+85000.0,Haval,H6,5,13760,Essence,Automatique,9
+40000.0,Wallyscar,Iris,5,3400,Essence,Manuelle,4
+40000.0,Kia,Picanto,5,19960,Essence,Manuelle,5
+123000.0,Haval,H6,5,15800,Essence,Automatique,9
+38000.0,Dongfeng,S50,5,96000,Essence,Manuelle,5
+85000.0,Haval,H6,4,19180,Essence,Automatique,9
+65000.0,ZXAUTO,Grand Tiger,4,18250,Diesel,Manuelle,9
+117000.0,Volkswagen,Tiguan,4,15250,Essence,Automatique,8
+83000.0,Haval,H6,4,16250,Essence,Automatique,9
+43000.0,Dongfeng,S50,4,22000,Essence,Manuelle,6
+26000.0,Chery,Tiggo,4,9250,Essence,Manuelle,4
+35000.0,Wallyscar,Iris,4,6370,Essence,Manuelle,4
+84000.0,Haval,Jolion,3,25574,Essence,Automatique,9
+61000.0,Dongfeng,SX3,3,18333,Essence,Manuelle,8
+36000.0,Geely,GC6,2,23300,Essence,Manuelle,6
+60000.0,Tata,Xénon,2,6250,Diesel,Manuelle,7
+36000.0,Baic,S2,7,11142,Essence,Manuelle,7
+36000.0,Baic,S2,7,15142,Essence,Manuelle,7
+36000.0,Baic,S2,7,13285,Essence,Manuelle,4
+33500.0,Baic,S2,7,14457,Essence,Manuelle,7
+32500.0,Baic,S2,6,16333,Essence,Manuelle,7
+35000.0,Baic,S2,5,13608,Essence,Manuelle,5
+40000.0,Baic,S3,5,13608,Essence,Manuelle,7
+8500.0,Bmw,E34,33,3984,Essence,Manuelle,11
+46000.0,Bmw,Serie 3,13,12461,Essence,Manuelle,6
+90000.0,Bmw,F10,12,17083,Essence,Automatique,11
+77000.0,Bmw,F30,10,9000,Essence,Manuelle,9
+130000.0,Bmw,X2,6,25000,Essence,Automatique,8
+77000.0,Bmw,F30,6,21913,Essence,Automatique,7
+14000.0,Bmw,M3,32,6250,Essence,Manuelle,8
+52000.0,Bmw,Serie 1,12,16666,Essence,Manuelle,7
+98000.0,Bmw,Serie 1,4,6250,Essence,Automatique,8
+24000.0,Bmw,Serie 1,19,6920,Essence,Manuelle,7
+29500.0,Bmw,Serie 1,14,20857,Essence,Manuelle,7
+49000.0,Bmw,Serie 1,12,15833,Essence,Automatique,9
+44000.0,Bmw,Serie 1,12,13833,Essence,Automatique,7
+46000.0,Bmw,Serie 1,12,12666,Essence,Automatique,7
+66900.0,Bmw,Serie 1,8,12875,Essence,Automatique,7
+110000.0,Bmw,Serie 1,7,5714,Essence,Automatique,7
+60000.0,Bmw,Serie 1,7,18782,Essence,Manuelle,7
+123456.0,Bmw,Serie 1,7,18285,Essence,Manuelle,7
+68000.0,Bmw,Serie 1,7,14000,Essence,Automatique,7
+135000.0,Bmw,Serie 1,4,10500,Essence,Automatique,7
+120500.0,Bmw,Serie 1,3,66666,Diesel,Automatique,6
+74000.0,Bmw,Serie 2 Active Tourer,9,16000,Essence,Automatique,7
+115000.0,Bmw,Serie 2 Cabriolet,6,13833,Essence,Automatique,8
+123456.0,Bmw,Serie 2 Gran Tourer,2,11000,Essence,Automatique,8
+18000.0,Bmw,Serie 3,31,4241,Essence,Manuelle,7
+31500.0,Bmw,Serie 3,16,8217,Essence,Manuelle,7
+54000.0,Bmw,Serie 3,8,22500,Essence,Manuelle,7
+67000.0,Bmw,Serie 3,6,30000,Essence,Automatique,7
+7000.0,Bmw,Serie 3,39,8547,Essence,Manuelle,9
+19500.0,Bmw,Serie 3,28,7797,Essence,Manuelle,9
+26000.0,Bmw,Serie 3,25,12000,Diesel,Manuelle,4
+21000.0,Bmw,Serie 3,20,20000,Essence,Manuelle,7
+29000.0,Bmw,Serie 3,18,7304,Essence,Manuelle,8
+49000.0,Bmw,Serie 3,17,14705,Diesel,Automatique,10
+32000.0,Bmw,Serie 3,17,14705,Essence,Manuelle,7
+38000.0,Bmw,Serie 3,16,12812,Essence,Manuelle,7
+48000.0,Bmw,Serie 3,14,9391,Essence,Manuelle,7
+42000.0,Bmw,Serie 3,13,10113,Essence,Manuelle,7
+39000.0,Bmw,Serie 3,13,10113,Diesel,Manuelle,18
+46000.0,Bmw,Serie 3,12,10956,Essence,Manuelle,7
+64000.0,Bmw,Serie 3,11,17272,Essence,Automatique,7
+56000.0,Bmw,Serie 3,11,11952,Essence,Manuelle,7
+64000.0,Bmw,Serie 3,11,11952,Essence,Manuelle,7
+65000.0,Bmw,Serie 3,11,14363,Essence,Automatique,7
+69500.0,Bmw,Serie 3,10,19000,Essence,Automatique,7
+67000.0,Bmw,Serie 3,10,18500,Essence,Automatique,7
+68000.0,Bmw,Serie 3,9,20000,Essence,Automatique,7
+59000.0,Bmw,Serie 3,9,14608,Essence,Automatique,7
+75000.0,Bmw,Serie 3,9,10444,Essence,Automatique,7
+66000.0,Bmw,Serie 3,7,18782,Essence,Automatique,7
+85000.0,Bmw,Serie 3,7,27714,Essence,Automatique,7
+120000.0,Bmw,Serie 4 Coupe,10,10600,Essence,Automatique,10
+93000.0,Bmw,Serie 4 Coupe,9,8333,Essence,Automatique,10
+105000.0,Bmw,Serie 4 Coupe,9,8333,Essence,Automatique,10
+130000.0,Bmw,Serie 4 Coupe,9,13333,Diesel,Automatique,10
+100000.0,Bmw,Serie 4 Coupe,8,21625,Essence,Automatique,7
+145000.0,Bmw,Serie 4 Coupe,4,10000,Essence,Automatique,7
+14000.0,Bmw,Serie 5,34,3867,Diesel,Manuelle,7
+10900.0,Bmw,Serie 5,33,3984,Essence,Manuelle,11
+15500.0,Bmw,Serie 5,27,10000,Essence,Manuelle,10
+16000.0,Bmw,Serie 5,24,5478,Essence,Manuelle,10
+33000.0,Bmw,Serie 5,20,21100,Diesel,Automatique,11
+60000.0,Bmw,Serie 5,17,8411,Essence,Manuelle,11
+57000.0,Bmw,Serie 5,16,11875,Diesel,Automatique,12
+55000.0,Bmw,Serie 5,14,9391,Diesel,Automatique,10
+62000.0,Bmw,Serie 5,14,17857,Diesel,Automatique,10
+61900.0,Bmw,Serie 5,13,20000,Diesel,Automatique,10
+78000.0,Bmw,Serie 5,13,10113,Diesel,Automatique,10
+79900.0,Bmw,Serie 5,12,16416,Essence,Automatique,10
+80000.0,Bmw,Serie 5,12,16716,Diesel,Automatique,10
+67000.0,Bmw,Serie 5,11,18181,Essence,Automatique,11
+90000.0,Bmw,Serie 5,11,11952,Essence,Automatique,10
+74000.0,Bmw,Serie 5,10,22800,Diesel,Automatique,10
+135000.0,Bmw,Serie 5,6,22000,Essence,Automatique,10
+148000.0,Bmw,Serie 5,6,16666,Essence,Automatique,10
+72000.0,Bmw,Serie 6,17,6000,Essence,Automatique,17
+97000.0,Bmw,Serie 7,15,11333,Essence,Automatique,31
+125000.0,Bmw,Serie 7,14,9000,Essence,Automatique,23
+84000.0,Bmw,X1,7,21428,Essence,Automatique,7
+59000.0,Bmw,X1,11,16363,Essence,Automatique,9
+62000.0,Bmw,X1,11,16363,Essence,Automatique,9
+89900.0,Bmw,X1,8,19875,Essence,Automatique,7
+112000.0,Bmw,X1,4,18500,Essence,Automatique,8
+34000.0,Bmw,X3,17,22352,Essence,Manuelle,10
+53000.0,Bmw,X3,15,10266,Diesel,Manuelle,10
+145000.0,Bmw,X3,5,13400,Essence,Automatique,7
+46000.0,Bmw,X5,21,7142,Diesel,Automatique,12
+67500.0,Bmw,X5,16,17500,Diesel,Automatique,15
+119000.0,Bmw,X5,14,9000,Diesel,Automatique,10
+98000.0,Bmw,X6,14,13571,Diesel,Automatique,15
+47500.0,Bmw,i3,12,18583,Essence,Automatique,7
+58000.0,Bmw,i3,11,10454,Essence,Manuelle,7
+5555.0,Bmw,i3,11,11952,Essence,Automatique,7
+42000.0,Buick,S2,7,11571,Essence,Manuelle,7
+35000.0,Buick,S3,7,18571,Essence,Manuelle,7
+28000.0,Chery,A3,7,8301,Essence,Manuelle,6
+28700.0,Chery,A3,7,15410,Essence,Manuelle,6
+26500.0,Chery,A3,6,18333,Essence,Manuelle,6
+32000.0,Chery,A3,6,9685,Essence,Manuelle,6
+30000.0,Chery,A3,6,20666,Essence,Manuelle,6
+36000.0,Chery,A3,5,17400,Essence,Manuelle,6
+36000.0,Chery,A3,5,17000,Essence,Manuelle,6
+40000.0,Chery,A5,7,12428,Essence,Manuelle,7
+26500.0,Chery,A5,7,23857,Essence,Manuelle,7
+123000.0,Chery,A5,6,7116,Essence,Manuelle,7
+23000.0,Chery,QQ,7,14285,Essence,Manuelle,5
+21500.0,Chery,QQ,7,14714,Essence,Manuelle,4
+22000.0,Chery,QQ,7,11428,Essence,Manuelle,4
+22000.0,Chery,QQ,7,11428,Essence,Manuelle,4
+21800.0,Chery,QQ,7,22857,Essence,Manuelle,5
+23500.0,Chery,QQ,7,8301,Essence,Manuelle,4
+21500.0,Chery,QQ,7,10857,Essence,Manuelle,4
+23500.0,Chery,QQ,6,15000,Essence,Manuelle,4
+19500.0,Chery,QQ,6,9685,Essence,Manuelle,4
+22800.0,Chery,QQ,5,20800,Essence,Manuelle,4
+24800.0,Chery,QQ,5,7400,Essence,Manuelle,4
+21500.0,Chery,QQ,5,16200,Essence,Manuelle,4
+23800.0,Chery,QQ,5,14000,Essence,Manuelle,4
+23000.0,Chery,QQ,4,14527,Essence,Manuelle,4
+25000.0,Chery,QQ,4,9300,Essence,Manuelle,4
+26000.0,Chery,QQ,3,13666,Essence,Manuelle,4
+22000.0,Chery,QQ,3,18666,Essence,Manuelle,4
+25000.0,Chery,QQ,3,13666,Essence,Manuelle,4
+25500.0,Chery,QQ,3,13233,Diesel,Manuelle,4
+23800.0,Chery,QQ,3,14333,Essence,Manuelle,4
+27000.0,Chery,QQ,2,3000,Essence,Manuelle,4
+24700.0,Chery,QQ,2,23500,Essence,Manuelle,4
+25500.0,Chery,QQ,2,12500,Essence,Manuelle,4
+42500.0,Chery,Tiggo,4,25000,Essence,Manuelle,6
+42000.0,Chery,Tiggo,4,21000,Essence,Manuelle,6
+40000.0,Chery,Tiggo,4,7375,Essence,Manuelle,6
+58000.0,Chery,Tiggo,2,14000,Essence,Automatique,6
+47000.0,Chery,Tiggo,1,58111,Essence,Manuelle,4
+89000.0,Chery,Tiggo,1,58111,Essence,Automatique,22
+40000.0,Chery,Tiggo,5,14400,Essence,Manuelle,6
+32000.0,Chery,Tiggo,5,36000,Essence,Manuelle,6
+70000.0,Chery,Tiggo,5,17280,Essence,Automatique,9
+68000.0,Chery,Tiggo,5,24000,Essence,Automatique,9
+45000.0,Chery,Tiggo,5,20000,Essence,Manuelle,8
+54000.0,Chery,Tiggo,4,24875,Essence,Manuelle,6
+46000.0,Chery,Tiggo,4,7500,Essence,Manuelle,6
+80000.0,Chery,Tiggo,4,13250,Essence,Automatique,4
+45500.0,Chery,Tiggo,4,16625,Essence,Manuelle,6
+48000.0,Chery,Tiggo,4,16500,Essence,Manuelle,6
+42500.0,Chery,Tiggo,4,9350,Essence,Manuelle,5
+41000.0,Chery,Tiggo,4,12500,Essence,Manuelle,6
+44000.0,Chery,Tiggo,3,19370,Essence,Automatique,9
+38000.0,Chery,Tiggo,3,32666,Essence,Manuelle,6
+59000.0,Chery,Tiggo,3,24333,Essence,Automatique,9
+95000.0,Chery,Tiggo,3,6666,Essence,Automatique,9
+47000.0,Chery,Tiggo,3,12666,Essence,Manuelle,6
+68000.0,Chery,Tiggo,3,14000,Essence,Automatique,9
+57000.0,Chery,Tiggo,2,10000,Essence,Automatique,6
+58000.0,Chery,Tiggo,2,4000,Essence,Automatique,6
+57500.0,Chery,Tiggo,2,21806,Essence,Automatique,6
+56000.0,Chery,Tiggo,2,13500,Essence,Automatique,6
+80001.0,Chery,Tiggo,2,31500,Essence,Automatique,9
+59000.0,Chery,Tiggo,2,12500,Essence,Automatique,6
+56500.0,Chery,Tiggo,2,15500,Essence,Automatique,6
+83000.0,Chery,Tiggo,2,25500,Essence,Automatique,9
+57000.0,Chery,Tiggo,2,20250,Essence,Automatique,6
+55000.0,Chery,Tiggo,2,34000,Essence,Automatique,6
+60000.0,Chery,Tiggo,2,10000,Essence,Automatique,6
+16800.0,Chevrolet,Optra,17,11882,Essence,Manuelle,6
+25000.0,Chevrolet,Aveo,9,17777,Essence,Manuelle,5
+29000.0,Chevrolet,Sonic,7,15807,Essence,Manuelle,5
+111000.0,Chevrolet,Sonic,6,18000,Essence,Manuelle,5
+27000.0,Chevrolet,Aveo,6,40000,Essence,Manuelle,5
+34000.0,Chevrolet,Sonic,6,5833,Essence,Manuelle,5
+42000.0,Chevrolet,Aveo,3,15166,Essence,Manuelle,5
+43000.0,Chevrolet,Sonic,2,55325,Essence,Automatique,5
+20000.0,Chevrolet,Aveo,12,13333,Essence,Manuelle,5
+18500.0,Chevrolet,Aveo,15,7376,Essence,Manuelle,6
+28000.0,Chevrolet,Aveo,14,7903,Essence,Manuelle,5
+21000.0,Chevrolet,Aveo,14,13714,Essence,Manuelle,5
+19000.0,Chevrolet,Aveo,13,23923,Essence,Manuelle,5
+20000.0,Chevrolet,Aveo,12,19450,Essence,Manuelle,5
+20500.0,Chevrolet,Aveo,12,17500,Essence,Manuelle,5
+28000.0,Chevrolet,Aveo,11,13636,Essence,Manuelle,5
+21000.0,Chevrolet,Aveo,11,45454,Essence,Manuelle,5
+30000.0,Chevrolet,Aveo,10,21600,Essence,Manuelle,5
+25000.0,Chevrolet,Aveo,10,12100,Essence,Manuelle,5
+24000.0,Chevrolet,Aveo,7,34571,Diesel,Manuelle,5
+24700.0,Chevrolet,Aveo,7,17428,Essence,Manuelle,5
+40000.0,Chevrolet,Captiva,0,0,Essence,Automatique,9
+84000.0,Chevrolet,Captiva,2,55325,Essence,Automatique,9
+24500.0,Chevrolet,Cruze,12,9220,Essence,Manuelle,7
+30000.0,Chevrolet,Cruze,12,12500,Essence,Manuelle,4
+32000.0,Chevrolet,Cruze,12,6300,Essence,Manuelle,7
+27000.0,Chevrolet,Cruze,11,17454,Essence,Manuelle,7
+36900.0,Chevrolet,Cruze,6,20833,Essence,Manuelle,7
+37900.0,Chevrolet,Cruze,6,20416,Essence,Manuelle,7
+38000.0,Chevrolet,Cruze,6,18441,Essence,Manuelle,7
+38000.0,Chevrolet,Cruze,6,15833,Essence,Manuelle,7
+40000.0,Chevrolet,Cruze,5,29000,Essence,Manuelle,7
+10000.0,Chevrolet,Lacetti,19,5263,Essence,Manuelle,6
+10000.0,Chevrolet,Matiz,15,7376,Essence,Manuelle,4
+21900.0,Chevrolet,Spark,13,8511,Essence,Manuelle,4
+23000.0,Chevrolet,Spark,12,9220,Essence,Manuelle,5
+25900.0,Chevrolet,Spark,8,13831,Essence,Manuelle,5
+33000.0,Chevrolet,Spark,7,10357,Essence,Manuelle,5
+57000.0,Chevrolet,Trax,6,18441,Essence,Automatique,8
+58000.0,Chevrolet,Trax,5,14200,Essence,Manuelle,8
+13000.0,Citroen,Xsara,35,3485,Essence,Manuelle,6
+15000.0,Citroen,Xsara,24,16666,Diesel,Manuelle,6
+21000.0,Citroen,Jumper,17,14705,Diesel,Manuelle,7
+21500.0,Citroen,Nemo,11,16860,Diesel,Manuelle,6
+22500.0,Citroen,Nemo,10,12198,Diesel,Manuelle,6
+19500.0,Citroen,C3,10,25000,Diesel,Manuelle,6
+36000.0,Citroen,C4,9,19444,Essence,Manuelle,5
+23000.0,Citroen,Nemo,8,17750,Diesel,Manuelle,5
+26000.0,Citroen,Nemo,7,22571,Diesel,Manuelle,6
+65000.0,Citroen,Jumper,3,41666,Diesel,Manuelle,8
+5500.0,Citroen,Ax,32,3858,Essence,Manuelle,5
+7500.0,Citroen,Ax,32,3812,Essence,Manuelle,4
+8500.0,Citroen,Ax,31,3935,Essence,Manuelle,4
+7500.0,Citroen,Ax,29,8620,Essence,Manuelle,4
+5500.0,Citroen,Ax,29,4206,Essence,Manuelle,4
+8500.0,Citroen,Ax,28,14464,Essence,Manuelle,4
+18500.0,Citroen,Berlingo,13,9383,Diesel,Manuelle,7
+47500.0,Citroen,Berlingo,4,42250,Diesel,Manuelle,4
+111000.0,Citroen,Berlingo,4,45000,Diesel,Automatique,7
+55000.0,Citroen,Berlingo,2,55000,Diesel,Manuelle,5
+30000.0,Citroen,Berlingo,1,21000,Diesel,Manuelle,6
+14500.0,Citroen,Berlingo,25,4879,Diesel,Manuelle,7
+123000.0,Citroen,Berlingo,23,12695,Diesel,Manuelle,7
+15000.0,Citroen,Berlingo,20,6099,Diesel,Manuelle,7
+17000.0,Citroen,Berlingo,19,6420,Diesel,Manuelle,7
+17000.0,Citroen,Berlingo,17,7175,Diesel,Manuelle,7
+18800.0,Citroen,Berlingo,17,7175,Diesel,Manuelle,7
+16000.0,Citroen,Berlingo,17,17647,Diesel,Manuelle,7
+19000.0,Citroen,Berlingo,17,7175,Diesel,Manuelle,7
+16500.0,Citroen,Berlingo,17,7175,Diesel,Manuelle,7
+24000.0,Citroen,Berlingo,16,16250,Diesel,Manuelle,7
+123000.0,Citroen,Berlingo,16,23750,Diesel,Manuelle,6
+25000.0,Citroen,Berlingo,15,8132,Diesel,Manuelle,5
+25500.0,Citroen,Berlingo,15,17333,Essence,Manuelle,6
+42500.0,Citroen,Berlingo,14,8713,Diesel,Manuelle,6
+111111.0,Citroen,Berlingo,14,13928,Diesel,Manuelle,5
+19000.0,Citroen,Berlingo,14,15714,Diesel,Manuelle,7
+14700.0,Citroen,Berlingo,14,8713,Diesel,Manuelle,7
+26000.0,Citroen,Berlingo,13,28153,Diesel,Manuelle,6
+17500.0,Citroen,Berlingo,13,27153,Diesel,Manuelle,7
+24500.0,Citroen,Berlingo,13,9383,Diesel,Manuelle,5
+31000.0,Citroen,Berlingo,12,20000,Diesel,Manuelle,5
+30000.0,Citroen,Berlingo,12,20250,Diesel,Manuelle,4
+23500.0,Citroen,Berlingo,11,22727,Diesel,Manuelle,6
+27499.0,Citroen,Berlingo,11,15272,Diesel,Manuelle,5
+47000.0,Citroen,Berlingo,11,19090,Diesel,Automatique,5
+53000.0,Citroen,Berlingo,10,25000,Diesel,Manuelle,5
+29000.0,Citroen,Berlingo,10,12198,Diesel,Manuelle,5
+123000.0,Citroen,Berlingo,10,12198,Diesel,Manuelle,6
+29000.0,Citroen,Berlingo,10,22000,Diesel,Manuelle,5
+25000.0,Citroen,Berlingo,10,12198,Diesel,Manuelle,5
+32000.0,Citroen,Berlingo,10,12198,Diesel,Manuelle,5
+24000.0,Citroen,Berlingo,9,13554,Diesel,Manuelle,6
+27000.0,Citroen,Berlingo,9,13554,Diesel,Manuelle,5
+48500.0,Citroen,Berlingo,8,15248,Essence,Manuelle,7
+31500.0,Citroen,Berlingo,7,20000,Diesel,Manuelle,6
+30000.0,Citroen,Berlingo,7,17426,Diesel,Manuelle,6
+43500.0,Citroen,Berlingo,7,17426,Diesel,Manuelle,5
+35000.0,Citroen,Berlingo,7,27142,Diesel,Manuelle,5
+43500.0,Citroen,Berlingo,7,17426,Diesel,Manuelle,5
+31000.0,Citroen,Berlingo,6,25666,Diesel,Manuelle,5
+58000.0,Citroen,Berlingo,6,28333,Diesel,Manuelle,5
+35000.0,Citroen,Berlingo,6,23833,Diesel,Manuelle,5
+62500.0,Citroen,Berlingo,6,28333,Diesel,Manuelle,6
+35000.0,Citroen,Berlingo,6,41166,Diesel,Manuelle,6
+52500.0,Citroen,Berlingo,5,24397,Diesel,Manuelle,5
+74000.0,Citroen,Berlingo,4,35000,Diesel,Manuelle,5
+43000.0,Citroen,Berlingo,4,34500,Diesel,Manuelle,5
+50000.0,Citroen,Berlingo,4,20250,Diesel,Manuelle,4
+54800.0,Citroen,Berlingo,4,30496,Diesel,Manuelle,5
+55000.0,Citroen,Berlingo,4,15500,Diesel,Manuelle,5
+11000.0,Citroen,Bx,40,3049,Essence,Manuelle,7
+27500.0,Citroen,Celysee,5,19688,Essence,Manuelle,5
+18000.0,Citroen,Celysee,11,15636,Essence,Manuelle,5
+17000.0,Citroen,Celysee,11,15909,Essence,Manuelle,5
+25500.0,Citroen,Celysee,11,23454,Essence,Manuelle,7
+19000.0,Citroen,Celysee,11,15636,Essence,Manuelle,5
+17800.0,Citroen,Celysee,11,15727,Essence,Manuelle,5
+23000.0,Citroen,Celysee,10,6000,Essence,Manuelle,5
+20000.0,Citroen,Celysee,10,12198,Essence,Manuelle,5
+22000.0,Citroen,Celysee,10,15000,Essence,Manuelle,5
+25000.0,Citroen,Celysee,9,16755,Essence,Manuelle,5
+22000.0,Citroen,Celysee,9,13554,Essence,Manuelle,5
+22000.0,Citroen,Celysee,9,44444,Essence,Manuelle,5
+19500.0,Citroen,Celysee,9,18666,Essence,Manuelle,5
+21000.0,Citroen,Celysee,9,13554,Essence,Manuelle,5
+22500.0,Citroen,Celysee,9,13555,Essence,Manuelle,5
+21800.0,Citroen,Celysee,9,13554,Essence,Manuelle,5
+23000.0,Citroen,Celysee,9,13554,Essence,Manuelle,5
+22000.0,Citroen,Celysee,9,13554,Essence,Manuelle,5
+23000.0,Citroen,Celysee,9,13554,Essence,Manuelle,5
+28000.0,Citroen,Celysee,9,13333,Essence,Automatique,7
+21000.0,Citroen,Celysee,9,13554,Essence,Manuelle,5
+23000.0,Citroen,Celysee,8,16625,Essence,Manuelle,5
+22500.0,Citroen,Celysee,8,17875,Essence,Manuelle,5
+26000.0,Citroen,Celysee,8,15015,Essence,Manuelle,5
+23500.0,Citroen,Celysee,8,14375,Essence,Manuelle,5
+25900.0,Citroen,Celysee,7,34000,Essence,Manuelle,5
+30000.0,Citroen,Celysee,7,14285,Essence,Manuelle,5
+25000.0,Citroen,Celysee,7,21285,Essence,Manuelle,5
+28500.0,Citroen,Celysee,6,20331,Essence,Manuelle,5
+24500.0,Citroen,Celysee,6,20331,Essence,Manuelle,5
+25000.0,Citroen,Celysee,6,20331,Essence,Manuelle,5
+26000.0,Citroen,Celysee,6,20331,Essence,Manuelle,5
+22000.0,Citroen,Celysee,6,20331,Essence,Manuelle,5
+21800.0,Citroen,Celysee,5,24397,Essence,Manuelle,5
+34000.0,Citroen,Celysee,4,30500,Essence,Manuelle,5
+24000.0,Citroen,C1,15,13000,Essence,Manuelle,4
+22000.0,Citroen,C1,14,11285,Essence,Manuelle,4
+21500.0,Citroen,C1,14,11285,Essence,Manuelle,4
+22500.0,Citroen,C1,14,11214,Essence,Manuelle,4
+22500.0,Citroen,C1,14,11142,Essence,Manuelle,4
+25000.0,Citroen,C1,13,10615,Essence,Manuelle,4
+27600.0,Citroen,C1,12,7491,Essence,Manuelle,4
+31500.0,Citroen,C1,6,10000,Essence,Manuelle,4
+7500.0,Citroen,C15,30,4066,Diesel,Manuelle,4
+7500.0,Citroen,C15,30,4066,Diesel,Manuelle,5
+8000.0,Citroen,C15,21,5808,Diesel,Manuelle,7
+7800.0,Citroen,C15,21,15873,Diesel,Manuelle,7
+10000.0,Citroen,C15,18,6777,Diesel,Manuelle,5
+19500.0,Citroen,C2,17,9823,Essence,Manuelle,5
+22000.0,Citroen,C2,16,10625,Essence,Manuelle,5
+19000.0,Citroen,C2,15,8132,Essence,Manuelle,4
+18500.0,Citroen,C2,15,8132,Essence,Manuelle,5
+18500.0,Citroen,C2,15,16284,Essence,Manuelle,5
+38500.0,Citroen,C3,6,21666,Essence,Manuelle,5
+31500.0,Citroen,C3,4,30496,Essence,Manuelle,4
+15000.0,Citroen,C3,22,15781,Essence,Manuelle,4
+18500.0,Citroen,C3,21,5808,Essence,Manuelle,4
+15500.0,Citroen,C3,21,5808,Essence,Manuelle,5
+18500.0,Citroen,C3,20,6099,Essence,Manuelle,4
+20000.0,Citroen,C3,18,6777,Essence,Manuelle,5
+14000.0,Citroen,C3,18,3641,Diesel,Manuelle,5
+18500.0,Citroen,C3,17,11117,Essence,Manuelle,4
+22000.0,Citroen,C3,15,10666,Essence,Manuelle,4
+22000.0,Citroen,C3,15,8132,Essence,Manuelle,5
+22000.0,Citroen,C3,15,8132,Essence,Manuelle,5
+21000.0,Citroen,C3,14,26142,Diesel,Manuelle,6
+25800.0,Citroen,C3,13,12692,Essence,Manuelle,5
+24000.0,Citroen,C3,13,9383,Essence,Manuelle,5
+38000.0,Citroen,C3,13,8549,Diesel,Manuelle,4
+23500.0,Citroen,C3,12,10165,Essence,Manuelle,5
+29000.0,Citroen,C3,12,10165,Diesel,Manuelle,6
+26000.0,Citroen,C3,12,16666,Essence,Manuelle,5
+123000.0,Citroen,C3,12,11833,Essence,Manuelle,5
+26000.0,Citroen,C3,12,17166,Essence,Manuelle,5
+27000.0,Citroen,C3,12,3391,Essence,Manuelle,5
+25000.0,Citroen,C3,12,17666,Essence,Manuelle,5
+28900.0,Citroen,C3,11,14545,Essence,Manuelle,5
+25000.0,Citroen,C3,11,16818,Essence,Manuelle,5
+29000.0,Citroen,C3,10,13000,Essence,Manuelle,5
+27300.0,Citroen,C3,8,13875,Essence,Manuelle,5
+35000.0,Citroen,C3,7,17142,Essence,Manuelle,4
+36000.0,Citroen,C3,7,17142,Essence,Manuelle,4
+30000.0,Citroen,C3,7,25285,Essence,Manuelle,4
+35000.0,Citroen,C3,7,14571,Essence,Manuelle,4
+43000.0,Citroen,C3,7,13142,Essence,Manuelle,4
+37000.0,Citroen,C3,7,17426,Essence,Manuelle,4
+35200.0,Citroen,C3,7,12142,Essence,Manuelle,4
+34800.0,Citroen,C3,7,20000,Essence,Manuelle,4
+37500.0,Citroen,C3,6,20331,Essence,Manuelle,4
+34000.0,Citroen,C3,6,23500,Essence,Manuelle,4
+33900.0,Citroen,C3,6,29833,Essence,Manuelle,5
+34000.0,Citroen,C3,6,20331,Essence,Manuelle,4
+35500.0,Citroen,C3,6,16000,Essence,Manuelle,5
+55000.0,Citroen,C3,6,12000,Essence,Manuelle,4
+42900.0,Citroen,C3,5,12600,Essence,Manuelle,4
+35000.0,Citroen,C3,5,40000,Diesel,Manuelle,5
+33000.0,Citroen,C3,5,20800,Essence,Manuelle,4
+38500.0,Citroen,C3,5,25600,Essence,Manuelle,4
+42900.0,Citroen,C3,5,12000,Essence,Manuelle,4
+36900.0,Citroen,C3,5,17000,Essence,Manuelle,4
+42000.0,Citroen,C3,5,6000,Essence,Manuelle,4
+38000.0,Citroen,C3,5,16048,Essence,Manuelle,4
+36900.0,Citroen,C3,5,17000,Essence,Manuelle,4
+35500.0,Citroen,C3,5,10600,Essence,Manuelle,4
+48000.0,Citroen,C3,5,88000,Diesel,Manuelle,5
+38000.0,Citroen,C3,5,23800,Essence,Manuelle,4
+64000.0,Citroen,C3,5,12800,Essence,Manuelle,4
+42900.0,Citroen,C3,5,13000,Essence,Manuelle,4
+31000.0,Citroen,C3,5,26000,Essence,Manuelle,4
+43900.0,Citroen,C3,4,12000,Essence,Manuelle,4
+43900.0,Citroen,C3,4,10000,Essence,Manuelle,4
+34000.0,Citroen,C3,4,30496,Essence,Manuelle,4
+42900.0,Citroen,C3,4,12000,Essence,Manuelle,4
+40000.0,Citroen,C3,4,6000,Essence,Manuelle,4
+49900.0,Citroen,C3,4,30496,Essence,Manuelle,6
+43000.0,Citroen,C3,4,16250,Essence,Manuelle,4
+45000.0,Citroen,C3,4,16250,Essence,Manuelle,4
+42900.0,Citroen,C3,4,3750,Essence,Manuelle,5
+54000.0,Citroen,C3,4,30496,Diesel,Manuelle,5
+52000.0,Citroen,C3,3,27000,Essence,Automatique,6
+52000.0,Citroen,C3,3,27000,Essence,Automatique,6
+19000.0,Citroen,C3,14,26357,Diesel,Manuelle,5
+27500.0,Citroen,C4,12,10165,Essence,Manuelle,6
+36000.0,Citroen,C4,11,11089,Diesel,Manuelle,6
+33000.0,Citroen,C4,9,13554,Essence,Manuelle,6
+18500.0,Citroen,C4,18,12944,Essence,Manuelle,7
+20000.0,Citroen,C4,18,27777,Diesel,Manuelle,5
+20000.0,Citroen,C4,18,10833,Essence,Manuelle,7
+20500.0,Citroen,C4,18,6777,Essence,Manuelle,7
+21500.0,Citroen,C4,17,12294,Diesel,Manuelle,5
+10000.0,Citroen,C4,17,11764,Diesel,Manuelle,6
+24000.0,Citroen,C4,17,10588,Essence,Manuelle,7
+11111.0,Citroen,C4,16,18750,Essence,Manuelle,7
+24000.0,Citroen,C4,16,7624,Essence,Manuelle,6
+19000.0,Citroen,C4,16,15625,Essence,Manuelle,5
+28000.0,Citroen,C4,16,7624,Diesel,Manuelle,6
+23000.0,Citroen,C4,16,23125,Diesel,Manuelle,6
+23500.0,Citroen,C4,15,8132,Essence,Manuelle,7
+25000.0,Citroen,C4,15,6533,Diesel,Manuelle,6
+23500.0,Citroen,C4,15,14333,Diesel,Manuelle,6
+11111.0,Citroen,C4,14,30000,Diesel,Manuelle,6
+26000.0,Citroen,C4,14,30714,Diesel,Manuelle,6
+25000.0,Citroen,C4,14,30571,Diesel,Manuelle,6
+25000.0,Citroen,C4,14,30571,Diesel,Manuelle,6
+24500.0,Citroen,C4,14,30571,Diesel,Manuelle,6
+9000.0,Citroen,C4,14,16428,Diesel,Automatique,7
+23000.0,Citroen,C4,14,8713,Diesel,Manuelle,5
+28500.0,Citroen,C4,13,9383,Essence,Manuelle,6
+36000.0,Citroen,C4,13,14615,Diesel,Manuelle,5
+35500.0,Citroen,C4,12,5833,Essence,Manuelle,6
+19000.0,Citroen,C4,12,10165,Diesel,Manuelle,5
+28900.0,Citroen,C4,12,16666,Essence,Manuelle,6
+25000.0,Citroen,C4,12,16767,Essence,Manuelle,5
+28000.0,Citroen,C4,12,10165,Essence,Manuelle,4
+37000.0,Citroen,C4,12,17666,Diesel,Manuelle,5
+28500.0,Citroen,C4,12,15166,Essence,Manuelle,6
+25000.0,Citroen,C4,12,16045,Essence,Manuelle,6
+28600.0,Citroen,C4,12,18333,Essence,Manuelle,6
+35000.0,Citroen,C4,12,10165,Diesel,Automatique,5
+38000.0,Citroen,C4,11,16818,Diesel,Manuelle,5
+34000.0,Citroen,C4,11,27272,Diesel,Manuelle,5
+26200.0,Citroen,C4,11,21727,Essence,Manuelle,6
+39000.0,Citroen,C4,11,24545,Diesel,Manuelle,5
+43000.0,Citroen,C4,10,19200,Diesel,Automatique,6
+31000.0,Citroen,C4,10,12198,Essence,Manuelle,6
+39500.0,Citroen,C4,10,22000,Diesel,Manuelle,6
+32000.0,Citroen,C4,10,13000,Essence,Manuelle,6
+28000.0,Citroen,C4,10,24000,Essence,Manuelle,6
+31000.0,Citroen,C4,10,14500,Essence,Manuelle,6
+38000.0,Citroen,C4,9,13444,Essence,Manuelle,5
+36000.0,Citroen,C4,9,13554,Essence,Manuelle,6
+36000.0,Citroen,C4,8,16750,Essence,Manuelle,5
+35000.0,Citroen,C4,8,16750,Essence,Manuelle,5
+33000.0,Citroen,C4,8,15248,Essence,Manuelle,6
+42000.0,Citroen,C4,8,19400,Diesel,Manuelle,5
+41000.0,Citroen,C4,8,15248,Essence,Manuelle,5
+52000.0,Citroen,C4,7,19000,Diesel,Manuelle,5
+39000.0,Citroen,C4,7,16714,Essence,Manuelle,5
+36000.0,Citroen,C4,7,17426,Essence,Manuelle,6
+42000.0,Citroen,C4,7,11285,Hybride,Manuelle,42
+49000.0,Citroen,C4,6,14262,Essence,Manuelle,5
+36900.0,Citroen,C4,6,21666,Essence,Manuelle,5
+49900.0,Citroen,C4,4,15500,Essence,Manuelle,6
+49900.0,Citroen,C4,4,15000,Essence,Manuelle,6
+49900.0,Citroen,C4,4,30496,Essence,Manuelle,6
+39900.0,Citroen,C4,4,30496,Essence,Manuelle,6
+49900.0,Citroen,C4,4,30496,Essence,Manuelle,6
+111111.0,Citroen,C5,15,14666,Diesel,Manuelle,6
+27000.0,Citroen,C5,15,14666,Diesel,Manuelle,6
+25000.0,Citroen,C5,15,18000,Diesel,Manuelle,6
+21500.0,Citroen,C5,15,8132,Diesel,Manuelle,6
+32000.0,Citroen,C5,14,8713,Diesel,Manuelle,6
+32000.0,Citroen,C5,14,8713,Diesel,Manuelle,6
+28600.0,Citroen,C5,14,8713,Diesel,Manuelle,6
+26000.0,Citroen,C5,13,21769,Diesel,Manuelle,6
+26000.0,Citroen,C5,13,25384,Diesel,Manuelle,6
+43000.0,Citroen,C5,13,13538,Diesel,Manuelle,6
+36000.0,Citroen,C5,13,18307,Diesel,Automatique,6
+28500.0,Citroen,C5,12,24166,Essence,Automatique,9
+33000.0,Citroen,C5,12,10165,Diesel,Manuelle,6
+35000.0,Citroen,C5,12,10165,Diesel,Manuelle,6
+30000.0,Citroen,C5,11,22545,Essence,Manuelle,9
+26500.0,Citroen,C5,6,2833,Essence,Manuelle,4
+36900.0,Citroen,C5,6,21666,Essence,Manuelle,5
+80000.0,Citroen,C5,5,25000,Essence,Manuelle,7
+53000.0,Citroen,C5,5,34000,Diesel,Manuelle,6
+26000.0,Citroen,C8,21,16666,Diesel,Manuelle,7
+47000.0,Citroen,DS5,12,22666,Diesel,Automatique,6
+41000.0,Citroen,DS5,10,16000,Essence,Automatique,9
+43500.0,Citroen,DS5,12,16416,Diesel,Automatique,6
+45000.0,Citroen,DS5,11,11089,Diesel,Automatique,6
+41000.0,Citroen,DS5,11,11089,Essence,Automatique,9
+47500.0,Citroen,DS5,9,17777,Essence,Automatique,9
+61000.0,Citroen,DS5,8,16000,Essence,Automatique,9
+60000.0,Citroen,DS5,8,16125,Essence,Automatique,9
+60000.0,Citroen,DS5,8,16000,Essence,Automatique,9
+55000.0,Citroen,DS5,7,16714,Essence,Automatique,9
+29000.0,Citroen,Ds3,11,11089,Essence,Manuelle,5
+29000.0,Citroen,Ds3,10,12198,Essence,Manuelle,5
+29000.0,Citroen,Ds3,8,18750,Essence,Manuelle,5
+29500.0,Citroen,Ds3,8,18750,Essence,Manuelle,5
+37000.0,Citroen,Ds3,8,11250,Essence,Manuelle,5
+31000.0,Citroen,Ds4,12,10165,Essence,Manuelle,7
+20000.0,Citroen,Gsa,49,2489,Essence,Manuelle,6
+14000.0,Citroen,Jumpy,20,10000,Diesel,Manuelle,8
+18700.0,Citroen,Jumpy,19,6420,Diesel,Manuelle,4
+29500.0,Citroen,Jumpy,16,24375,Diesel,Manuelle,9
+21000.0,Citroen,Jumpy,15,8132,Diesel,Manuelle,7
+18500.0,Citroen,Jumpy,15,8132,Diesel,Manuelle,5
+18500.0,Citroen,Jumpy,13,9383,Diesel,Manuelle,5
+21000.0,Citroen,Jumpy,13,9383,Diesel,Manuelle,7
+29000.0,Citroen,Jumpy,11,21818,Diesel,Manuelle,7
+59000.0,Citroen,Jumpy,5,23200,Diesel,Manuelle,6
+58000.0,Citroen,Jumpy,5,25000,Diesel,Manuelle,7
+95000.0,Citroen,Jumpy,3,15666,Diesel,Manuelle,6
+19500.0,Citroen,Nemo Combi,12,13416,Diesel,Manuelle,5
+24500.0,Citroen,Nemo Combi,11,20000,Diesel,Manuelle,6
+16500.0,Citroen,Nemo Combi,10,32800,Diesel,Manuelle,6
+24000.0,Citroen,Nemo Combi,9,13554,Diesel,Manuelle,6
+25500.0,Citroen,Nemo Combi,9,10888,Diesel,Manuelle,6
+23500.0,Citroen,Nemo Combi,8,22500,Diesel,Manuelle,6
+26000.0,Citroen,Nemo Combi,7,29142,Diesel,Manuelle,5
+24000.0,Citroen,Nemo Combi,7,50000,Diesel,Manuelle,5
+10800.0,Citroen,Saxo,26,4691,Essence,Manuelle,4
+11900.0,Citroen,Saxo,26,7692,Essence,Manuelle,4
+10500.0,Citroen,Saxo,25,13800,Essence,Manuelle,4
+14000.0,Citroen,Saxo,24,16250,Essence,Manuelle,4
+11400.0,Citroen,Saxo,24,5082,Essence,Manuelle,5
+12500.0,Citroen,Saxo,23,5303,Essence,Manuelle,4
+12000.0,Citroen,Saxo,23,13043,Essence,Manuelle,5
+11000.0,Citroen,Saxo,23,5303,Essence,Manuelle,4
+8000.0,Citroen,Zx,30,6805,Essence,Manuelle,5
+29000.0,Corvette,Cruze,7,42857,Essence,Manuelle,7
+129000.0,Cupra,Formentor,3,16666,Hybride,Automatique,8
+67900.0,DFSK,Glory 500,0,0,Essence,Manuelle,7
+34400.0,DFSK,K01H,0,0,Essence,Manuelle,6
+38500.0,Dacia,Docker,2,39000,Diesel,Manuelle,5
+35000.0,Dacia,Dokker,5,17200,Diesel,Manuelle,6
+37000.0,Dacia,Dokker,3,53666,Diesel,Manuelle,6
+24500.0,Dacia,Dokker,10,7920,Diesel,Manuelle,6
+24000.0,Dacia,Dokker,9,32777,Diesel,Manuelle,6
+25000.0,Dacia,Dokker,9,22000,Diesel,Manuelle,5
+25000.0,Dacia,Dokker,8,29430,Diesel,Manuelle,6
+27900.0,Dacia,Dokker,7,23428,Diesel,Manuelle,6
+27500.0,Dacia,Dokker,7,39000,Diesel,Manuelle,5
+23000.0,Dacia,Dokker,7,27857,Diesel,Manuelle,6
+5500.0,Dacia,Dokker,7,11314,Diesel,Manuelle,6
+6500.0,Dacia,Dokker,7,11314,Diesel,Manuelle,6
+6500.0,Dacia,Dokker,7,11314,Diesel,Manuelle,6
+6500.0,Dacia,Dokker,7,11314,Diesel,Manuelle,6
+30000.0,Dacia,Dokker,7,21714,Diesel,Manuelle,6
+7000.0,Dacia,Dokker,7,11314,Diesel,Manuelle,6
+10000.0,Dacia,Dokker,7,8079,Diesel,Manuelle,5
+6500.0,Dacia,Dokker,7,11314,Diesel,Manuelle,6
+35000.0,Dacia,Dokker,6,9833,Diesel,Manuelle,6
+31000.0,Dacia,Dokker,6,16666,Diesel,Manuelle,7
+30000.0,Dacia,Dokker,5,42000,Diesel,Manuelle,6
+31000.0,Dacia,Dokker,5,15840,Diesel,Manuelle,6
+30001.0,Dacia,Dokker,5,30999,Diesel,Manuelle,6
+32500.0,Dacia,Dokker,5,32000,Diesel,Manuelle,6
+29000.0,Dacia,Dokker,5,15840,Diesel,Manuelle,6
+31500.0,Dacia,Dokker,5,15840,Diesel,Manuelle,6
+30500.0,Dacia,Dokker,4,22500,Diesel,Manuelle,6
+66000.0,Dacia,Dokker,4,26032,Diesel,Manuelle,6
+33000.0,Dacia,Dokker,4,43749,Diesel,Manuelle,6
+40000.0,Dacia,Dokker,3,13000,Diesel,Manuelle,5
+38500.0,Dacia,Duster,9,17444,Essence,Manuelle,7
+38500.0,Dacia,Duster,9,17444,Essence,Manuelle,7
+37000.0,Dacia,Duster,13,6092,Diesel,Manuelle,6
+45000.0,Dacia,Duster,12,6600,Diesel,Automatique,5
+40000.0,Dacia,Duster,11,13181,Essence,Manuelle,7
+43000.0,Dacia,Duster,9,8800,Diesel,Manuelle,5
+52500.0,Dacia,Duster,6,30833,Essence,Manuelle,7
+49000.0,Dacia,Duster,6,13200,Diesel,Manuelle,5
+36500.0,Dacia,Logan,7,13571,Essence,Manuelle,5
+7800.0,Dacia,Logan,16,6250,Diesel,Manuelle,4
+16000.0,Dacia,Logan,14,5657,Essence,Manuelle,4
+10500.0,Dacia,Logan,14,3968,Diesel,Manuelle,4
+9000.0,Dacia,Logan,14,5657,Diesel,Manuelle,4
+16800.0,Dacia,Logan,13,6092,Diesel,Manuelle,6
+10000.0,Dacia,Logan,13,6092,Diesel,Manuelle,4
+24000.0,Dacia,Logan,12,6600,Diesel,Manuelle,4
+16700.0,Dacia,Logan,12,6600,Diesel,Manuelle,6
+35000.0,Dacia,Logan,9,8800,Essence,Manuelle,5
+32500.0,Dacia,Logan,8,20625,Essence,Manuelle,4
+32000.0,Dacia,Logan,7,17142,Essence,Manuelle,5
+37900.0,Dacia,Logan,3,40666,Essence,Manuelle,5
+42000.0,Dacia,Logan,3,26401,Essence,Manuelle,5
+44000.0,Dacia,Sandero,4,3500,Essence,Manuelle,4
+111000.0,Dacia,Sandero,4,17500,Essence,Manuelle,5
+10000.0,Dacia,Sandero,3,26401,Essence,Manuelle,5
+111000.0,Dacia,Sandero,3,13333,Essence,Manuelle,5
+46000.0,Dacia,Sandero,6,12500,Essence,Manuelle,5
+35000.0,Dacia,Sandero,3,24666,Essence,Manuelle,4
+39000.0,Dacia,Sandero,3,28333,Essence,Manuelle,5
+39000.0,Dacia,Sandero,3,27000,Essence,Manuelle,5
+38000.0,Dongfeng,S50,5,24123,Essence,Manuelle,6
+38000.0,Dongfeng,S50,4,33500,Essence,Manuelle,6
+51000.0,Donkervoort,S50,3,21333,Essence,Automatique,7
+51000.0,Donkervoort,S50,3,21333,Essence,Automatique,7
+55000.0,Donkervoort,S50,3,20499,Essence,Automatique,7
+48500.0,Haval,H2,7,24714,Essence,Manuelle,9
+83000.0,Isuzu,Dmax,13,11870,Diesel,Manuelle,10
+65000.0,Ds,Ds3,3,12000,Essence,Manuelle,5
+29000.0,Ds,Ds3,11,6277,Essence,Manuelle,5
+35000.0,Ds,Ds3,10,10800,Essence,Automatique,7
+123456.0,Ds,Ds3,10,15000,Essence,Manuelle,5
+46000.0,Ds,Ds3,5,24000,Essence,Automatique,6
+47000.0,Ds,Ds4,6,11508,Essence,Manuelle,7
+55000.0,Fiat,500,3,20000,Essence,Manuelle,5
+57000.0,Fiat,500,3,26820,Hybride,Manuelle,4
+28000.0,Fiat,500,14,9343,Diesel,Manuelle,4
+28000.0,Fiat,500,14,14285,Diesel,Manuelle,4
+26500.0,Fiat,500,14,9343,Essence,Automatique,4
+28500.0,Fiat,500,11,11892,Essence,Manuelle,4
+5000.0,Fiat,500,11,20909,Essence,Manuelle,4
+32500.0,Fiat,500,11,10181,Essence,Manuelle,4
+31000.0,Fiat,500,10,13081,Essence,Manuelle,4
+34500.0,Fiat,500,10,23450,Essence,Manuelle,4
+32000.0,Fiat,500,10,17700,Essence,Automatique,4
+42000.0,Fiat,500,8,32125,Essence,Manuelle,8
+39500.0,Fiat,500,7,18687,Essence,Automatique,4
+45000.0,Fiat,500,5,14800,Essence,Automatique,4
+52000.0,Fiat,500,5,6000,Essence,Manuelle,4
+39000.0,Fiat,500,5,20799,Essence,Automatique,4
+56000.0,Fiat,500,5,14000,Essence,Manuelle,5
+11000.0,Fiat,500,5,26162,Essence,Automatique,4
+50000.0,Fiat,500,3,10000,Essence,Manuelle,4
+8500.0,Fiat,600,25,5232,Essence,Manuelle,5
+16800.0,Fiat,5,23,14492,Diesel,Manuelle,6
+22500.0,Fiat,Punto Pop,11,11892,Essence,Manuelle,4
+5500.0,Fiat,Fiorino,26,5031,Diesel,Manuelle,7
+28000.0,Fiat,Ducato,21,10000,Diesel,Automatique,9
+13000.0,Fiat,Fiorino,19,6884,Essence,Manuelle,5
+18000.0,Fiat,Siena,17,16470,Essence,Manuelle,5
+17800.0,Fiat,Siena,17,17294,Essence,Manuelle,5
+16500.0,Fiat,Palio,16,12187,Essence,Manuelle,4
+17500.0,Fiat,Fiorino,15,15200,Essence,Manuelle,6
+25000.0,Fiat,Fiorino,10,15000,Essence,Manuelle,4
+30500.0,Fiat,Qubo,8,16351,Essence,Manuelle,5
+33000.0,Fiat,Tipo,7,25142,Essence,Manuelle,6
+111111.0,Fiat,Fiorino,7,18687,Diesel,Manuelle,5
+19800.0,Fiat,Fiorino,7,18687,Diesel,Manuelle,5
+19800.0,Fiat,Fiorino,7,18687,Diesel,Manuelle,5
+41000.0,Fiat,Fiorino,6,15166,Essence,Manuelle,6
+36500.0,Fiat,Tipo,6,25333,Essence,Manuelle,6
+43900.0,Fiat,Tipo,3,23333,Essence,Manuelle,5
+49500.0,Fiat,Fiorino,2,35000,Essence,Manuelle,6
+5500.0,Fiat,Croma,34,3847,Diesel,Manuelle,6
+13000.0,Fiat,Doblo,23,12173,Diesel,Manuelle,5
+12000.0,Fiat,Doblo,23,5687,Essence,Manuelle,5
+12800.0,Fiat,Doblo,22,12272,Essence,Manuelle,5
+12000.0,Fiat,Doblo,22,13681,Diesel,Manuelle,6
+22500.0,Fiat,Doblo,13,20000,Diesel,Manuelle,5
+17000.0,Fiat,Doblo,12,10901,Diesel,Manuelle,5
+16500.0,Fiat,Doblo,11,21000,Diesel,Manuelle,5
+17500.0,Fiat,Doblo,10,18600,Diesel,Manuelle,5
+16500.0,Fiat,Doblo,10,28800,Diesel,Manuelle,5
+19000.0,Fiat,Doblo,9,13555,Diesel,Manuelle,5
+18800.0,Fiat,Doblo,8,43124,Diesel,Manuelle,5
+18300.0,Fiat,Doblo,8,28125,Diesel,Manuelle,6
+16800.0,Fiat,Doblo,8,28750,Diesel,Manuelle,4
+18800.0,Fiat,Doblo,8,42500,Diesel,Manuelle,5
+24000.0,Fiat,Doblo,8,37500,Diesel,Manuelle,5
+23000.0,Fiat,Doblo,7,37142,Diesel,Manuelle,5
+21500.0,Fiat,Doblo,7,32857,Diesel,Manuelle,5
+27000.0,Fiat,Doblo,7,27285,Diesel,Manuelle,5
+29500.0,Fiat,Doblo,6,16833,Diesel,Manuelle,6
+111000.0,Fiat,Doblo,6,16667,Diesel,Manuelle,5
+58000.0,Fiat,Doblo,5,16400,Diesel,Manuelle,5
+36000.0,Fiat,Doblo,4,24750,Diesel,Manuelle,5
+42000.0,Fiat,Doblo,3,55364,Essence,Manuelle,6
+13800.0,Fiat,Ducato,22,5946,Diesel,Manuelle,7
+28000.0,Fiat,Ducato,21,6229,Diesel,Manuelle,9
+20000.0,Fiat,Ducato,12,10901,Diesel,Manuelle,12
+56000.0,Fiat,Ducato,7,18428,Diesel,Manuelle,7
+79000.0,Fiat,Ducato,4,26750,Diesel,Manuelle,8
+28000.0,Fiat,Fiorino,7,18687,Diesel,Manuelle,5
+23000.0,Fiat,Fiorino,6,21802,Diesel,Manuelle,4
+42000.0,Fiat,Fiorino,1,8500,Diesel,Manuelle,5
+25000.0,Fiat,Fiorino,15,16666,Diesel,Manuelle,6
+26500.0,Fiat,Fiorino,8,23200,Diesel,Manuelle,5
+33000.0,Fiat,Fiorino,7,24285,Essence,Manuelle,5
+33800.0,Fiat,Fiorino,7,8571,Diesel,Manuelle,5
+24800.0,Fiat,Fiorino,7,31428,Diesel,Manuelle,5
+26500.0,Fiat,Fiorino,6,17833,Diesel,Manuelle,5
+21000.0,Fiat,Fiorino,6,45000,Diesel,Manuelle,5
+26900.0,Fiat,Fiorino,6,31333,Diesel,Manuelle,5
+32000.0,Fiat,Fiorino,5,26162,GPL,Manuelle,5
+24900.0,Fiat,Fiorino,5,45000,Diesel,Manuelle,5
+32000.0,Fiat,Fiorino,5,26162,Diesel,Manuelle,5
+31000.0,Fiat,Fiorino,5,30200,Diesel,Manuelle,5
+32000.0,Fiat,Fiorino,4,24250,Diesel,Manuelle,5
+33000.0,Fiat,Fiorino,4,25500,Diesel,Manuelle,5
+12345.0,Fiat,Fiorino,4,32703,Diesel,Manuelle,5
+31000.0,Fiat,Fiorino,4,44500,Diesel,Manuelle,5
+39000.0,Fiat,Fiorino,4,40000,Diesel,Manuelle,5
+32500.0,Fiat,Fiorino,3,33333,Diesel,Manuelle,5
+38500.0,Fiat,Fiorino,3,38516,Diesel,Manuelle,5
+38000.0,Fiat,Fiorino,2,65406,Diesel,Manuelle,5
+43100.0,Fiat,Fiorino,2,11737,Diesel,Manuelle,5
+37000.0,Fiat,Fiorino,2,22500,Diesel,Manuelle,5
+23500.0,Fiat,Grande Punto,11,9958,Essence,Manuelle,4
+24200.0,Fiat,Grande Punto,10,17500,Essence,Manuelle,4
+18000.0,Fiat,Grande Punto,8,16351,Essence,Manuelle,4
+18700.0,Fiat,Grande Punto,16,21250,Essence,Manuelle,5
+25000.0,Fiat,Grande Punto,16,21250,Essence,Manuelle,5
+24000.0,Fiat,Grande Punto,15,12466,Essence,Manuelle,5
+24000.0,Fiat,Grande Punto,14,11285,Essence,Manuelle,5
+19900.0,Fiat,Grande Punto,14,15069,Essence,Manuelle,5
+18500.0,Fiat,Grande Punto,14,9343,Essence,Manuelle,5
+21000.0,Fiat,Grande Punto,14,17142,Essence,Manuelle,5
+20500.0,Fiat,Grande Punto,14,14071,Essence,Manuelle,5
+23500.0,Fiat,Grande Punto,12,14750,Essence,Manuelle,5
+18500.0,Fiat,Grande Punto,12,23333,Essence,Manuelle,4
+23000.0,Fiat,Grande Punto,12,14750,Essence,Manuelle,5
+23000.0,Fiat,Grande Punto,12,14760,Essence,Manuelle,5
+23000.0,Fiat,Grande Punto,12,14750,Essence,Manuelle,5
+23300.0,Fiat,Grande Punto,11,14545,Essence,Manuelle,4
+123000.0,Fiat,Grande Punto,11,11892,Essence,Manuelle,4
+21000.0,Fiat,Grande Punto,11,27272,Essence,Manuelle,5
+16500.0,Fiat,Grande Punto,11,16000,Essence,Manuelle,4
+22000.0,Fiat,Grande Punto,10,13081,Essence,Manuelle,4
+22000.0,Fiat,Grande Punto,10,13081,Essence,Manuelle,4
+22000.0,Fiat,Grande Punto,10,17000,Essence,Manuelle,5
+23500.0,Fiat,Grande Punto,10,13081,Essence,Manuelle,4
+27000.0,Fiat,Grande Punto,9,30555,Essence,Manuelle,4
+29200.0,Fiat,Grande Punto,8,17625,Essence,Manuelle,4
+25000.0,Fiat,Grande Punto,7,21428,Essence,Manuelle,4
+13000.0,Fiat,Marea,23,19565,Essence,Manuelle,6
+48900.0,Fiat,Multipla,4,11750,Essence,Manuelle,6
+17800.0,Fiat,Palio,24,7083,Essence,Manuelle,4
+13500.0,Fiat,Palio,23,5687,Essence,Manuelle,4
+12500.0,Fiat,Palio,25,8000,Essence,Manuelle,4
+11000.0,Fiat,Palio,24,5450,Essence,Manuelle,4
+123000.0,Fiat,Palio,23,13086,Essence,Manuelle,4
+9500.0,Fiat,Palio,23,8260,Essence,Manuelle,5
+12500.0,Fiat,Palio,22,10000,Essence,Manuelle,4
+11200.0,Fiat,Palio,22,5946,Essence,Manuelle,4
+11000.0,Fiat,Palio,21,16047,Essence,Manuelle,4
+16000.0,Fiat,Palio,20,15000,Essence,Manuelle,5
+20000.0,Fiat,Palio,20,6540,Essence,Manuelle,4
+18000.0,Fiat,Palio,19,6884,Essence,Manuelle,5
+13200.0,Fiat,Palio,18,19861,Essence,Manuelle,5
+18500.0,Fiat,Palio,16,11000,Essence,Manuelle,4
+18000.0,Fiat,Palio,16,10812,Essence,Manuelle,4
+17500.0,Fiat,Palio,14,17857,Essence,Manuelle,4
+19500.0,Fiat,Panda,19,6884,Essence,Manuelle,4
+49500.0,Fiat,Panda,1,3400,Essence,Automatique,4
+19800.0,Fiat,Panda,19,6884,Essence,Manuelle,4
+21000.0,Fiat,Panda,18,15444,Essence,Manuelle,4
+19500.0,Fiat,Panda,17,10470,Essence,Manuelle,4
+22000.0,Fiat,Panda,15,13266,Essence,Manuelle,4
+21000.0,Fiat,Panda,14,9343,Essence,Manuelle,4
+29000.0,Fiat,Panda,7,18687,Essence,Manuelle,4
+10000.0,Fiat,Panda,7,18687,Essence,Manuelle,4
+33000.0,Fiat,Panda,4,22500,Essence,Manuelle,4
+39300.0,Fiat,Panda,4,20530,Essence,Manuelle,5
+34500.0,Fiat,Panda,3,31333,Essence,Manuelle,4
+42000.0,Fiat,Panda,3,15333,Essence,Manuelle,4
+46000.0,Fiat,Panda,2,4928,Essence,Manuelle,5
+10800.0,Fiat,Punto,28,10714,Essence,Manuelle,4
+13000.0,Fiat,Punto,1,130812,Essence,Manuelle,5
+11500.0,Fiat,Punto,30,12000,Diesel,Manuelle,7
+13500.0,Fiat,Punto,28,4671,Essence,Manuelle,4
+7500.0,Fiat,Punto,28,4671,Diesel,Manuelle,7
+12800.0,Fiat,Punto,27,4844,Essence,Manuelle,4
+13500.0,Fiat,Punto,27,11111,Essence,Manuelle,4
+12000.0,Fiat,Punto,26,5031,Essence,Manuelle,5
+11500.0,Fiat,Punto,25,8200,Essence,Manuelle,4
+16000.0,Fiat,Punto,24,5450,Essence,Manuelle,5
+11000.0,Fiat,Punto,23,4830,Essence,Manuelle,5
+14000.0,Fiat,Punto,23,4830,Essence,Manuelle,5
+13000.0,Fiat,Punto,23,5687,Essence,Manuelle,5
+14500.0,Fiat,Punto,20,6540,Essence,Manuelle,4
+16400.0,Fiat,Punto,20,6540,Essence,Manuelle,5
+18700.0,Fiat,Punto,16,13750,Essence,Manuelle,5
+20000.0,Fiat,Punto,14,14444,Essence,Manuelle,5
+24000.0,Fiat,Punto,12,2333,Essence,Manuelle,5
+22500.0,Fiat,Punto,11,23636,Essence,Manuelle,5
+26500.0,Fiat,Punto,10,17000,Essence,Manuelle,4
+26500.0,Fiat,Punto,9,14534,Essence,Manuelle,4
+25000.0,Fiat,Punto,7,21428,Essence,Manuelle,4
+30000.0,Fiat,Punto,7,18687,Essence,Manuelle,4
+16500.0,Fiat,Punto,7,42857,Essence,Manuelle,4
+30000.0,Fiat,Punto Evo,13,11538,Essence,Manuelle,5
+24000.0,Fiat,Punto Evo,13,10062,Essence,Manuelle,4
+24000.0,Fiat,Punto Evo,12,14583,Essence,Manuelle,4
+13000.0,Fiat,Scudo,23,5687,Diesel,Manuelle,6
+14000.0,Fiat,Scudo,21,16514,Diesel,Manuelle,6
+15000.0,Fiat,Seicento,17,7694,Essence,Manuelle,5
+16000.0,Fiat,Seicento,17,7694,Essence,Manuelle,5
+9000.0,Fiat,Uno,18,7267,Essence,Manuelle,5
+7000.0,Fiat,Uno,36,11018,Essence,Manuelle,5
+5800.0,Fiat,Uno,36,3633,Essence,Manuelle,4
+9800.0,Fiat,Uno,27,11111,Essence,Manuelle,4
+9000.0,Fiat,Uno,22,13636,Essence,Manuelle,5
+14500.0,Fiat,Uno,21,6229,Essence,Manuelle,4
+10500.0,Fiat,Uno,19,15000,Essence,Manuelle,5
+13000.0,Fiat,Uno,19,15684,Essence,Manuelle,5
+10000.0,Fiat,Uno,18,11222,Essence,Manuelle,5
+23000.0,Ford,Fiesta,10,11280,Essence,Manuelle,5
+22000.0,Ford,Fiesta,11,16818,Essence,Manuelle,5
+22000.0,Ford,Figo,11,16363,Essence,Manuelle,4
+22000.0,Ford,Figo,11,10254,Essence,Manuelle,4
+7000.0,Ford,Courrier,28,4028,Diesel,Manuelle,7
+70000.0,Ford,Ecosport,3,13333,Essence,Automatique,7
+69000.0,Ford,Ecosport,3,4666,Essence,Manuelle,7
+84000.0,Ford,Ecosport,1,7000,Essence,Manuelle,7
+56500.0,Ford,Ecosport,8,11125,Essence,Automatique,7
+52000.0,Ford,Ecosport,8,13062,Essence,Automatique,6
+55000.0,Ford,Ecosport,5,30200,Essence,Automatique,7
+61400.0,Ford,Ecosport,5,35000,Essence,Manuelle,7
+62000.0,Ford,Ecosport,4,28200,Essence,Manuelle,7
+6000.0,Ford,Escort,39,2564,Essence,Manuelle,5
+5000.0,Ford,Escort,28,15111,Diesel,Manuelle,7
+6500.0,Ford,Escort,27,3703,Essence,Manuelle,6
+8500.0,Ford,Escort,27,4177,Essence,Manuelle,6
+70000.0,Ford,Escort,5,22560,Essence,Automatique,7
+25000.0,Ford,Fiesta,15,16666,Essence,Manuelle,5
+25000.0,Ford,Fiesta,14,14285,Essence,Manuelle,5
+26000.0,Ford,Fiesta,13,8676,Essence,Manuelle,5
+27500.0,Ford,Fiesta,11,10254,Essence,Manuelle,5
+32000.0,Ford,Fiesta,9,12533,Essence,Manuelle,5
+8500.0,Ford,Fiesta,27,4177,Essence,Manuelle,5
+8500.0,Ford,Fiesta,26,4338,Essence,Manuelle,5
+10500.0,Ford,Fiesta,22,6818,Essence,Manuelle,5
+15500.0,Ford,Fiesta,21,5878,Essence,Manuelle,5
+17000.0,Ford,Fiesta,20,5640,Essence,Manuelle,5
+8000.0,Ford,Fiesta,20,5640,Essence,Manuelle,4
+17000.0,Ford,Fiesta,20,5640,Essence,Manuelle,5
+16500.0,Ford,Fiesta,19,5936,Essence,Manuelle,5
+21000.0,Ford,Fiesta,18,6266,Essence,Manuelle,5
+15500.0,Ford,Fiesta,18,6266,Essence,Manuelle,5
+16000.0,Ford,Fiesta,18,10611,Essence,Manuelle,5
+16500.0,Ford,Fiesta,18,8333,Essence,Manuelle,5
+21000.0,Ford,Fiesta,17,6635,Essence,Manuelle,4
+19500.0,Ford,Fiesta,17,16058,Essence,Manuelle,5
+18500.0,Ford,Fiesta,17,6635,Essence,Manuelle,5
+19500.0,Ford,Fiesta,17,13529,Essence,Manuelle,5
+21000.0,Ford,Fiesta,17,6635,Essence,Manuelle,5
+19000.0,Ford,Fiesta,15,7520,Essence,Manuelle,5
+24800.0,Ford,Fiesta,14,8057,Essence,Manuelle,5
+24900.0,Ford,Fiesta,14,16642,Essence,Manuelle,5
+24300.0,Ford,Fiesta,14,8057,Essence,Manuelle,5
+17000.0,Ford,Fiesta,13,8676,Essence,Manuelle,6
+26000.0,Ford,Fiesta,13,8676,Essence,Manuelle,5
+27500.0,Ford,Fiesta,13,2138,Essence,Manuelle,5
+26000.0,Ford,Fiesta,12,15000,Essence,Manuelle,6
+26500.0,Ford,Fiesta,12,9400,Essence,Automatique,5
+28000.0,Ford,Fiesta,12,16000,Essence,Manuelle,5
+24700.0,Ford,Fiesta,12,11482,Essence,Manuelle,4
+27000.0,Ford,Fiesta,12,15750,Essence,Manuelle,5
+26000.0,Ford,Fiesta,12,9400,Essence,Manuelle,5
+26000.0,Ford,Fiesta,12,9400,Essence,Manuelle,5
+29000.0,Ford,Fiesta,12,20833,Essence,Manuelle,5
+25500.0,Ford,Fiesta,12,9400,Essence,Manuelle,5
+34000.0,Ford,Fiesta,11,10254,Essence,Manuelle,5
+27500.0,Ford,Fiesta,11,10254,Essence,Manuelle,5
+32500.0,Ford,Fiesta,11,14545,Essence,Manuelle,5
+30000.0,Ford,Fiesta,11,17878,Essence,Manuelle,5
+28000.0,Ford,Fiesta,11,10254,Essence,Manuelle,5
+31000.0,Ford,Fiesta,10,14900,Essence,Manuelle,5
+31500.0,Ford,Fiesta,10,15400,Essence,Manuelle,5
+30000.0,Ford,Fiesta,10,34960,Essence,Manuelle,5
+22800.0,Ford,Fiesta,10,13400,Essence,Manuelle,5
+32000.0,Ford,Fiesta,10,20900,Essence,Manuelle,5
+22800.0,Ford,Fiesta,10,14100,Essence,Manuelle,5
+30500.0,Ford,Fiesta,9,19777,Essence,Manuelle,5
+28000.0,Ford,Fiesta,9,26666,Essence,Manuelle,5
+34800.0,Ford,Fiesta,8,17500,Essence,Manuelle,5
+35500.0,Ford,Fiesta,8,12750,Essence,Manuelle,5
+32500.0,Ford,Fiesta,8,14100,Essence,Manuelle,5
+111000.0,Ford,Fiesta,7,16114,Essence,Manuelle,5
+35000.0,Ford,Fiesta,7,19814,Essence,Manuelle,5
+35000.0,Ford,Fiesta,7,17857,Essence,Manuelle,5
+34500.0,Ford,Fiesta,7,16114,Essence,Manuelle,5
+37500.0,Ford,Fiesta,7,20428,Essence,Manuelle,5
+32000.0,Ford,Fiesta,7,23142,Essence,Manuelle,5
+38000.0,Ford,Fiesta,7,11857,Essence,Manuelle,5
+37000.0,Ford,Fiesta,5,15400,Essence,Manuelle,4
+33000.0,Ford,Fiesta,5,39000,Essence,Manuelle,4
+45500.0,Ford,Fiesta,4,22250,Essence,Manuelle,4
+26500.0,Ford,Focus,14,16000,Essence,Manuelle,4
+38000.0,Ford,Focus,8,17500,Essence,Manuelle,6
+14000.0,Ford,Focus,19,16368,Essence,Manuelle,6
+22500.0,Ford,Focus,18,6266,Essence,Manuelle,6
+19500.0,Ford,Focus,18,6266,Essence,Manuelle,6
+24000.0,Ford,Focus,17,7529,Essence,Manuelle,6
+18500.0,Ford,Focus,16,17125,Essence,Manuelle,6
+22500.0,Ford,Focus,16,13437,Essence,Manuelle,6
+23000.0,Ford,Focus,14,23928,Essence,Manuelle,6
+27000.0,Ford,Focus,13,17076,Essence,Manuelle,6
+28000.0,Ford,Focus,12,9400,Essence,Manuelle,6
+21500.0,Ford,Focus,12,9400,Essence,Manuelle,6
+29500.0,Ford,Focus,11,15818,Essence,Manuelle,7
+30000.0,Ford,Focus,11,14090,Essence,Manuelle,6
+39000.0,Ford,Focus,9,19777,Essence,Manuelle,6
+38500.0,Ford,Focus,9,16444,Essence,Manuelle,6
+37000.0,Ford,Focus,9,12533,Essence,Manuelle,7
+37500.0,Ford,Focus,8,20625,Essence,Manuelle,6
+41500.0,Ford,Focus,8,14625,Essence,Manuelle,6
+45000.0,Ford,Focus,7,16142,Essence,Manuelle,6
+55000.0,Ford,Focus,7,12000,Essence,Manuelle,6
+44800.0,Ford,Focus,7,16142,Essence,Manuelle,6
+40800.0,Ford,Focus,6,21666,Essence,Automatique,7
+42700.0,Ford,Focus,6,28333,Essence,Manuelle,6
+47000.0,Ford,Focus,5,22560,Essence,Automatique,6
+55000.0,Ford,Fusion,7,15714,Essence,Automatique,9
+21000.0,Ford,Fusion,15,19533,Essence,Manuelle,5
+22000.0,Ford,Fusion,15,20000,Essence,Manuelle,5
+52000.0,Ford,Fusion,8,17750,Essence,Automatique,9
+62000.0,Ford,Fusion,8,10625,Essence,Manuelle,9
+11000.0,Ford,Ka,23,10869,Essence,Manuelle,5
+23000.0,Ford,Ka,12,17708,Essence,Manuelle,4
+26900.0,Ford,Ka,9,12533,Essence,Manuelle,5
+29500.0,Ford,Ka,9,6944,Essence,Manuelle,4
+28000.0,Ford,Ka,8,14100,Essence,Manuelle,5
+59000.0,Ford,Kuga,7,16142,Essence,Automatique,11
+62000.0,Ford,Kuga,7,16142,Essence,Automatique,11
+85000.0,Ford,Kuga,5,10400,Diesel,Manuelle,7
+9500.0,Ford,Mondeo,30,10000,Diesel,Manuelle,5
+7500.0,Ford,Mondeo,29,3889,Essence,Manuelle,7
+123456.0,Ford,Mondeo,23,2173,Diesel,Manuelle,7
+35000.0,Ford,Mondeo,12,10091,Essence,Manuelle,8
+28000.0,Ford,Mondeo,11,18181,Essence,Manuelle,7
+26000.0,Ford,Ranger,19,5936,Diesel,Manuelle,12
+30000.0,Ford,Ranger,18,6266,Diesel,Manuelle,12
+23000.0,Ford,Ranger,18,20277,Diesel,Manuelle,12
+26000.0,Ford,Ranger,17,28941,Diesel,Manuelle,12
+23000.0,Ford,Ranger,17,6635,Diesel,Manuelle,10
+33000.0,Ford,Ranger,14,25571,Diesel,Manuelle,10
+32000.0,Ford,Ranger,13,26153,Diesel,Manuelle,10
+90000.0,Ford,Ranger,12,16750,Diesel,Manuelle,7
+115000.0,Ford,Ranger,10,5300,Diesel,Automatique,7
+139000.0,Ford,Ranger,4,22500,Diesel,Automatique,7
+8000.0,Ford,Streetka,64,1762,Diesel,Manuelle,8
+31500.0,Geely,GKGL,5,16399,Essence,Manuelle,6
+47000.0,Geely,GKGL,3,25666,Essence,Automatique,6
+54000.0,Geely,GKGL,3,0,Essence,Automatique,6
+11111.0,Geely,GKGL,3,51666,Essence,Manuelle,6
+53000.0,Geely,GKGL,3,15766,Essence,Automatique,6
+54000.0,Geely,GKGL,3,15000,Essence,Manuelle,6
+37000.0,Geely,GKGS,4,28750,Essence,Manuelle,6
+31500.0,Geely,GKGT,3,50333,Essence,Manuelle,6
+35000.0,Geely,LC,4,17979,Essence,Automatique,6
+27000.0,Geely,MKGT,4,17979,Essence,Manuelle,6
+37500.0,Great Wall,M4,7,12857,Essence,Manuelle,6
+29000.0,Great Wall,M4,6,11666,Essence,Manuelle,6
+80000.0,Great Wall,M4,3,21666,Essence,Automatique,9
+44000.0,Great Wall,M4,4,8500,Essence,Manuelle,6
+37000.0,Great Wall,M4,7,27000,Essence,Manuelle,6
+39000.0,Great Wall,M4,7,10986,Essence,Manuelle,6
+39000.0,Great Wall,M4,6,11666,Essence,Manuelle,6
+40000.0,Great Wall,M4,6,14833,Essence,Manuelle,6
+41000.0,Great Wall,M4,3,34000,Essence,Manuelle,6
+108000.0,Great Wall,Poer MT,3,20000,Diesel,Manuelle,11
+73800.0,Haval,H6,5,28000,Essence,Automatique,9
+75000.0,Haval,H6,5,37600,Essence,Manuelle,12
+72000.0,Haval,H6,4,20000,Essence,Automatique,9
+82000.0,Haval,H6,3,32833,Essence,Automatique,9
+120000.0,Haval,H6,2,10000,Essence,Automatique,8
+68000.0,Haval,Jolion,1,20000,Electrique,Automatique,9
+80000.0,Haval,Jolion,3,21666,Essence,Automatique,9
+75000.0,Honda,Accord,13,3461,Essence,Automatique,18
+31500.0,Honda,Amaze,5,21800,Essence,Manuelle,5
+26500.0,Honda,Amaze,8,8750,Essence,Manuelle,5
+45000.0,Honda,Civic,5,16836,Essence,Automatique,7
+50000.0,Honda,City,5,17300,Essence,Automatique,7
+72000.0,Honda,City,2,36134,Essence,Automatique,6
+5800.0,Honda,Civic,40,1806,Essence,Manuelle,5
+71900.0,Honda,Civic,7,10428,Essence,Automatique,10
+71900.0,Honda,Civic,7,10428,Essence,Automatique,10
+95000.0,Honda,Crv,5,36000,Essence,Automatique,11
+29000.0,Hyundai,Accent,9,9014,Essence,Manuelle,5
+36000.0,Hyundai,Accent,8,10141,Essence,Manuelle,6
+65000.0,Hyundai,Accent,4,19000,Essence,Automatique,6
+80000.0,Hyundai,Accent,2,25000,Essence,Automatique,6
+110000.0,Hyundai,Creta,0,0,Essence,Automatique,16
+12000.0,Hyundai,H-100,24,3380,Diesel,Manuelle,10
+7000.0,Hyundai,H1,17,4772,Diesel,Manuelle,9
+15000.0,Hyundai,I10,16,5625,Diesel,Manuelle,10
+42000.0,Hyundai,I10,7,4285,Essence,Manuelle,5
+65000.0,Hyundai,Creta,6,20000,Essence,Manuelle,7
+80000.0,Hyundai,I10,4,20000,Diesel,Manuelle,8
+35000.0,Hyundai,Azera,16,5070,Essence,Automatique,8
+50000.0,Hyundai,Elantra,4,15000,Essence,Automatique,4
+11000.0,Hyundai,Elantra,29,10344,Essence,Manuelle,6
+43000.0,Hyundai,Elantra,9,12222,Essence,Manuelle,7
+55000.0,Hyundai,Elantra,7,22571,Essence,Manuelle,7
+25000.0,Hyundai,Galloper,30,3703,Diesel,Manuelle,10
+25000.0,Hyundai,Galloper,29,2797,Diesel,Manuelle,10
+25000.0,Hyundai,Galloper,29,2797,Diesel,Manuelle,10
+33000.0,Hyundai,Galloper,22,15909,Diesel,Manuelle,9
+34000.0,Hyundai,I10,4,24250,Essence,Manuelle,5
+44000.0,Hyundai,I10,3,31666,Essence,Automatique,5
+51000.0,Hyundai,I10,3,23000,Essence,Automatique,5
+42500.0,Hyundai,I10,3,26666,Essence,Manuelle,4
+45000.0,Hyundai,I10,2,2055,Essence,Manuelle,4
+41900.0,Hyundai,I10,1,55000,Essence,Manuelle,5
+123000.0,Hyundai,I10,1,81133,Essence,Manuelle,4
+43500.0,Hyundai,I10,1,81133,Essence,Manuelle,4
+55000.0,Hyundai,I10,1,7000,Essence,Manuelle,5
+20000.0,Hyundai,I10,14,11500,Diesel,Manuelle,4
+24500.0,Hyundai,I10,11,7375,Essence,Manuelle,4
+28800.0,Hyundai,I10,11,13727,Essence,Manuelle,5
+25000.0,Hyundai,I10,11,15454,Essence,Manuelle,4
+30000.0,Hyundai,I10,10,8113,Essence,Manuelle,5
+23000.0,Hyundai,I10,10,22000,Essence,Manuelle,5
+28500.0,Hyundai,I10,9,27777,Essence,Manuelle,5
+33000.0,Hyundai,I10,9,9014,Essence,Manuelle,5
+27500.0,Hyundai,I10,8,12875,Essence,Manuelle,4
+34000.0,Hyundai,I10,8,10141,Essence,Manuelle,5
+21000.0,Hyundai,I10,8,22500,Essence,Manuelle,5
+38000.0,Hyundai,I10,8,9625,Essence,Manuelle,5
+30000.0,Hyundai,I10,8,10141,Essence,Manuelle,5
+30500.0,Hyundai,I10,8,5875,Essence,Manuelle,4
+36500.0,Hyundai,I10,8,16688,Essence,Manuelle,5
+37900.0,Hyundai,I10,7,18571,Essence,Automatique,5
+39900.0,Hyundai,I10,7,13857,Essence,Manuelle,5
+34500.0,Hyundai,I10,7,18857,Essence,Automatique,5
+33500.0,Hyundai,I10,7,11590,Essence,Automatique,5
+35000.0,Hyundai,I10,7,19428,Essence,Automatique,5
+35000.0,Hyundai,I10,7,11590,Essence,Automatique,5
+38500.0,Hyundai,I10,6,13522,Essence,Automatique,5
+34800.0,Hyundai,I10,6,14666,Essence,Manuelle,5
+29500.0,Hyundai,I10,6,23333,Essence,Manuelle,5
+31000.0,Hyundai,I10,6,22500,Essence,Manuelle,5
+34500.0,Hyundai,I10,6,15000,Essence,Manuelle,5
+46900.0,Hyundai,I10,5,22500,Essence,Manuelle,5
+34300.0,Hyundai,I10,5,40000,Essence,Manuelle,5
+45000.0,Hyundai,I10,5,3000,Essence,Manuelle,5
+35800.0,Hyundai,I10,5,12800,Essence,Manuelle,5
+38900.0,Hyundai,I10,4,20500,Essence,Automatique,5
+38900.0,Hyundai,I10,4,20500,Essence,Automatique,5
+35900.0,Hyundai,I10,4,21250,Essence,Manuelle,5
+36900.0,Hyundai,I10,4,20000,Essence,Manuelle,5
+38900.0,Hyundai,I10,4,21250,Essence,Automatique,5
+37900.0,Hyundai,I10,4,20000,Essence,Manuelle,5
+37900.0,Hyundai,I10,4,19250,Essence,Manuelle,5
+40000.0,Hyundai,I10,4,25750,Essence,Automatique,5
+35900.0,Hyundai,I10,4,20500,Essence,Manuelle,5
+37500.0,Hyundai,I10,4,19000,Essence,Manuelle,5
+35900.0,Hyundai,I10,4,20500,Essence,Manuelle,5
+35900.0,Hyundai,I10,4,18750,Essence,Manuelle,5
+35900.0,Hyundai,I10,4,20250,Essence,Manuelle,5
+33500.0,Hyundai,I10,4,28500,Essence,Manuelle,5
+34500.0,Hyundai,I10,4,30000,Essence,Manuelle,5
+37900.0,Hyundai,I10,4,18250,Essence,Manuelle,5
+36500.0,Hyundai,I10,4,25000,Essence,Manuelle,5
+37900.0,Hyundai,I10,4,20500,Essence,Automatique,5
+41000.0,Hyundai,I10,4,16075,Essence,Manuelle,5
+36000.0,Hyundai,I10,4,21750,Essence,Manuelle,5
+38000.0,Hyundai,I10,4,23000,Essence,Manuelle,5
+39000.0,Hyundai,I10,4,12855,Essence,Manuelle,5
+54000.0,Hyundai,I10,4,22500,Essence,Automatique,6
+34500.0,Hyundai,I10,4,75000,Essence,Manuelle,5
+47000.0,Hyundai,I10,3,33333,Essence,Automatique,5
+43000.0,Hyundai,I10,3,16668,Essence,Manuelle,5
+43000.0,Hyundai,I10,3,16600,Essence,Manuelle,5
+38500.0,Hyundai,I10,3,34000,Essence,Manuelle,5
+41800.0,Hyundai,I10,3,15333,Essence,Manuelle,5
+43000.0,Hyundai,I10,3,6833,Essence,Manuelle,4
+111111.0,Hyundai,I10,3,21666,Essence,Manuelle,4
+50000.0,Hyundai,I10,3,13666,Essence,Manuelle,5
+41900.0,Hyundai,I10,3,24333,Essence,Manuelle,5
+43900.0,Hyundai,I10,3,25666,Essence,Manuelle,5
+123000.0,Hyundai,I10,3,27044,Essence,Automatique,5
+46000.0,Hyundai,I10,3,16666,Essence,Automatique,5
+42500.0,Hyundai,I10,3,10000,Essence,Manuelle,4
+43900.0,Hyundai,I10,3,22333,Essence,Manuelle,5
+43900.0,Hyundai,I10,3,20333,Essence,Manuelle,5
+41900.0,Hyundai,I10,2,40566,Essence,Manuelle,5
+50000.0,Hyundai,I10,2,12000,Essence,Automatique,4
+41900.0,Hyundai,I10,2,36500,Essence,Manuelle,5
+41900.0,Hyundai,I10,2,37000,Essence,Manuelle,5
+41900.0,Hyundai,I10,2,33000,Essence,Manuelle,5
+41900.0,Hyundai,I10,2,40566,Essence,Manuelle,5
+41900.0,Hyundai,I10,2,40566,Essence,Manuelle,5
+45000.0,Hyundai,I10,2,40566,Essence,Manuelle,4
+49500.0,Hyundai,I10,2,6000,Essence,Manuelle,5
+30000.0,Hyundai,I20,10,8113,Essence,Manuelle,4
+45000.0,Hyundai,I20,3,24000,Essence,Manuelle,5
+69500.0,Hyundai,I20,1,9300,Essence,Manuelle,5
+28500.0,Hyundai,I20,11,7375,Essence,Manuelle,5
+28500.0,Hyundai,I20,11,18636,Essence,Manuelle,4
+32000.0,Hyundai,I20,11,15909,Essence,Manuelle,4
+29000.0,Hyundai,I20,11,10909,Essence,Manuelle,4
+33000.0,Hyundai,I20,10,8600,Essence,Manuelle,4
+29000.0,Hyundai,I20,9,9014,Essence,Manuelle,4
+32000.0,Hyundai,I20,8,30625,Essence,Manuelle,4
+42000.0,Hyundai,I20,7,16142,Essence,Manuelle,5
+42000.0,Hyundai,I20,7,11590,Essence,Manuelle,5
+38000.0,Hyundai,I20,6,24333,Essence,Manuelle,5
+45000.0,Hyundai,I20,6,13522,Essence,Manuelle,5
+42000.0,Hyundai,I20,6,35833,Essence,Manuelle,5
+42000.0,Hyundai,I20,6,35833,Essence,Manuelle,5
+40500.0,Hyundai,I20,5,16226,Essence,Manuelle,5
+43000.0,Hyundai,I20,5,16226,Essence,Manuelle,5
+45000.0,Hyundai,I20,5,16226,Essence,Manuelle,5
+42900.0,Hyundai,I20,4,20249,Essence,Manuelle,5
+43000.0,Hyundai,I20,4,24250,Essence,Manuelle,5
+41900.0,Hyundai,I20,4,19250,Essence,Manuelle,5
+42500.0,Hyundai,I20,4,21250,Essence,Manuelle,5
+42500.0,Hyundai,I20,4,21250,Essence,Manuelle,5
+42900.0,Hyundai,I20,4,22750,Essence,Manuelle,5
+46500.0,Hyundai,I20,4,26675,Essence,Manuelle,5
+43000.0,Hyundai,I20,4,20283,Essence,Manuelle,5
+42900.0,Hyundai,I20,4,20250,Essence,Manuelle,5
+45000.0,Hyundai,I20,4,28500,Essence,Manuelle,5
+42900.0,Hyundai,I20,4,22750,Essence,Manuelle,5
+42900.0,Hyundai,I20,4,20250,Essence,Manuelle,5
+42900.0,Hyundai,I20,4,20250,Essence,Manuelle,5
+46000.0,Hyundai,I20,3,26333,Essence,Manuelle,5
+43900.0,Hyundai,I20,3,25666,Essence,Manuelle,5
+95400.0,Hyundai,I30,0,0,Essence,Automatique,7
+42000.0,Hyundai,I40,12,19833,Diesel,Automatique,7
+55000.0,Hyundai,Ix35,11,22727,Diesel,Manuelle,6
+85000.0,Hyundai,Santa Fe,1,5000,Hybride,Automatique,12
+111000.0,Hyundai,Santa Fe,7,11590,Diesel,Automatique,12
+90000.0,Hyundai,Tucson,5,7400,Diesel,Manuelle,4
+106000.0,Hyundai,Tucson,4,23750,Diesel,Automatique,7
+95800.0,Hyundai,Tucson,3,43333,Essence,Automatique,8
+135000.0,Hyundai,Tucson,2,40000,Diesel,Automatique,7
+65000.0,Hyundai,Tucson,8,26875,Essence,Automatique,11
+86000.0,Hyundai,Tucson,5,22200,Essence,Automatique,8
+97000.0,Hyundai,Tucson,4,25500,Diesel,Automatique,7
+33500.0,Hyundai,Veloster,11,13636,Essence,Automatique,8
+36000.0,Hyundai,Veloster,11,18000,Essence,Automatique,8
+47000.0,Infiniti,Fx,16,6250,Essence,Automatique,20
+52000.0,Infiniti,Fx,16,11875,Essence,Automatique,20
+123484.0,Isuzu,Faster,34,11764,Diesel,Manuelle,10
+17200.0,Isuzu,Dmax,32,4822,Diesel,Manuelle,10
+11500.0,Isuzu,Dmax,31,11290,Diesel,Manuelle,10
+32000.0,Isuzu,Dmax,26,17884,Diesel,Manuelle,10
+53000.0,Isuzu,Dmax,4,42500,Diesel,Manuelle,10
+124000.0,Isuzu,Dmax,1,154311,Diesel,Manuelle,6
+115000.0,Isuzu,Dmax,1,154311,Diesel,Manuelle,4
+125000.0,Isuzu,Dmax,0,0,Diesel,Manuelle,8
+125000.0,Isuzu,Dmax,0,0,Diesel,Manuelle,8
+40000.0,Isuzu,Dmax,26,15384,Diesel,Manuelle,11
+39000.0,Isuzu,Dmax,20,16500,Diesel,Manuelle,10
+38000.0,Isuzu,Dmax,18,22222,Diesel,Manuelle,10
+26500.0,Isuzu,Dmax,18,19111,Diesel,Manuelle,10
+44000.0,Isuzu,Dmax,18,8572,Diesel,Manuelle,10
+38000.0,Isuzu,Dmax,17,9077,Diesel,Manuelle,10
+50000.0,Isuzu,Dmax,17,16882,Diesel,Manuelle,10
+46000.0,Isuzu,Dmax,17,9077,Diesel,Manuelle,10
+60000.0,Isuzu,Dmax,13,15396,Diesel,Manuelle,12
+123000.0,Isuzu,Dmax,13,11870,Diesel,Manuelle,10
+50000.0,Isuzu,Dmax,13,29384,Diesel,Manuelle,8
+65000.0,Isuzu,Dmax,11,28909,Diesel,Manuelle,8
+110000.0,Isuzu,Dmax,10,15431,Diesel,Manuelle,10
+93000.0,Isuzu,Dmax,10,28400,Diesel,Manuelle,10
+114800.0,Isuzu,Dmax,10,15431,Diesel,Manuelle,8
+115000.0,Isuzu,Dmax,9,15000,Diesel,Manuelle,8
+55000.0,Isuzu,Dmax,8,19288,Diesel,Manuelle,8
+58000.0,Isuzu,Dmax,8,9375,Diesel,Manuelle,8
+55000.0,Isuzu,Dmax,7,15714,Diesel,Manuelle,8
+65000.0,Isuzu,Dmax,6,25718,Diesel,Manuelle,8
+54000.0,Isuzu,Dmax,6,36333,Diesel,Manuelle,7
+90000.0,Isuzu,Dmax,4,10000,Diesel,Manuelle,8
+130000.0,Isuzu,Dmax,2,77155,Diesel,Manuelle,6
+8500.0,Isuzu,Trooper Court,33,12289,Diesel,Manuelle,11
+16000.0,Isuzu,Trooper Court,25,6172,Diesel,Manuelle,9
+20000.0,Isuzu,Trooper Court,0,0,Diesel,Manuelle,10
+50000.0,Isuzu,Trooper Long,12,24166,Diesel,Manuelle,17
+120000.0,Jaguar,Xf,10,16000,Essence,Automatique,15
+150000.0,Jaguar,Xf,5,27400,Essence,Automatique,16
+127000.0,Jeep,Compass,3,12666,Essence,Manuelle,8
+87000.0,Jeep,Renegade,7,2550,Diesel,Manuelle,6
+65000.0,Jeep,Renegade,6,20000,Essence,Automatique,8
+68000.0,Jeep,Renegade,6,20333,Essence,Automatique,8
+76000.0,Jeep,Renegade,5,19000,Essence,Automatique,8
+85000.0,Jeep,Renegade,4,13250,Essence,Automatique,8
+33900.0,Kia,Picanto,11,11818,Essence,Manuelle,5
+33900.0,Kia,Picanto,11,11818,Essence,Manuelle,5
+34500.0,Kia,Rio,7,22857,Essence,Manuelle,4
+32800.0,Kia,K2700,6,47833,Diesel,Manuelle,9
+85000.0,Kia,Rio,3,36333,Essence,Automatique,8
+85000.0,Kia,Rio,3,34333,Essence,Automatique,5
+39000.0,Kia,Carnival,18,5266,Diesel,Manuelle,9
+30000.0,Kia,Cee D,14,17000,Essence,Manuelle,5
+42000.0,Kia,Cerato,13,5307,Essence,Manuelle,7
+43000.0,Kia,Cerato,11,20909,Essence,Automatique,8
+40000.0,Kia,Cerato,9,13555,Essence,Automatique,8
+20000.0,Kia,Leo,14,35714,Essence,Manuelle,4
+85000.0,Kia,Nitro,4,25750,Essence,Automatique,5
+33900.0,Kia,Picanto,12,7900,Essence,Manuelle,4
+35500.0,Kia,Picanto,5,18000,Essence,Manuelle,4
+43000.0,Kia,Picanto,4,23700,Essence,Manuelle,5
+41000.0,Kia,Picanto,3,7333,Essence,Manuelle,4
+41500.0,Kia,Picanto,3,21333,Essence,Manuelle,4
+50000.0,Kia,Picanto,3,19666,Essence,Automatique,4
+41000.0,Kia,Picanto,2,21500,Essence,Manuelle,4
+41000.0,Kia,Picanto,1,56000,Essence,Manuelle,4
+23000.0,Kia,Picanto,14,6771,Essence,Manuelle,4
+33900.0,Kia,Picanto,11,8618,Essence,Automatique,5
+123000.0,Kia,Picanto,11,13000,Essence,Manuelle,4
+33900.0,Kia,Picanto,11,11818,Essence,Manuelle,6
+27000.0,Kia,Picanto,11,8618,Essence,Manuelle,4
+33900.0,Kia,Picanto,11,11818,Essence,Automatique,5
+22000.0,Kia,Picanto,10,9480,Essence,Manuelle,4
+30000.0,Kia,Picanto,8,17250,Essence,Manuelle,4
+35000.0,Kia,Picanto,7,2571,Essence,Manuelle,4
+37500.0,Kia,Picanto,6,12833,Essence,Manuelle,4
+39500.0,Kia,Picanto,6,19833,Essence,Automatique,5
+123000.0,Kia,Picanto,6,9166,Essence,Manuelle,5
+39000.0,Kia,Picanto,6,15800,Essence,Manuelle,4
+38000.0,Kia,Picanto,6,2666,Essence,Automatique,5
+35500.0,Kia,Picanto,5,18600,Essence,Manuelle,4
+35800.0,Kia,Picanto,5,10600,Essence,Manuelle,4
+100000.0,Kia,Picanto,5,23400,Essence,Manuelle,4
+45000.0,Kia,Picanto,5,13200,Essence,Automatique,5
+123000.0,Kia,Picanto,5,18960,Essence,Manuelle,5
+39500.0,Kia,Picanto,5,15600,Essence,Manuelle,4
+38000.0,Kia,Picanto,5,18000,Essence,Manuelle,4
+35000.0,Kia,Picanto,5,28000,Essence,Manuelle,4
+45000.0,Kia,Picanto,5,14000,Essence,Automatique,5
+41000.0,Kia,Picanto,4,7950,Essence,Manuelle,4
+36700.0,Kia,Picanto,4,14625,Essence,Manuelle,4
+37500.0,Kia,Picanto,4,17500,Essence,Manuelle,4
+39000.0,Kia,Picanto,4,9250,Essence,Manuelle,4
+41900.0,Kia,Picanto,3,31600,Essence,Manuelle,5
+41900.0,Kia,Picanto,3,31600,Essence,Manuelle,5
+41900.0,Kia,Picanto,3,25000,Essence,Manuelle,5
+39500.0,Kia,Picanto,3,11666,Essence,Manuelle,4
+37500.0,Kia,Picanto,3,30000,Essence,Manuelle,4
+24000.0,Kia,Rio,14,28571,Essence,Manuelle,6
+32000.0,Kia,Rio,12,14166,Essence,Manuelle,5
+31000.0,Kia,Rio,12,7900,Essence,Manuelle,5
+39000.0,Kia,Rio,12,18083,Essence,Manuelle,5
+41000.0,Kia,Rio,8,11850,Essence,Manuelle,5
+52000.0,Kia,Rio,6,11333,Essence,Manuelle,5
+56800.0,Kia,Rio,5,16000,Essence,Manuelle,5
+61500.0,Kia,Rio,5,22600,Essence,Manuelle,6
+52000.0,Kia,Rio,4,23700,Essence,Manuelle,5
+54500.0,Kia,Rio,4,10000,Essence,Manuelle,5
+66000.0,Kia,Rio,3,15333,Essence,Manuelle,5
+62500.0,Kia,Rio,3,24333,Essence,Manuelle,5
+67000.0,Kia,Rio,2,35500,Essence,Manuelle,5
+67000.0,Kia,Rio,2,35500,Essence,Manuelle,5
+15000.0,Kia,Rio,22,4309,Essence,Manuelle,6
+26800.0,Kia,Rio,14,13214,Essence,Manuelle,6
+24500.0,Kia,Rio,14,16928,Essence,Manuelle,6
+22500.0,Kia,Rio,14,20142,Essence,Manuelle,6
+25000.0,Kia,Rio,14,23428,Essence,Manuelle,6
+22500.0,Kia,Rio,14,25000,Essence,Manuelle,7
+19800.0,Kia,Rio,14,6771,Essence,Manuelle,8
+22000.0,Kia,Rio,14,6771,Essence,Manuelle,6
+26000.0,Kia,Rio,13,7292,Essence,Manuelle,6
+35000.0,Kia,Rio,12,7900,Essence,Manuelle,5
+34500.0,Kia,Rio,12,9833,Essence,Manuelle,5
+27000.0,Kia,Rio,12,20000,Essence,Manuelle,6
+31000.0,Kia,Rio,12,17500,Essence,Manuelle,5
+32000.0,Kia,Rio,12,19083,Essence,Manuelle,5
+36000.0,Kia,Rio,12,15833,Essence,Manuelle,5
+29000.0,Kia,Rio,11,8618,Essence,Manuelle,5
+34000.0,Kia,Rio,11,16545,Essence,Manuelle,5
+32000.0,Kia,Rio,10,17100,Essence,Manuelle,5
+29500.0,Kia,Rio,10,9480,Essence,Manuelle,6
+32800.0,Kia,Rio,10,18500,Essence,Manuelle,5
+33500.0,Kia,Rio,10,22800,Essence,Manuelle,5
+38900.0,Kia,Rio,10,9480,Essence,Manuelle,5
+37500.0,Kia,Rio,9,14444,Essence,Manuelle,5
+38500.0,Kia,Rio,9,12888,Essence,Manuelle,5
+40800.0,Kia,Rio,9,13666,Essence,Manuelle,5
+38000.0,Kia,Rio,9,18438,Essence,Manuelle,5
+37500.0,Kia,Rio,9,17777,Essence,Manuelle,5
+42000.0,Kia,Rio,9,22777,Essence,Manuelle,5
+40000.0,Kia,Rio,8,17931,Essence,Manuelle,5
+40000.0,Kia,Rio,8,17500,Essence,Manuelle,5
+33000.0,Kia,Rio,8,11850,Essence,Manuelle,6
+38500.0,Kia,Rio,8,16250,Essence,Manuelle,5
+39000.0,Kia,Rio,8,14375,Essence,Manuelle,5
+35000.0,Kia,Rio,8,22125,Essence,Manuelle,5
+41000.0,Kia,Rio,8,15375,Essence,Manuelle,5
+36000.0,Kia,Rio,8,20500,Essence,Manuelle,5
+36000.0,Kia,Rio,8,22875,Essence,Manuelle,5
+39400.0,Kia,Rio,8,11850,Essence,Manuelle,5
+43000.0,Kia,Rio,7,15000,Essence,Manuelle,5
+39500.0,Kia,Rio,7,31571,Essence,Manuelle,5
+41000.0,Kia,Rio,7,22142,Essence,Manuelle,5
+38500.0,Kia,Rio,7,13542,Essence,Manuelle,5
+39900.0,Kia,Rio,7,14285,Essence,Manuelle,5
+38500.0,Kia,Rio,7,13542,Essence,Manuelle,5
+41000.0,Kia,Rio,7,17857,Essence,Manuelle,5
+39500.0,Kia,Rio,7,17857,Essence,Manuelle,5
+39900.0,Kia,Rio,7,14285,Essence,Manuelle,5
+35500.0,Kia,Rio,7,21285,Essence,Manuelle,5
+37000.0,Kia,Rio,7,13542,Essence,Manuelle,4
+36500.0,Kia,Rio,6,17166,Essence,Manuelle,5
+49500.0,Kia,Rio,6,17233,Essence,Manuelle,5
+48800.0,Kia,Rio,6,20000,Essence,Manuelle,5
+49000.0,Kia,Rio,6,26666,Essence,Manuelle,5
+47000.0,Kia,Rio,6,20000,Essence,Manuelle,5
+52000.0,Kia,Rio,5,18960,Essence,Manuelle,5
+48000.0,Kia,Rio,5,30000,Essence,Manuelle,5
+55000.0,Kia,Rio,5,18960,Essence,Automatique,6
+42000.0,Kia,Rio,5,29400,Essence,Manuelle,5
+53000.0,Kia,Rio,5,18960,Essence,Manuelle,5
+11111.0,Kia,Rio,5,21800,Essence,Manuelle,5
+54000.0,Kia,Rio,5,21200,Essence,Manuelle,5
+123000.0,Kia,Rio,5,18960,Essence,Manuelle,5
+54000.0,Kia,Rio,4,23700,Essence,Automatique,5
+56000.0,Kia,Rio,4,14750,Essence,Manuelle,5
+58500.0,Kia,Rio,4,9000,Essence,Manuelle,5
+123000.0,Kia,Rio,4,23700,Essence,Manuelle,5
+46500.0,Kia,Rio,4,19000,Essence,Manuelle,5
+53000.0,Kia,Rio,4,24500,Essence,Automatique,5
+56500.0,Kia,Rio,4,12500,Essence,Manuelle,5
+46000.0,Kia,Rio,4,26250,Essence,Manuelle,5
+49300.0,Kia,Rio,4,35000,Essence,Manuelle,5
+55000.0,Kia,Rio,4,22384,Essence,Manuelle,5
+58500.0,Kia,Rio,4,23700,Essence,Manuelle,5
+70000.0,Kia,Rio,3,18333,Essence,Manuelle,5
+63500.0,Kia,Rio,3,20000,Essence,Manuelle,4
+63500.0,Kia,Rio,3,12666,Essence,Manuelle,5
+63500.0,Kia,Rio,3,21000,Essence,Manuelle,5
+56000.0,Kia,Rio,3,21000,Essence,Manuelle,4
+65000.0,Kia,Rio,3,31600,Essence,Manuelle,5
+56000.0,Kia,Rio,3,11233,Essence,Manuelle,5
+53000.0,Kia,Rio,3,23333,Essence,Manuelle,5
+66000.0,Kia,Rio,2,35000,Essence,Manuelle,5
+65000.0,Kia,Rio,2,37500,Essence,Manuelle,5
+62000.0,Kia,Rio,2,20000,Essence,Manuelle,5
+12345.0,Kia,Rio,2,14600,Essence,Manuelle,5
+67500.0,Kia,Rio,2,6000,Essence,Manuelle,5
+71000.0,Kia,Rio,2,2100,Essence,Manuelle,5
+64000.0,Kia,Rio,2,23665,Essence,Manuelle,5
+55500.0,Kia,Rio,2,26250,Essence,Manuelle,5
+65000.0,Kia,Rio,2,47400,Essence,Manuelle,5
+65000.0,Kia,Rio,2,47400,Essence,Manuelle,5
+65000.0,Kia,Rio,2,32500,Essence,Manuelle,6
+62400.0,Kia,Rio,2,25940,Essence,Manuelle,5
+71000.0,Kia,Rio,2,2100,Essence,Manuelle,5
+65000.0,Kia,Rio,2,47400,Essence,Manuelle,5
+43000.0,Kia,Sorento,13,24615,Diesel,Automatique,12
+48000.0,Kia,Sorento,13,17692,Diesel,Automatique,12
+70000.0,Kia,Sorento,10,24000,Essence,Automatique,11
+84000.0,Kia,Sportage,7,13542,Diesel,Manuelle,7
+76000.0,Kia,Sportage,7,13542,Essence,Automatique,8
+115000.0,Kia,Sportage,5,18960,Essence,Automatique,7
+78500.0,Kia,Sportage,5,36000,Essence,Automatique,8
+105000.0,Kia,Sportage,5,20200,Diesel,Automatique,6
+91000.0,Kia,Sportage,15,6320,Essence,Automatique,11
+49500.0,Kia,Sportage,13,16307,Diesel,Automatique,11
+57500.0,Kia,Sportage,12,15166,Diesel,Manuelle,6
+52000.0,Kia,Sportage,12,25000,Diesel,Manuelle,7
+49000.0,Kia,Sportage,12,7900,Diesel,Manuelle,11
+61300.0,Kia,Sportage,11,19181,Diesel,Manuelle,7
+60000.0,Kia,Sportage,11,22000,Diesel,Manuelle,6
+57900.0,Kia,Sportage,11,12727,Diesel,Automatique,11
+57900.0,Kia,Sportage,11,12727,Diesel,Automatique,11
+57900.0,Kia,Sportage,11,12727,Diesel,Manuelle,4
+57000.0,Kia,Sportage,11,8618,Essence,Automatique,11
+57000.0,Kia,Sportage,11,8618,Diesel,Automatique,10
+57000.0,Kia,Sportage,10,9480,Essence,Automatique,11
+65000.0,Kia,Sportage,10,9480,Diesel,Manuelle,6
+5000.0,Kia,Sportage,9,10533,Essence,Automatique,11
+75000.0,Kia,Sportage,8,7500,Essence,Automatique,8
+100000.0,Kia,Sportage,7,18285,Diesel,Automatique,10
+88000.0,Kia,Sportage,7,30000,Diesel,Automatique,10
+15000.0,Kia,Sportage,7,12142,Diesel,Automatique,7
+71000.0,Kia,Sportage,7,31428,Essence,Automatique,8
+100000.0,Kia,Sportage,7,32857,Diesel,Automatique,10
+76000.0,Kia,Sportage,6,24833,Essence,Automatique,7
+90000.0,Kia,Sportage,6,29500,Diesel,Automatique,7
+86000.0,Kia,Sportage,6,26000,Essence,Automatique,8
+90000.0,Kia,Sportage,5,18960,Essence,Automatique,8
+110000.0,Kia,Sportage,5,18400,Essence,Automatique,11
+111111.0,Kia,Sportage,5,21000,Essence,Automatique,9
+98000.0,Kia,Sportage,4,21250,Essence,Automatique,11
+114900.0,Kia,Sportage,4,22500,Essence,Automatique,7
+114900.0,Kia,Sportage,4,22500,Diesel,Automatique,7
+85900.0,Kia,Sportage,4,15000,Essence,Manuelle,8
+114900.0,Kia,Sportage,4,22499,Diesel,Automatique,7
+114900.0,Kia,Sportage,4,22500,Diesel,Automatique,7
+95000.0,Kia,Sportage,3,15666,Essence,Automatique,8
+118500.0,Kia,Sportage,3,19333,Essence,Automatique,11
+95000.0,Kia,Sportage,3,15666,Essence,Automatique,8
+95000.0,Kia,Sportage,3,15666,Essence,Automatique,8
+105000.0,Kia,Sportage,3,30666,Hybride,Manuelle,7
+125000.0,Kia,Sportage,3,36666,Essence,Automatique,4
+143000.0,Kia,Sportage,2,20000,Essence,Automatique,10
+30000.0,Lada,Niva,6,16666,Essence,Manuelle,7
+36900.0,Lada,Niva,6,7833,Essence,Manuelle,7
+36000.0,Lada,Niva,6,11666,Essence,Manuelle,7
+32500.0,Lada,Niva,4,5000,Essence,Manuelle,7
+32500.0,Lada,Niva,4,5000,Essence,Manuelle,7
+105000.0,Land Rover,Range Rover Evoque,11,12727,Essence,Automatique,15
+75000.0,Land Rover,Defender,18,10555,Diesel,Manuelle,8
+130000.0,Land Rover,Range Rover,16,10875,Diesel,Automatique,13
+110000.0,Land Rover,Range Rover,14,10642,Diesel,Automatique,16
+95000.0,Land Rover,Range Rover,12,16666,Diesel,Automatique,11
+105000.0,Land Rover,Range Rover,12,12416,Essence,Automatique,15
+114900.0,Land Rover,Range Rover,12,15833,Diesel,Automatique,8
+114900.0,Land Rover,Range Rover,12,15833,Essence,Automatique,8
+114900.0,Land Rover,Range Rover,12,15833,Essence,Automatique,8
+114900.0,Land Rover,Range Rover,12,15833,Diesel,Automatique,8
+114900.0,Land Rover,Range Rover,12,15833,Diesel,Automatique,8
+114900.0,Land Rover,Range Rover,12,15833,Diesel,Automatique,8
+114900.0,Land Rover,Range Rover,12,15833,Diesel,Automatique,8
+114900.0,Land Rover,Range Rover,12,15833,Diesel,Automatique,8
+114900.0,Land Rover,Range Rover,12,15833,Essence,Automatique,8
+114900.0,Land Rover,Range Rover,12,15833,Diesel,Automatique,8
+125000.0,Land Rover,Range Rover,12,15000,Diesel,Automatique,11
+145000.0,Land Rover,Range Rover,10,17100,Diesel,Automatique,11
+28000.0,Mahindra,KUV100 K8,5,14993,Essence,Manuelle,5
+28100.0,Mahindra,KUV100 K6,5,21400,Essence,Manuelle,5
+35000.0,Mahindra,KUV100 K8,2,37484,Essence,Manuelle,5
+36500.0,Mahindra,KUV100 K6,2,37484,Essence,Manuelle,5
+61000.0,Mahindra,XUV300,1,6500,Essence,Manuelle,6
+58000.0,Mahindra,KUV100 K8,1,74968,Essence,Manuelle,6
+37200.0,Mahindra,KUV100 K6,1,16680,Essence,Manuelle,5
+27000.0,Mahindra,Scorpio,9,23222,Diesel,Manuelle,8
+33900.0,Mahindra,KUV100 K8,9,24222,Diesel,Manuelle,8
+21000.0,Mahindra,Bolero,9,8329,Diesel,Manuelle,7
+28500.0,Mahindra,KUV100 K8,6,16666,Essence,Manuelle,5
+48000.0,Mahindra,Scorpio,6,31666,Diesel,Manuelle,7
+31000.0,Mahindra,KUV100 K8,6,14166,Essence,Manuelle,5
+27000.0,Mahindra,KUV100 K8,6,12666,Essence,Manuelle,5
+28000.0,Mahindra,KUV100 K8,6,12494,Essence,Manuelle,5
+24500.0,Mahindra,KUV100 K8,5,18940,Essence,Manuelle,5
+27000.0,Mahindra,KUV100 K8,5,11600,Essence,Manuelle,5
+27000.0,Mahindra,KUV100 K8,5,16800,Essence,Manuelle,5
+26000.0,Mahindra,KUV100 K6,5,38000,Essence,Manuelle,5
+29500.0,Mahindra,KUV100 K6,5,27600,Essence,Manuelle,5
+34000.0,Mahindra,KUV100 K8,5,6200,Essence,Manuelle,5
+26900.0,Mahindra,KUV100 K8,5,32000,Essence,Manuelle,5
+26000.0,Mahindra,KUV100 K6,5,38000,Essence,Manuelle,5
+32500.0,Mahindra,KUV100 K6,5,14993,Essence,Manuelle,5
+27000.0,Mahindra,KUV100 K8,5,24800,Essence,Automatique,5
+27500.0,Mahindra,KUV100 K6,5,12800,Essence,Manuelle,5
+30000.0,Mahindra,KUV100 K8,5,22200,Essence,Manuelle,5
+31000.0,Mahindra,KUV100 K8,5,13600,Essence,Manuelle,5
+32500.0,Mahindra,KUV100 K8,4,17500,Essence,Manuelle,5
+34500.0,Mahindra,KUV100 K8,4,25000,Essence,Manuelle,5
+34900.0,Mahindra,KUV100 K8,4,18742,Essence,Manuelle,5
+32000.0,Mahindra,KUV100 K8,4,10750,Essence,Manuelle,5
+33000.0,Mahindra,KUV100 K8,4,20000,Essence,Manuelle,4
+33000.0,Mahindra,KUV100 K8,4,24000,Essence,Manuelle,5
+31000.0,Mahindra,KUV100 K6,4,21500,Essence,Manuelle,5
+32000.0,Mahindra,KUV100 K8,4,24000,Essence,Manuelle,5
+34900.0,Mahindra,KUV100 K8,4,12500,Essence,Manuelle,5
+34900.0,Mahindra,KUV100 K8,4,12500,Essence,Manuelle,5
+29500.0,Mahindra,KUV100 K6,4,23125,Essence,Manuelle,6
+33800.0,Mahindra,KUV100 K8,4,16750,Essence,Manuelle,5
+33500.0,Mahindra,KUV100 K8,3,24989,Essence,Manuelle,5
+35000.0,Mahindra,KUV100 K8,3,21333,Essence,Manuelle,5
+35000.0,Mahindra,KUV100 K8,3,22333,Essence,Manuelle,5
+34000.0,Mahindra,KUV100 K6,3,20666,Essence,Manuelle,5
+111000.0,Mahindra,KUV100 K8,2,37484,Essence,Manuelle,5
+34000.0,Mahindra,KUV100 K8,2,20000,Essence,Manuelle,5
+28000.0,Mahindra,Bolera,5,29600,Essence,Manuelle,5
+32000.0,Mahindra,Goa,4,16250,Essence,Manuelle,5
+132000.0,Maserati,Ghibli,8,18,Diesel,Automatique,33
+100000.0,Mazda,121,24,4502,Diesel,Manuelle,4
+9000.0,Mazda,121,4,27013,Diesel,Manuelle,9
+123000.0,Mazda,2,9,18333,Essence,Manuelle,5
+27000.0,Mazda,2,9,18333,Essence,Manuelle,5
+34000.0,Mazda,2,9,12005,Essence,Manuelle,6
+32000.0,Mazda,2,8,13506,Essence,Manuelle,6
+37000.0,Mazda,2,8,22000,Essence,Automatique,6
+43000.0,Mazda,2,7,17857,Essence,Manuelle,6
+29000.0,Mazda,2,7,15436,Essence,Manuelle,6
+36000.0,Mazda,2,7,27142,Essence,Manuelle,6
+40000.0,Mazda,2,7,15436,Essence,Manuelle,6
+37500.0,Mazda,2,6,18008,Essence,Manuelle,6
+34000.0,Mazda,2,6,28500,Essence,Manuelle,6
+43000.0,Mazda,2,6,18008,Essence,Manuelle,6
+41000.0,Mazda,3,9,12005,Essence,Manuelle,6
+46000.0,Mazda,3,8,10412,Essence,Manuelle,6
+55000.0,Mazda,3,7,14714,Essence,Manuelle,6
+48000.0,Mazda,3,6,27166,Essence,Manuelle,6
+63000.0,Mazda,3,6,5000,Essence,Manuelle,6
+53000.0,Mazda,3,6,21666,Essence,Manuelle,6
+50000.0,Mazda,3,6,27166,Essence,Manuelle,6
+24000.0,Mazda,5,17,14117,Diesel,Manuelle,9
+39000.0,Mazda,6,11,20909,Essence,Automatique,9
+65000.0,Mazda,6,8,17625,Essence,Automatique,9
+33000.0,Mazda,Aures,22,4911,Diesel,Manuelle,12
+18000.0,Mazda,Aures,21,14999,Diesel,Manuelle,12
+29500.0,Mazda,Aures,20,25000,Diesel,Manuelle,12
+60000.0,Mazda,Aures,17,7058,Diesel,Manuelle,10
+30000.0,Mazda,Aures,17,6356,Diesel,Manuelle,10
+37500.0,Mazda,Aures,14,12071,Essence,Automatique,20
+37500.0,Mazda,Aures,14,12071,Essence,Automatique,20
+57000.0,Mazda,Aures,9,17000,Diesel,Manuelle,9
+65000.0,Mazda,Aures,7,22142,Diesel,Manuelle,9
+59000.0,Mazda,CX5,10,15300,Essence,Automatique,9
+47000.0,Mazda,CX5,11,21818,Essence,Manuelle,9
+55000.0,Mazda,CX5,10,15300,Essence,Automatique,9
+57000.0,Mazda,CX5,9,23333,Essence,Automatique,9
+55000.0,Mazda,CX5,8,25000,Essence,Automatique,9
+74000.0,Mazda,CX5,6,25000,Essence,Automatique,9
+110000.0,Mazda,CX5,6,18008,Essence,Automatique,5
+110000.0,Mazda,CX5,5,12000,Essence,Automatique,9
+31000.0,Mazda,CX7,14,12202,Essence,Automatique,17
+26000.0,Mazda,CX7,12,19166,Essence,Automatique,15
+125000.0,Mazda,Mx5,5,2800,Essence,Automatique,9
+125000.0,Mazda,Mx5,5,2800,Essence,Automatique,9
+125000.0,Mazda,Mx5,5,2800,Essence,Automatique,9
+124900.0,Mazda,Mx5,5,21610,Essence,Automatique,11
+125000.0,Mazda,Mx5,5,2800,Essence,Automatique,9
+125000.0,Mazda,Mx5,5,2800,Essence,Automatique,9
+123000.0,Mazda,Mx5,5,2800,Essence,Automatique,9
+32000.0,Mazda,Tribute,16,6753,Diesel,Manuelle,10
+13000.0,Mercedes,190series,38,3272,Diesel,Manuelle,7
+9200.0,Mercedes,190series,38,3272,Diesel,Manuelle,9
+11900.0,Mercedes,190series,34,6470,Essence,Manuelle,7
+65000.0,Mercedes,200,13,13076,Essence,Automatique,11
+10000.0,Mercedes,200,44,2826,Diesel,Manuelle,10
+8500.0,Mercedes,200,42,2960,Diesel,Manuelle,8
+28500.0,Mercedes,200,24,12762,Diesel,Manuelle,6
+35000.0,Mercedes,200,21,13761,Diesel,Manuelle,7
+40000.0,Mercedes,200,18,14555,Essence,Automatique,12
+44000.0,Mercedes,200,17,17647,Essence,Automatique,11
+63000.0,Mercedes,200,13,15384,Essence,Automatique,11
+37000.0,Mercedes,200,10,12435,Essence,Manuelle,5
+15000.0,Mercedes,250,34,3657,Diesel,Manuelle,9
+18000.0,Mercedes,250,34,8823,Diesel,Manuelle,8
+13000.0,Mercedes,250,34,5882,Diesel,Automatique,7
+16000.0,Mercedes,250,33,3768,Diesel,Automatique,5
+16000.0,Mercedes,250,33,3768,Diesel,Automatique,5
+16500.0,Mercedes,250,33,3768,Diesel,Manuelle,5
+31000.0,Mercedes,Classe C,9,13816,Essence,Manuelle,5
+29500.0,Mercedes,C220,23,4830,Diesel,Manuelle,8
+30000.0,Mercedes,ML270,21,5921,Diesel,Automatique,11
+22000.0,Mercedes,Classe C,18,13333,Essence,Automatique,6
+35000.0,Mercedes,Classe C,18,18333,Diesel,Manuelle,9
+135000.0,Mercedes,Classe C,5,11000,Essence,Automatique,6
+85000.0,Mercedes,Classe A,8,16250,Essence,Automatique,6
+96800.0,Mercedes,Classe A,4,33249,Diesel,Automatique,6
+13500.0,Mercedes,Classe A,41,3032,Diesel,Manuelle,10
+27500.0,Mercedes,Classe A,15,15866,Essence,Manuelle,6
+58000.0,Mercedes,Classe A,14,8882,Essence,Automatique,9
+30000.0,Mercedes,Classe A,13,7307,Essence,Manuelle,6
+32000.0,Mercedes,Classe A,13,7461,Essence,Manuelle,6
+59000.0,Mercedes,Classe A,11,11304,Diesel,Manuelle,5
+58000.0,Mercedes,Classe A,11,11304,Essence,Manuelle,7
+60000.0,Mercedes,Classe A,10,21000,Diesel,Automatique,5
+54000.0,Mercedes,Classe A,10,24000,Essence,Automatique,6
+78000.0,Mercedes,Classe A,10,11200,Essence,Manuelle,6
+52000.0,Mercedes,Classe A,10,12435,Essence,Manuelle,8
+72000.0,Mercedes,Classe A,7,18142,Essence,Manuelle,6
+68000.0,Mercedes,Classe A,7,17764,Essence,Manuelle,6
+105000.0,Mercedes,Classe A,5,14400,Essence,Manuelle,5
+5000.0,Mercedes,Classe A,5,24870,Essence,Automatique,7
+141000.0,Mercedes,Classe A,5,5000,Essence,Automatique,8
+115000.0,Mercedes,Classe A,4,16475,Essence,Manuelle,7
+120000.0,Mercedes,Classe A,4,17500,Diesel,Automatique,6
+140000.0,Mercedes,Classe A,4,31087,Diesel,Automatique,6
+89900.0,Mercedes,Classe A,4,34000,Essence,Automatique,7
+140000.0,Mercedes,Classe A,3,26000,Essence,Automatique,7
+143000.0,Mercedes,Classe A,2,62175,Essence,Automatique,7
+27000.0,Mercedes,Classe B,17,18411,Essence,Manuelle,6
+19000.0,Mercedes,Classe B,17,21764,Diesel,Manuelle,6
+52000.0,Mercedes,Classe B,12,15833,Essence,Manuelle,7
+85000.0,Mercedes,Classe C,8,14065,Essence,Manuelle,8
+139800.0,Mercedes,Classe C,8,15625,Essence,Automatique,9
+87000.0,Mercedes,Classe C,8,15543,Essence,Manuelle,8
+87000.0,Mercedes,Classe C,8,13856,Essence,Manuelle,8
+116000.0,Mercedes,Classe C,6,21666,Essence,Automatique,8
+129800.00000000001,Mercedes,Classe C,3,33333,Essence,Automatique,9
+48000.0,Mercedes,Classe C,16,9375,Diesel,Automatique,10
+45000.0,Mercedes,Classe C,16,15000,Diesel,Automatique,10
+42000.0,Mercedes,Classe C,16,18125,Essence,Automatique,9
+45000.0,Mercedes,Classe C,15,17333,Diesel,Manuelle,8
+55000.0,Mercedes,Classe C,15,8290,Essence,Automatique,9
+42000.0,Mercedes,Classe C,15,8290,Diesel,Automatique,10
+47000.0,Mercedes,Classe C,15,8290,Essence,Manuelle,9
+47000.0,Mercedes,Classe C,15,13866,Essence,Automatique,9
+50000.0,Mercedes,Classe C,15,13400,Essence,Automatique,9
+47000.0,Mercedes,Classe C,15,15933,Essence,Automatique,11
+50000.0,Mercedes,Classe C,14,14428,Essence,Manuelle,9
+5557.0,Mercedes,Classe C,14,8882,Essence,Automatique,9
+55600.0,Mercedes,Classe C,14,16714,Essence,Manuelle,9
+60000.0,Mercedes,Classe C,13,9565,Essence,Automatique,11
+49000.0,Mercedes,Classe C,13,9565,Essence,Automatique,9
+70000.0,Mercedes,Classe C,12,25583,Diesel,Automatique,7
+62000.0,Mercedes,Classe C,12,10362,Essence,Automatique,11
+63000.0,Mercedes,Classe C,12,12125,Essence,Manuelle,9
+100000.0,Mercedes,Classe C,10,17000,Essence,Automatique,9
+92000.0,Mercedes,Classe C,9,26444,Essence,Automatique,8
+90000.0,Mercedes,Classe C,8,13792,Essence,Manuelle,8
+117000.0,Mercedes,Classe C,8,15543,Diesel,Automatique,7
+65000.0,Mercedes,Classe C,8,15543,Essence,Automatique,11
+137000.0,Mercedes,Classe C,5,30400,Diesel,Automatique,8
+139000.0,Mercedes,Classe C,5,21000,Essence,Automatique,8
+128000.0,Mercedes,Classe C,5,24870,Diesel,Automatique,6
+77500.0,Mercedes,Classe Cla,10,19000,Essence,Automatique,8
+111111.0,Mercedes,Classe Cla,4,7500,Essence,Automatique,7
+146000.0,Mercedes,Classe Cla,4,10000,Essence,Manuelle,8
+78900.0,Mercedes,Classe Cla,11,17245,Essence,Automatique,8
+85000.0,Mercedes,Classe Cla,11,13636,Essence,Automatique,8
+77500.0,Mercedes,Classe Cla,10,19100,Diesel,Automatique,8
+77500.0,Mercedes,Classe Cla,10,19100,Essence,Automatique,8
+100000.0,Mercedes,Classe Cla,8,14875,Diesel,Automatique,5
+119000.0,Mercedes,Classe Cla,6,11500,Essence,Automatique,7
+120000.0,Mercedes,Classe Cla,5,23400,Diesel,Automatique,8
+149500.0,Mercedes,Classe Cla,5,11800,Essence,Automatique,7
+149000.0,Mercedes,Classe Cla,4,14750,Essence,Automatique,7
+32000.0,Mercedes,Classe Clk,17,18647,Diesel,Manuelle,9
+43000.0,Mercedes,Classe Cls,18,6908,Essence,Automatique,19
+45000.0,Mercedes,Classe Cls,17,15882,Essence,Automatique,19
+55500.0,Mercedes,Classe Cls,15,11866,Essence,Automatique,15
+63500.0,Mercedes,Classe Cls,15,10666,Essence,Automatique,15
+68000.0,Mercedes,Classe E,13,22307,Diesel,Automatique,10
+115000.0,Mercedes,Classe E,8,22500,Essence,Automatique,10
+139000.0,Mercedes,Classe E,6,11666,Essence,Automatique,9
+23000.0,Mercedes,Classe E,25,4974,Essence,Manuelle,9
+31500.0,Mercedes,Classe E,22,13636,Diesel,Automatique,9
+34000.0,Mercedes,Classe E,21,5921,Essence,Automatique,10
+33500.0,Mercedes,Classe E,19,6544,Diesel,Automatique,9
+39500.0,Mercedes,Classe E,18,17777,Diesel,Automatique,9
+50500.0,Mercedes,Classe E,18,15555,Diesel,Automatique,10
+34000.0,Mercedes,Classe E,18,15333,Diesel,Automatique,9
+42000.0,Mercedes,Classe E,16,7771,Essence,Automatique,10
+64500.0,Mercedes,Classe E,15,15866,Diesel,Automatique,9
+123000.0,Mercedes,Classe E,14,8882,Diesel,Automatique,12
+88000.0,Mercedes,Classe E,14,20000,Essence,Automatique,15
+78000.0,Mercedes,Classe E,14,8882,Essence,Automatique,11
+65000.0,Mercedes,Classe E,14,7785,Essence,Manuelle,11
+55000.0,Mercedes,Classe E,14,18214,Essence,Automatique,11
+53000.0,Mercedes,Classe E,14,18571,Diesel,Automatique,10
+65000.0,Mercedes,Classe E,12,10833,Essence,Automatique,11
+79000.0,Mercedes,Classe E,11,16818,Essence,Automatique,10
+114000.0,Mercedes,Classe E,7,35857,Essence,Automatique,9
+135000.0,Mercedes,Classe E,6,15166,Essence,Automatique,9
+125000.0,Mercedes,Classe E,6,15500,Essence,Automatique,9
+94000.0,Mercedes,Classe Gla,8,11875,Essence,Automatique,8
+80000.0,Mercedes,Classe Glk,14,8882,Diesel,Automatique,15
+57000.0,Mercedes,Classe M,18,6908,Essence,Automatique,17
+28000.0,Mercedes,Classe M,22,5652,Essence,Automatique,17
+17000.0,Mercedes,Classe M,21,5921,Essence,Automatique,17
+55000.0,Mercedes,Classe M,18,19722,Diesel,Automatique,15
+79000.0,Mercedes,Classe M,14,12857,Diesel,Automatique,15
+70000.0,Mercedes,Classe M,14,17857,Diesel,Automatique,15
+57000.0,Mercedes,Classe M,13,9565,Essence,Automatique,19
+55000.0,Mercedes,Classe S,21,8000,Essence,Automatique,10
+105000.0,Mercedes,Classe S,18,9055,Essence,Automatique,25
+22000.0,Mercedes,Sprinter,18,6908,Diesel,Manuelle,7
+51000.0,Mg,5,3,16566,Essence,Manuelle,6
+39000.0,Mg,5,3,27666,Essence,Manuelle,6
+54000.0,Mg,3,3,13333,Essence,Manuelle,6
+90000.0,Mg,7,0,0,Essence,Automatique,9
+61000.0,Mg,Zs,7,30000,Essence,Automatique,13
+39000.0,Mg,Zs,7,16500,Essence,Manuelle,6
+60000.0,Mg,GS,7,13285,Essence,Automatique,9
+62000.0,Mg,Zs,6,13352,Essence,Automatique,9
+62000.0,Mg,Zs,6,13416,Essence,Automatique,9
+47500.0,Mg,3,4,9500,Essence,Manuelle,6
+61000.0,Mg,5,4,17392,Essence,Automatique,7
+55000.0,Mg,5,3,23190,Essence,Automatique,6
+54000.0,Mg,5,3,18000,Essence,Automatique,6
+31500.0,Mg,F,7,19857,Essence,Manuelle,5
+55000.0,Mg,Zs,5,28000,Essence,Manuelle,7
+55000.0,Mg,Zs,5,28000,Essence,Manuelle,7
+65000.0,Mg,Zs,4,25000,Essence,Automatique,7
+89000.0,Mg,Zs,1,34000,Essence,Automatique,9
+63000.0,Mg,Zs,6,6083,Essence,Manuelle,7
+66000.0,Mg,Zs,5,6000,Essence,Automatique,7
+65000.0,Mg,Zs,5,15000,Essence,Automatique,7
+56000.0,Mg,Zs,5,17600,Essence,Automatique,7
+66800.0,Mg,Zs,5,14800,Essence,Automatique,7
+68000.0,Mg,Zs,4,25000,Essence,Automatique,7
+62000.0,Mg,Zs,4,17392,Essence,Automatique,7
+123000.0,Mg,Zs,4,22500,Essence,Manuelle,6
+63000.0,Mg,Zs,3,20000,Essence,Manuelle,7
+61000.0,Mg,Zs,2,34785,Essence,Automatique,7
+69500.0,Mg,Zs,2,16000,Essence,Manuelle,7
+65000.0,Mg,Zs,2,49750,Essence,Manuelle,7
+28500.0,Mini,Cooper,15,10266,Essence,Manuelle,5
+34900.0,Mini,Countryman,13,11846,Essence,Manuelle,7
+37900.0,Mini,Countryman,13,11846,Essence,Manuelle,7
+37900.0,Mini,Countryman,13,11846,Essence,Manuelle,7
+65000.0,Mini,Countryman,9,10000,Essence,Manuelle,5
+33900.0,Mini,One,8,18750,Essence,Manuelle,5
+38800.0,Mini,,9,21555,Essence,Manuelle,4
+33000.0,Mini,Cooper,18,5611,Essence,Automatique,11
+28500.0,Mini,Cooper,15,8275,Essence,Manuelle,5
+35000.0,Mini,Cooper,15,12133,Essence,Manuelle,5
+36000.0,Mini,Cooper,15,12000,Essence,Manuelle,5
+28500.0,Mini,,14,8866,Essence,Manuelle,5
+29000.0,Mini,,14,11428,Essence,Manuelle,5
+27000.0,Mini,,14,11285,Essence,Manuelle,5
+36500.0,Mini,,13,9548,Essence,Manuelle,6
+37900.0,Mini,Countryman,13,11846,Essence,Manuelle,7
+34900.0,Mini,Countryman,12,12500,Essence,Manuelle,7
+45000.0,Mini,Cooper,9,13444,Essence,Manuelle,4
+44000.0,Mini,One,9,13792,Essence,Manuelle,4
+64000.0,Mini,,4,17500,Essence,Manuelle,7
+27500.0,Mini,Cooper,14,20000,Diesel,Manuelle,6
+111000.0,Mitsubishi,Gt,24,4629,Diesel,Manuelle,10
+14500.0,Mitsubishi,Gt,24,5683,Diesel,Manuelle,10
+41000.0,Mitsubishi,L200,27,17777,Diesel,Manuelle,13
+30000.0,Mitsubishi,L200,23,5930,Diesel,Manuelle,10
+30000.0,Mitsubishi,L200,21,6494,Diesel,Manuelle,10
+20000.0,Mitsubishi,L200,17,8023,Diesel,Manuelle,10
+28500.0,Mitsubishi,L200,14,23214,Diesel,Manuelle,10
+47500.0,Mitsubishi,L200,13,22015,Diesel,Manuelle,10
+39500.0,Mitsubishi,L200,8,22625,Diesel,Manuelle,10
+23500.0,Mitsubishi,Mirage,7,19571,Essence,Manuelle,4
+21800.0,Mitsubishi,Attrage,7,19285,Essence,Manuelle,4
+27000.0,Mitsubishi,L200,5,22900,Essence,Manuelle,4
+100000.0,Mitsubishi,L200,4,12500,Essence,Manuelle,10
+33500.0,Mitsubishi,L200,3,16333,Essence,Manuelle,4
+33500.0,Mitsubishi,L200,3,16333,Essence,Manuelle,4
+31000.0,Mitsubishi,Galant,22,6199,Diesel,Manuelle,10
+111111.0,Mitsubishi,Outlander,18,10555,Essence,Automatique,9
+34000.0,Mitsubishi,Pajero,31,4399,Diesel,Manuelle,10
+24000.0,Mitsubishi,Pajero,30,10000,Diesel,Manuelle,11
+33000.0,Mitsubishi,Pajero,26,11538,Diesel,Manuelle,11
+28000.0,Mitsubishi,Pajero,24,5683,Diesel,Manuelle,10
+100000.0,Mitsubishi,Pajero,23,16757,Diesel,Manuelle,9
+40000.0,Mitsubishi,Pajero,22,6199,Diesel,Manuelle,10
+78000.0,Mitsubishi,Pajero,21,14285,Diesel,Automatique,11
+11111.0,Mitsubishi,Space Star,3,4300,Essence,Manuelle,4
+25000.0,Renault,Megane3,15,26000,Diesel,Manuelle,5
+19500.0,Nissan,Qashqai,10,12492,Diesel,Manuelle,10
+20000.0,Nissan,Y60,36,3470,Diesel,Manuelle,9
+57000.0,Nissan,Qashqai,8,21250,Essence,Automatique,6
+38800.0,Nissan,Juke,11,15454,Diesel,Manuelle,6
+48800.0,Nissan,Juke,9,13333,Essence,Automatique,7
+40000.0,Nissan,Juke,13,11923,Essence,Automatique,11
+39000.0,Nissan,Juke,13,9609,Essence,Manuelle,7
+40000.0,Nissan,Juke,12,10410,Essence,Automatique,7
+47000.0,Nissan,Juke,11,11356,Essence,Manuelle,7
+46000.0,Nissan,Juke,10,20000,Diesel,Manuelle,5
+46000.0,Nissan,Juke,9,17777,Essence,Automatique,8
+49900.0,Nissan,Juke,7,20142,Essence,Manuelle,6
+57000.0,Nissan,Juke,7,11000,Essence,Manuelle,6
+48000.0,Nissan,Juke,2,62460,Essence,Automatique,6
+26200.0,Nissan,Micra,5,33400,Essence,Manuelle,5
+34000.0,Nissan,Micra,4,18550,Essence,Manuelle,5
+31000.0,Nissan,Micra,7,7571,Essence,Manuelle,5
+33000.0,Nissan,Micra,6,14500,Essence,Manuelle,5
+34500.0,Nissan,Micra,6,9333,Essence,Manuelle,5
+24000.0,Nissan,Micra,6,20820,Essence,Manuelle,4
+32000.0,Nissan,Micra,5,24984,Essence,Manuelle,5
+111000.0,Nissan,Micra,5,11400,Essence,Manuelle,5
+11111.0,Nissan,Micra,5,24984,Essence,Manuelle,5
+30000.0,Nissan,Micra,4,20250,Essence,Manuelle,5
+27900.0,Nissan,Micra,4,20500,Essence,Manuelle,5
+37000.0,Nissan,Micra,4,11250,Essence,Manuelle,5
+48000.0,Nissan,Navara,15,10400,Diesel,Manuelle,8
+48000.0,Nissan,Navara,15,10400,Diesel,Manuelle,8
+43000.0,Nissan,Navara,12,25000,Diesel,Manuelle,10
+49000.0,Nissan,Patrol,25,17400,Diesel,Manuelle,11
+55000.0,Nissan,Patrol,25,19200,Diesel,Manuelle,11
+55000.0,Nissan,Patrol,25,19199,Diesel,Manuelle,11
+63000.0,Nissan,Pulsar,5,37200,Essence,Manuelle,6
+38000.0,Nissan,Qashqai,14,17428,Diesel,Manuelle,6
+39500.0,Nissan,Qashqai,14,19142,Diesel,Manuelle,6
+35000.0,Nissan,Qashqai,14,18571,Diesel,Manuelle,9
+34000.0,Nissan,Qashqai,13,18769,Diesel,Manuelle,9
+37000.0,Nissan,Qashqai,13,19461,Diesel,Manuelle,6
+38500.0,Nissan,Qashqai,12,10410,Diesel,Manuelle,6
+45000.0,Nissan,Qashqai,12,10410,Diesel,Manuelle,6
+39500.0,Nissan,Qashqai,11,16818,Diesel,Manuelle,6
+48000.0,Nissan,Qashqai,10,12492,Diesel,Manuelle,6
+56000.0,Nissan,Qashqai,9,13880,Diesel,Manuelle,7
+52000.0,Nissan,Qashqai,8,15615,Essence,Automatique,7
+65000.0,Nissan,Qashqai,8,17750,Essence,Automatique,6
+61000.0,Nissan,Qashqai,7,27714,Essence,Manuelle,6
+68500.0,Nissan,Qashqai,7,23428,Diesel,Manuelle,5
+51000.0,Nissan,Qashqai,7,17000,Diesel,Manuelle,6
+100000.0,Nissan,Qashqai,6,4833,Essence,Automatique,6
+79500.0,Nissan,Qashqai,6,13666,Essence,Automatique,6
+100000.0,Nissan,Qashqai,6,20820,Essence,Automatique,6
+85000.0,Nissan,Qashqai,5,24800,Diesel,Manuelle,6
+60000.0,Nissan,Qashqai,4,31230,Essence,Manuelle,7
+35000.0,Nissan,Xtrail,21,5714,Diesel,Manuelle,7
+25000.0,Nissan,Xtrail,21,14285,Essence,Manuelle,8
+25000.0,Nissan,Xtrail,20,15000,Essence,Manuelle,8
+28500.0,Nissan,Xtrail,16,7807,Diesel,Manuelle,9
+10500.0,Opel,Astra,25,10000,Diesel,Manuelle,5
+12000.0,Opel,Astra,25,11600,Essence,Manuelle,4
+8500.0,Opel,Astra,24,4249,Diesel,Manuelle,5
+22500.0,Opel,Astra,23,11304,Essence,Manuelle,5
+7200.0,Opel,Astra,23,4434,Diesel,Manuelle,5
+21500.0,Opel,Astra,22,7090,Essence,Manuelle,5
+16000.0,Opel,Astra,22,9090,Essence,Manuelle,5
+17500.0,Opel,Astra,21,4856,Essence,Manuelle,5
+18000.0,Opel,Astra,20,5099,Essence,Manuelle,5
+17500.0,Opel,Astra,19,5367,Diesel,Manuelle,5
+17500.0,Opel,Astra,19,5367,Diesel,Manuelle,6
+25500.0,Opel,Astra,18,5665,Essence,Manuelle,5
+33500.0,Opel,Astra,12,21416,Diesel,Manuelle,6
+11500.0,Opel,Swing,27,3777,Essence,Manuelle,4
+10500.0,Opel,Swing,23,4434,Essence,Manuelle,4
+13000.0,Opel,Astra,20,5099,Essence,Manuelle,5
+50000.0,Opel,Astra,5,20397,Diesel,Manuelle,6
+62000.0,Opel,Combo,2,11000,Diesel,Manuelle,5
+11111.0,Opel,Combo,2,97500,Diesel,Manuelle,5
+13000.0,Opel,Corsa,23,4434,Essence,Manuelle,4
+23000.0,Opel,Corsa,14,7284,Essence,Manuelle,4
+29000.0,Opel,Corsa,7,21428,Essence,Manuelle,5
+7700.0,Opel,Corsa,35,2913,Diesel,Manuelle,4
+10200.0,Opel,Corsa,29,3516,Essence,Manuelle,4
+12000.0,Opel,Corsa,29,3516,GPL,Manuelle,4
+10100.0,Opel,Corsa,29,3516,Essence,Manuelle,4
+11000.0,Opel,Corsa,29,10379,Essence,Manuelle,4
+10000.0,Opel,Corsa,29,3516,Essence,Manuelle,4
+11500.0,Opel,Corsa,28,12500,Essence,Manuelle,5
+9000.0,Opel,Corsa,28,10714,Essence,Manuelle,4
+10000.0,Opel,Corsa,28,10714,Essence,Manuelle,4
+12000.0,Opel,Corsa,28,3642,Essence,Manuelle,4
+12500.0,Opel,Corsa,28,3642,Diesel,Manuelle,4
+12500.0,Opel,Corsa,28,3642,Diesel,Manuelle,4
+12500.0,Opel,Corsa,27,3777,Essence,Manuelle,4
+12000.0,Opel,Corsa,26,3922,Essence,Manuelle,4
+10000.0,Opel,Corsa,25,4079,Essence,Manuelle,4
+11000.0,Opel,Corsa,25,4079,Essence,Manuelle,4
+11500.0,Opel,Corsa,25,4079,Essence,Manuelle,4
+12500.0,Opel,Corsa,24,4249,Essence,Manuelle,4
+55555.0,Opel,Corsa,24,4249,Essence,Manuelle,4
+13000.0,Opel,Corsa,23,16608,Essence,Manuelle,4
+12300.0,Opel,Corsa,23,15260,Essence,Manuelle,4
+14300.0,Opel,Corsa,22,14636,Essence,Manuelle,4
+11200.0,Opel,Corsa,22,4635,Essence,Manuelle,4
+15000.0,Opel,Corsa,22,10909,Essence,Manuelle,4
+12850.0,Opel,Corsa,22,17500,Essence,Manuelle,4
+12000.0,Opel,Corsa,20,13050,Essence,Manuelle,4
+22000.0,Opel,Corsa,16,6374,Essence,Manuelle,5
+27500.0,Opel,Corsa,10,17500,Essence,Manuelle,5
+28000.0,Opel,Corsa,10,7300,Essence,Manuelle,5
+29000.0,Opel,Corsa,9,15555,Essence,Manuelle,5
+31000.0,Opel,Corsa,9,20000,Essence,Manuelle,5
+32500.0,Opel,Corsa,9,10777,Essence,Manuelle,5
+33000.0,Opel,Insignia,11,27272,Diesel,Manuelle,6
+25900.0,Opel,Insignia,11,23636,Essence,Manuelle,11
+6500.0,Opel,Kadett,41,2487,Essence,Manuelle,5
+10500.0,Opel,Kadett,34,2941,Essence,Manuelle,5
+8500.0,Opel,Kadett,33,3090,Essence,Manuelle,5
+38000.0,Opel,Meriva,8,12748,Essence,Manuelle,6
+96000.0,Opel,Mokka,6,16666,Essence,Manuelle,8
+110000.0,Opel,Mokka,6,16666,Essence,Manuelle,8
+17000.0,Opel,Vectra,27,3777,Essence,Manuelle,9
+12500.0,Opel,Vectra,21,4856,Diesel,Manuelle,6
+15000.0,Opel,Vivaro,20,5099,Diesel,Manuelle,6
+11500.0,Peugeot,106,28,7142,Essence,Manuelle,4
+9500.0,Peugeot,106,34,6029,Essence,Manuelle,4
+8200.0,Peugeot,106,30,3788,Essence,Manuelle,4
+11500.0,Peugeot,106,30,3788,Essence,Manuelle,4
+8500.0,Peugeot,106,29,3918,Essence,Manuelle,5
+8500.0,Peugeot,106,29,6551,Essence,Manuelle,4
+8900.0,Peugeot,106,29,6206,Essence,Manuelle,4
+10800.0,Peugeot,106,28,4058,Essence,Manuelle,5
+8000.0,Peugeot,106,28,4058,Essence,Manuelle,5
+12500.0,Peugeot,106,28,7678,Essence,Manuelle,5
+9500.0,Peugeot,106,28,4058,Essence,Manuelle,4
+13000.0,Peugeot,106,27,4209,Essence,Manuelle,4
+14000.0,Peugeot,106,27,6851,Essence,Manuelle,4
+9500.0,Peugeot,106,27,4209,Essence,Manuelle,4
+14500.0,Peugeot,106,27,12888,Essence,Manuelle,4
+10500.0,Peugeot,106,26,15000,Essence,Manuelle,4
+10800.0,Peugeot,106,26,13076,Essence,Manuelle,4
+14000.0,Peugeot,106,25,8000,Essence,Manuelle,4
+25000.0,Peugeot,107,12,9470,Essence,Manuelle,4
+30000.0,Peugeot,108,7,16235,Essence,Manuelle,4
+33400.0,Peugeot,108,6,10000,Essence,Manuelle,4
+40000.0,Peugeot,108,5,8000,Essence,Manuelle,4
+48000.0,Peugeot,2008,16,4937,Essence,Manuelle,5
+41800.0,Peugeot,2008,7,16857,Essence,Manuelle,5
+41800.0,Peugeot,2008,7,16857,Essence,Manuelle,5
+42000.0,Peugeot,2008,7,16857,Essence,Manuelle,5
+42000.0,Peugeot,2008,7,16857,Essence,Manuelle,5
+55000.0,Peugeot,2008,6,20000,Essence,Automatique,6
+51000.0,Peugeot,2008,5,25000,Essence,Manuelle,7
+48500.0,Peugeot,2008,4,19750,Essence,Manuelle,5
+48500.0,Peugeot,2008,4,19500,Essence,Manuelle,5
+49000.0,Peugeot,2008,4,19500,Essence,Manuelle,5
+20000.0,Peugeot,208,1,10000,Diesel,Automatique,5
+22000.0,Peugeot,208,23,4941,Essence,Manuelle,5
+38000.0,Peugeot,2008,9,7111,Essence,Manuelle,5
+38000.0,Peugeot,2008,9,6666,Essence,Manuelle,5
+37000.0,Peugeot,2008,9,19111,Essence,Manuelle,7
+42000.0,Peugeot,2008,9,17666,Essence,Manuelle,5
+38000.0,Peugeot,2008,9,14444,Essence,Manuelle,5
+42000.0,Peugeot,2008,8,15500,Essence,Manuelle,5
+39900.0,Peugeot,2008,8,14205,Essence,Manuelle,5
+39900.0,Peugeot,2008,8,13750,Essence,Manuelle,5
+39900.0,Peugeot,2008,8,13750,Essence,Manuelle,5
+41000.0,Peugeot,2008,8,14205,Essence,Manuelle,5
+39500.0,Peugeot,2008,8,21875,Essence,Manuelle,5
+38500.0,Peugeot,2008,8,19000,Essence,Manuelle,5
+41900.0,Peugeot,2008,7,19142,Essence,Manuelle,5
+45000.0,Peugeot,2008,7,15142,Essence,Manuelle,5
+40000.0,Peugeot,2008,7,22428,Essence,Manuelle,10
+45000.0,Peugeot,2008,7,10142,Essence,Manuelle,5
+48000.0,Peugeot,2008,6,14010,Essence,Manuelle,5
+41000.0,Peugeot,2008,6,18940,Essence,Manuelle,5
+39000.0,Peugeot,2008,5,22729,Essence,Manuelle,5
+37900.0,Suzuki,Swift,4,19250,Essence,Automatique,5
+85000.0,Peugeot,2008,3,5333,Essence,Manuelle,6
+85000.0,Peugeot,2008,3,5333,Essence,Manuelle,6
+105000.0,Peugeot,2008,2,20000,Diesel,Manuelle,5
+6500.0,Peugeot,205,44,2582,Essence,Manuelle,4
+11500.0,Peugeot,205,41,3414,Essence,Manuelle,5
+123000.0,Peugeot,205,31,3584,Essence,Manuelle,4
+7000.0,Peugeot,205,31,7741,Essence,Manuelle,4
+8500.0,Peugeot,205,28,4058,Essence,Manuelle,7
+10800.0,Peugeot,205,27,4444,Essence,Manuelle,4
+7000.0,Peugeot,205,25,4938,Essence,Manuelle,4
+14200.0,Peugeot,206,23,4941,Essence,Manuelle,4
+18500.0,Peugeot,206,18,6313,Essence,Manuelle,4
+14500.0,Peugeot,206,25,4545,Essence,Manuelle,4
+22000.0,Peugeot,206,25,7160,Essence,Automatique,6
+13500.0,Peugeot,206,24,4735,Essence,Manuelle,4
+13900.0,Peugeot,206,23,4941,Essence,Manuelle,5
+11200.0,Peugeot,206,23,13043,Essence,Manuelle,4
+14500.0,Peugeot,206,22,15272,Essence,Manuelle,4
+16700.0,Peugeot,206,22,5165,Essence,Manuelle,4
+16000.0,Peugeot,206,22,5165,Essence,Manuelle,4
+13000.0,Peugeot,206,22,13636,Diesel,Manuelle,6
+17000.0,Peugeot,206,22,11818,Essence,Manuelle,4
+16500.0,Peugeot,206,22,5165,Essence,Manuelle,4
+8000.0,Peugeot,206,21,23809,Diesel,Manuelle,5
+10000.0,Peugeot,206,21,5411,Diesel,Manuelle,5
+16500.0,Peugeot,206,21,5411,Diesel,Manuelle,5
+17000.0,Peugeot,206,21,9380,Essence,Manuelle,4
+16000.0,Peugeot,206,21,9333,Essence,Manuelle,4
+16000.0,Peugeot,206,21,5411,Diesel,Manuelle,5
+9000.0,Peugeot,206,21,5411,Diesel,Manuelle,5
+18000.0,Peugeot,206,21,9238,Essence,Manuelle,4
+16500.0,Peugeot,206,21,9380,Essence,Manuelle,4
+74568.0,Peugeot,206,21,5411,Essence,Manuelle,5
+18000.0,Peugeot,206,20,10400,Essence,Manuelle,5
+14000.0,Peugeot,206,20,6112,Essence,Manuelle,8
+16800.0,Peugeot,206,20,9850,Essence,Manuelle,4
+14500.0,Peugeot,206,19,10526,Essence,Manuelle,4
+16000.0,Peugeot,206,19,5981,Essence,Manuelle,5
+20000.0,Peugeot,206,18,11111,Essence,Manuelle,4
+18400.0,Peugeot,206,18,6313,Essence,Manuelle,4
+21000.0,Peugeot,206,18,6313,Essence,Manuelle,4
+20000.0,Peugeot,206,17,14705,Essence,Manuelle,6
+10500.0,Peugeot,206,17,6685,Diesel,Manuelle,4
+23000.0,Peugeot,206,17,7823,Essence,Manuelle,6
+16000.0,Peugeot,206,16,8000,Essence,Manuelle,5
+17500.0,Peugeot,206,16,7102,Essence,Manuelle,6
+21000.0,Peugeot,206,16,11062,Essence,Manuelle,6
+20000.0,Peugeot,206,16,11062,Essence,Manuelle,6
+13000.0,Peugeot,206,16,12500,Essence,Manuelle,6
+20000.0,Peugeot,206,16,10937,Essence,Manuelle,5
+20000.0,Peugeot,206,16,7102,Essence,Manuelle,6
+7000.0,Peugeot,206,14,8117,Essence,Manuelle,6
+7000.0,Peugeot,206,14,8117,Essence,Manuelle,4
+18800.0,Peugeot,206,14,3571,Essence,Manuelle,6
+24500.0,Peugeot,206,12,18333,Essence,Manuelle,4
+20000.0,Peugeot,206,12,13333,Essence,Manuelle,5
+20600.0,Peugeot,206,12,14166,Essence,Manuelle,5
+21500.0,Peugeot,206,12,15827,Essence,Manuelle,4
+15500.0,Peugeot,206,12,9470,Diesel,Manuelle,4
+21000.0,Peugeot,206,12,9470,Essence,Manuelle,5
+20000.0,Peugeot,206,12,41666,Diesel,Manuelle,4
+23500.0,Peugeot,206,12,9470,Essence,Manuelle,5
+21000.0,Peugeot,206,12,9470,Essence,Manuelle,5
+21000.0,Peugeot,206,12,9470,Essence,Manuelle,5
+21000.0,Peugeot,206,12,9470,Essence,Manuelle,5
+123000.0,Peugeot,207,14,8117,Essence,Manuelle,6
+23500.0,Peugeot,207,18,17777,Diesel,Manuelle,4
+21000.0,Peugeot,207,17,6685,Essence,Manuelle,6
+21500.0,Peugeot,207,17,6685,Essence,Manuelle,6
+19000.0,Peugeot,207,17,19411,Diesel,Manuelle,4
+27400.0,Peugeot,207,15,15066,Diesel,Manuelle,6
+24000.0,Peugeot,207,15,16000,Diesel,Manuelle,4
+21000.0,Peugeot,207,15,7576,Essence,Manuelle,5
+21300.0,Peugeot,207,14,8117,GPL,Manuelle,6
+21300.0,Peugeot,207,14,8117,GPL,Manuelle,6
+34000.0,Peugeot,207,14,5357,Essence,Automatique,6
+27500.0,Peugeot,207,13,22307,Diesel,Manuelle,6
+29500.0,Peugeot,207,13,8741,Diesel,Manuelle,4
+24000.0,Peugeot,207,13,15769,Essence,Manuelle,6
+25000.0,Peugeot,207,12,17250,Essence,Manuelle,6
+34000.0,Peugeot,208,4,22500,Essence,Manuelle,5
+42500.0,Peugeot,208,3,19000,Essence,Manuelle,4
+44900.0,Peugeot,208,2,17500,Essence,Manuelle,4
+62000.0,Peugeot,208,2,14250,Diesel,Manuelle,5
+55000.0,Peugeot,208,2,56822,Essence,Manuelle,5
+44000.0,Peugeot,208,1,16000,Essence,Manuelle,4
+35000.0,Peugeot,208,1,100000,Diesel,Manuelle,4
+37000.0,Peugeot,208,1,20000,Diesel,Manuelle,5
+34000.0,Peugeot,208,1,113645,Diesel,Manuelle,5
+65000.0,Peugeot,208,0,0,Essence,Manuelle,4
+25000.0,Peugeot,208,11,16363,Essence,Manuelle,5
+27500.0,Peugeot,208,11,11636,Essence,Manuelle,5
+26500.0,Peugeot,208,11,11818,Essence,Manuelle,5
+28800.0,Peugeot,208,11,15818,Essence,Manuelle,5
+123000.0,Peugeot,208,11,8272,Essence,Manuelle,4
+29300.0,Peugeot,208,10,11364,Essence,Manuelle,4
+33500.0,Peugeot,208,10,17000,Diesel,Manuelle,6
+38000.0,Peugeot,208,10,18500,Diesel,Manuelle,4
+31000.0,Peugeot,208,9,8111,Essence,Manuelle,5
+25500.0,Peugeot,208,9,12627,Essence,Manuelle,4
+26500.0,Peugeot,208,9,14444,Essence,Manuelle,5
+28500.0,Peugeot,208,8,13500,Essence,Manuelle,5
+28000.0,Peugeot,208,8,14205,Essence,Manuelle,5
+32000.0,Peugeot,208,8,15312,Essence,Manuelle,5
+33000.0,Peugeot,208,7,13142,Essence,Manuelle,5
+34900.0,Peugeot,208,7,22857,Essence,Manuelle,5
+25800.0,Peugeot,208,7,16428,Essence,Manuelle,5
+29000.0,Peugeot,208,7,17000,Essence,Manuelle,5
+32000.0,Peugeot,208,7,16235,Essence,Manuelle,5
+30200.0,Peugeot,208,6,16000,Essence,Manuelle,5
+25000.0,Peugeot,208,6,18940,Essence,Manuelle,5
+32500.0,Peugeot,208,6,16500,Essence,Manuelle,5
+30000.0,Peugeot,208,5,22729,Essence,Manuelle,5
+32000.0,Peugeot,208,5,22000,Essence,Manuelle,4
+34500.0,Peugeot,208,5,8600,Essence,Manuelle,4
+43500.0,Peugeot,208,5,20800,Diesel,Manuelle,5
+30000.0,Peugeot,208,5,22729,Essence,Manuelle,5
+33000.0,Peugeot,208,4,19020,Essence,Manuelle,5
+33500.0,Peugeot,208,4,17500,Essence,Manuelle,4
+45000.0,Peugeot,208,4,26750,Diesel,Manuelle,5
+36000.0,Peugeot,208,4,15500,Essence,Manuelle,4
+36800.0,Peugeot,208,4,32499,Essence,Manuelle,4
+41200.0,Peugeot,208,4,20500,Essence,Manuelle,4
+53000.0,Peugeot,208,4,19000,Diesel,Manuelle,5
+33000.0,Peugeot,208,4,10378,Essence,Manuelle,4
+31000.0,Peugeot,208,4,19625,Essence,Manuelle,4
+32000.0,Peugeot,208,4,19000,Essence,Manuelle,4
+31500.0,Peugeot,208,4,19500,Essence,Manuelle,4
+33500.0,Peugeot,208,4,28411,Essence,Manuelle,5
+51000.0,Peugeot,208,3,13333,Essence,Manuelle,5
+42900.0,Peugeot,208,2,20000,Essence,Manuelle,4
+44000.0,Peugeot,208,2,21000,Essence,Manuelle,4
+43500.0,Peugeot,208,2,17500,Essence,Manuelle,4
+38000.0,Peugeot,208,2,60000,Diesel,Manuelle,5
+34000.0,Peugeot,208,2,140000,Diesel,Manuelle,4
+33000.0,Peugeot,208,2,140000,Diesel,Manuelle,4
+41500.0,Peugeot,208,2,18000,Essence,Manuelle,4
+37000.0,Peugeot,208,2,65000,Diesel,Manuelle,5
+37500.0,Peugeot,3008,10,14300,Essence,Manuelle,7
+82000.0,Peugeot,3008,4,28411,Diesel,Automatique,7
+31500.0,Peugeot,3008,13,18000,Essence,Manuelle,7
+36000.0,Peugeot,3008,13,8741,Diesel,Manuelle,6
+39000.0,Peugeot,3008,12,9470,Diesel,Automatique,6
+38000.0,Peugeot,3008,12,9470,Diesel,Manuelle,6
+42000.0,Peugeot,3008,12,22750,Diesel,Automatique,7
+44000.0,Peugeot,3008,10,19500,Essence,Manuelle,7
+63000.0,Peugeot,3008,7,18571,Essence,Manuelle,7
+85500.0,Peugeot,3008,6,15000,Essence,Automatique,9
+92000.0,Peugeot,3008,5,14000,Diesel,Automatique,6
+75500.0,Peugeot,3008,5,28000,Essence,Automatique,9
+78000.0,Peugeot,3008,5,16200,Essence,Automatique,7
+105000.0,Peugeot,3008,4,21750,Essence,Automatique,9
+78500.0,Peugeot,3008,4,25000,Diesel,Automatique,7
+102000.0,Peugeot,3008,3,19110,Essence,Automatique,7
+5000.0,Peugeot,305,29,3918,Essence,Manuelle,7
+11000.0,Peugeot,306,34,3342,Essence,Manuelle,4
+8500.0,Peugeot,306,32,3125,Diesel,Manuelle,4
+9500.0,Peugeot,306,27,4209,Diesel,Manuelle,6
+9500.0,Peugeot,306,27,4209,Diesel,Manuelle,6
+8000.0,Peugeot,306,26,4370,Diesel,Manuelle,6
+24000.0,Peugeot,306,24,20000,Diesel,Manuelle,5
+10000.0,Peugeot,306,24,4735,Diesel,Manuelle,5
+14000.0,Peugeot,306,23,4941,Essence,Manuelle,6
+8200.0,Peugeot,306,23,19565,Diesel,Manuelle,7
+7800.0,Peugeot,306,20,5682,Diesel,Manuelle,5
+12000.0,Peugeot,307,47,2417,Diesel,Manuelle,6
+18400.0,Peugeot,307,22,5165,Essence,Manuelle,6
+23500.0,Peugeot,307,22,11818,Essence,Automatique,7
+22000.0,Peugeot,307,19,10789,Essence,Manuelle,6
+17000.0,Peugeot,307,19,15789,Essence,Manuelle,8
+25002.0,Peugeot,307,15,7733,Essence,Manuelle,7
+24000.0,Peugeot,308,14,8117,Diesel,Manuelle,5
+26950.0,Peugeot,308,13,8741,Essence,Manuelle,6
+26900.0,Peugeot,308,13,8741,Essence,Manuelle,6
+123000.0,Peugeot,308,3,42000,Diesel,Manuelle,5
+32000.0,Peugeot,308,16,25000,Diesel,Manuelle,6
+29000.0,Peugeot,308,16,25000,Diesel,Manuelle,6
+24000.0,Peugeot,308,16,7102,Essence,Manuelle,6
+27000.0,Peugeot,308,15,18000,Essence,Manuelle,6
+23000.0,Peugeot,308,15,7576,Essence,Manuelle,6
+23500.0,Peugeot,308,15,13533,Essence,Manuelle,6
+24000.0,Peugeot,308,15,20798,Essence,Manuelle,6
+25000.0,Peugeot,308,15,13502,Essence,Automatique,7
+27000.0,Peugeot,308,15,12333,Essence,Automatique,7
+24500.0,Peugeot,308,14,13445,Essence,Manuelle,6
+24000.0,Peugeot,308,13,16230,Essence,Manuelle,6
+25000.0,Peugeot,308,12,16500,Essence,Manuelle,6
+29500.0,Peugeot,308,12,20000,Diesel,Manuelle,5
+25500.0,Peugeot,308,12,15000,Essence,Manuelle,6
+23400.0,Peugeot,308,12,9470,Essence,Manuelle,6
+31000.0,Peugeot,308,11,16090,Diesel,Manuelle,6
+35500.0,Peugeot,308,10,17000,Essence,Manuelle,5
+32000.0,Peugeot,308,9,20000,Essence,Manuelle,5
+34000.0,Peugeot,308,9,18888,Essence,Manuelle,5
+32000.0,Peugeot,308,9,18888,Essence,Manuelle,5
+48000.0,Peugeot,308,7,16235,Essence,Manuelle,5
+41000.0,Peugeot,308,7,18714,Essence,Manuelle,5
+36000.0,Peugeot,308,7,16235,Essence,Manuelle,5
+40000.0,Peugeot,308,6,26666,Essence,Manuelle,5
+38000.0,Peugeot,308,6,18940,Essence,Manuelle,5
+51000.0,Peugeot,308,5,44000,Diesel,Manuelle,5
+47000.0,Peugeot,308,5,29700,Essence,Manuelle,6
+111000.0,Peugeot,308,5,16599,Essence,Manuelle,6
+43000.0,Peugeot,308,5,29600,Essence,Manuelle,7
+7500.0,Peugeot,309,44,2582,Essence,Manuelle,4
+12000.0,Peugeot,309,34,6470,Essence,Manuelle,5
+8000.0,Peugeot,309,33,5905,Diesel,Manuelle,5
+5500.0,Peugeot,309,31,12903,Essence,Manuelle,4
+38500.0,Peugeot,3008,11,10331,Essence,Manuelle,9
+6600.0,Peugeot,405,31,3584,Essence,Manuelle,6
+11000.0,Peugeot,405,29,3918,Essence,Manuelle,6
+13000.0,Peugeot,405,27,12962,Essence,Manuelle,7
+6000.0,Peugeot,405,24,4735,Essence,Manuelle,4
+11000.0,Peugeot,406,27,4209,Diesel,Manuelle,6
+14500.0,Peugeot,406,26,4370,Essence,Manuelle,7
+17000.0,Peugeot,406,26,11153,Essence,Manuelle,7
+14000.0,Peugeot,406,25,8888,Essence,Manuelle,7
+13000.0,Peugeot,406,25,18000,Essence,Manuelle,7
+15500.0,Peugeot,406,23,4941,Essence,Manuelle,7
+12500.0,Peugeot,406,23,4941,Essence,Manuelle,7
+22500.0,Peugeot,407,20,5682,Essence,Manuelle,7
+15500.0,Peugeot,407,19,5981,Diesel,Manuelle,6
+111000.0,Peugeot,407,19,5981,Diesel,Manuelle,6
+19500.0,Peugeot,407,19,5981,Essence,Manuelle,9
+21500.0,Peugeot,407,18,6313,Diesel,Manuelle,6
+20500.0,Peugeot,407,18,6313,Diesel,Manuelle,6
+18500.0,Peugeot,407,16,23750,Diesel,Manuelle,6
+25000.0,Peugeot,407,16,20625,Diesel,Manuelle,6
+25000.0,Peugeot,407,16,20750,Diesel,Manuelle,6
+26000.0,Peugeot,407,15,16666,Diesel,Manuelle,6
+22000.0,Peugeot,407,15,16000,Essence,Automatique,9
+26000.0,Peugeot,407,15,7576,Diesel,Manuelle,6
+27500.0,Peugeot,407,13,8741,Diesel,Manuelle,6
+50000.0,Peugeot,5008,8,22500,Diesel,Manuelle,6
+144000.0,Peugeot,5008,2,27000,Diesel,Automatique,7
+45000.0,Peugeot,505,6,15833,Diesel,Manuelle,8
+32000.0,Peugeot,508,11,10331,Essence,Manuelle,7
+32000.0,Peugeot,508,11,10331,Essence,Manuelle,9
+31300.0,Peugeot,508,13,23076,Diesel,Manuelle,6
+38500.0,Peugeot,508,13,16230,Diesel,Manuelle,6
+28000.0,Peugeot,508,13,16923,Essence,Manuelle,9
+28000.0,Peugeot,508,13,17307,Essence,Manuelle,9
+30000.0,Peugeot,508,13,18461,Essence,Manuelle,9
+36000.0,Peugeot,508,12,17166,Diesel,Automatique,6
+34900.0,Peugeot,508,12,9470,Essence,Manuelle,9
+30000.0,Peugeot,508,12,22500,Essence,Automatique,7
+30000.0,Peugeot,508,12,22500,Essence,Automatique,7
+30000.0,Peugeot,508,12,9470,Essence,Automatique,7
+29000.0,Peugeot,508,12,9470,Essence,Manuelle,9
+35000.0,Peugeot,508,12,9470,Essence,Automatique,7
+34000.0,Peugeot,508,10,20000,Essence,Automatique,7
+34000.0,Peugeot,508,10,20000,Essence,Automatique,7
+36000.0,Peugeot,508,10,16000,Essence,Automatique,7
+17000.0,Peugeot,607,22,5165,Diesel,Manuelle,8
+20000.0,Peugeot,607,19,5981,Essence,Manuelle,9
+15000.0,Peugeot,807,22,5165,Essence,Manuelle,9
+28000.0,Peugeot,807,17,11764,Diesel,Manuelle,8
+97000.0,Peugeot,5008,1,34160,Diesel,Manuelle,6
+97500.0,Peugeot,Landtreck,1,17000,Diesel,Manuelle,6
+38000.0,Peugeot,208,0,0,Diesel,Manuelle,5
+8000.0,Peugeot,504,58,8620,Diesel,Manuelle,8
+7000.0,Peugeot,208,41,2771,Essence,Manuelle,43
+12346.0,Peugeot,504,40,2841,Diesel,Manuelle,8
+5500.0,Peugeot,208,39,2913,Diesel,Manuelle,4
+7000.0,Peugeot,404,24,4735,Diesel,Manuelle,8
+25000.0,Peugeot,308SW,15,31266,Diesel,Manuelle,5
+22400.0,Peugeot,301,11,16090,Essence,Manuelle,5
+26000.0,Peugeot,301,11,12454,Essence,Manuelle,5
+24500.0,Peugeot,301,11,11136,Essence,Manuelle,5
+122000.0,Peugeot,301,11,20000,Essence,Manuelle,5
+23500.0,Peugeot,301,11,9090,Essence,Manuelle,5
+27000.0,Peugeot,301,11,16363,Essence,Manuelle,5
+21500.0,Peugeot,301,10,11364,Essence,Manuelle,4
+22500.0,Peugeot,301,10,12700,Essence,Manuelle,5
+24000.0,Peugeot,301,10,14900,Essence,Manuelle,5
+24500.0,Peugeot,301,10,12500,Essence,Manuelle,5
+27000.0,Peugeot,301,9,12627,Diesel,Manuelle,5
+22000.0,Peugeot,208,9,13888,Essence,Manuelle,5
+22900.0,Peugeot,301,9,22222,Essence,Manuelle,5
+24000.0,Peugeot,301,9,27777,Essence,Manuelle,5
+23000.0,Peugeot,301,9,12627,Essence,Manuelle,5
+19800.0,Peugeot,301,9,17555,Essence,Manuelle,5
+27000.0,Peugeot,301,9,20222,Essence,Manuelle,5
+33000.0,Peugeot,208,8,14205,Diesel,Manuelle,33
+22000.0,Peugeot,301,7,28571,Essence,Manuelle,5
+24500.0,Peugeot,301,7,16235,Essence,Manuelle,5
+25000.0,Peugeot,301,6,17500,Essence,Manuelle,5
+42000.0,Peugeot,301,6,18940,Diesel,Manuelle,8
+52000.0,Peugeot,B9,6,13000,Essence,Manuelle,7
+48000.0,Peugeot,208,6,25000,Diesel,Manuelle,5
+22500.0,Peugeot,301,6,26000,Essence,Manuelle,5
+48000.0,Peugeot,301,6,66666,Diesel,Manuelle,5
+32800.0,Peugeot,208,6,18000,Essence,Manuelle,5
+123000.0,Peugeot,208,6,25166,Essence,Manuelle,5
+29500.0,Peugeot,301,5,22729,Essence,Manuelle,5
+25800.0,Peugeot,301,5,20000,Essence,Manuelle,5
+25500.0,Peugeot,301,5,24200,Essence,Manuelle,5
+37000.0,Peugeot,301,5,32800,Diesel,Manuelle,7
+80000.0,Peugeot,Rifter,5,20000,Diesel,Manuelle,5
+28000.0,Peugeot,301,4,28411,Essence,Manuelle,5
+32000.0,Peugeot,301,4,90000,Diesel,Manuelle,5
+29000.0,Peugeot,301,4,29750,Essence,Manuelle,5
+29500.0,Peugeot,301,4,28411,Essence,Manuelle,5
+73500.0,Peugeot,Landtreck,2,50000,Diesel,Manuelle,6
+79000.0,Peugeot,Landtreck,2,25000,Diesel,Manuelle,6
+79000.0,Peugeot,Landtreck,2,25000,Diesel,Manuelle,6
+37000.0,Peugeot,Landtreck,2,120000,Diesel,Manuelle,5
+31000.0,Peugeot,Landtreck,2,17000,Diesel,Manuelle,10
+19000.0,Peugeot,Bipper Tepee,25,4545,Diesel,Manuelle,7
+27000.0,Peugeot,Bipper Tepee,12,26500,Diesel,Manuelle,4
+31500.0,Peugeot,Bipper Tepee,10,18900,Essence,Manuelle,5
+21000.0,Peugeot,Bipper Tepee,9,20000,Diesel,Manuelle,6
+22000.0,Peugeot,Bipper Tepee,8,14205,Diesel,Manuelle,5
+19500.0,Peugeot,Bipper Tepee,8,14205,Diesel,Manuelle,5
+30000.0,Peugeot,Bipper Tepee,8,14205,Diesel,Manuelle,5
+23500.0,Peugeot,Bipper Tepee,7,16235,Diesel,Manuelle,5
+15000.0,Peugeot,Boxer,64,3426,Diesel,Manuelle,6
+14000.0,Peugeot,Boxer,25,4545,Diesel,Manuelle,8
+9500.0,Peugeot,Boxer,20,5682,Diesel,Manuelle,7
+10000.0,Peugeot,Boxer,19,26315,Diesel,Manuelle,7
+17500.0,Peugeot,Boxer,18,15762,GPL,Automatique,4
+53000.0,Peugeot,Expert,4,33250,Diesel,Manuelle,9
+59000.0,Peugeot,Expert,3,66666,Diesel,Manuelle,7
+13000.0,Peugeot,Expert,33,6058,Diesel,Manuelle,4
+31000.0,Peugeot,Expert,13,17538,Diesel,Manuelle,7
+20500.0,Peugeot,Expert,13,8741,Diesel,Manuelle,7
+22000.0,Peugeot,Expert,13,8741,Diesel,Manuelle,7
+56000.0,Peugeot,Expert,6,18940,Diesel,Manuelle,5
+21000.0,Peugeot,Expert Combi,16,31250,Diesel,Manuelle,5
+41500.0,Peugeot,Partner,4,40000,Diesel,Manuelle,5
+53000.0,Peugeot,Partner,3,37881,Diesel,Manuelle,5
+48000.0,Peugeot,Partner,3,66666,Diesel,Manuelle,5
+20000.0,Peugeot,Partner,0,0,Diesel,Manuelle,5
+14000.0,Peugeot,Partner,25,4545,Diesel,Manuelle,7
+14500.0,Peugeot,Partner,21,5411,Diesel,Manuelle,7
+15000.0,Peugeot,Partner,20,15800,Diesel,Manuelle,7
+21000.0,Peugeot,Partner,19,9684,Essence,Manuelle,6
+14000.0,Peugeot,Partner,19,5981,Diesel,Manuelle,7
+14500.0,Peugeot,Partner,19,5981,Diesel,Manuelle,7
+12300.0,Peugeot,Partner,19,5981,Diesel,Manuelle,7
+18000.0,Peugeot,Partner,18,6313,Diesel,Manuelle,4
+16000.0,Peugeot,Partner,18,6313,Diesel,Manuelle,7
+22000.0,Peugeot,Partner,17,11176,Diesel,Manuelle,7
+19000.0,Peugeot,Partner,17,6685,Diesel,Manuelle,6
+29000.0,Peugeot,Partner,17,28235,Diesel,Manuelle,5
+18500.0,Peugeot,Partner,17,6685,Diesel,Manuelle,6
+20000.0,Peugeot,Partner,17,6685,Diesel,Manuelle,5
+22500.0,Peugeot,Partner,16,14875,Diesel,Manuelle,6
+17200.0,Peugeot,Partner,16,12000,Diesel,Manuelle,7
+26500.0,Peugeot,Partner,15,14133,Essence,Manuelle,6
+24000.0,Peugeot,Partner,15,19533,Diesel,Manuelle,7
+17500.0,Peugeot,Partner,15,7576,Diesel,Manuelle,7
+19000.0,Peugeot,Partner,15,7576,Diesel,Manuelle,7
+26000.0,Peugeot,Partner,13,19615,Diesel,Manuelle,6
+21000.0,Peugeot,Partner,13,19076,Diesel,Manuelle,7
+23500.0,Peugeot,Partner,13,14538,Diesel,Manuelle,7
+31000.0,Peugeot,Partner,13,16076,Essence,Manuelle,7
+25000.0,Peugeot,Partner,11,16363,Diesel,Manuelle,5
+23000.0,Peugeot,Partner,11,10331,Diesel,Manuelle,4
+32000.0,Peugeot,Partner,11,30636,Diesel,Manuelle,5
+22000.0,Peugeot,Partner,11,10331,Diesel,Manuelle,7
+26000.0,Peugeot,Partner,11,15636,Diesel,Manuelle,5
+123000.0,Peugeot,Partner,10,11364,Diesel,Manuelle,6
+28000.0,Peugeot,Partner,10,11364,Diesel,Manuelle,5
+30000.0,Peugeot,Partner,9,12627,Diesel,Manuelle,5
+21000.0,Peugeot,Partner,9,12627,Diesel,Manuelle,5
+30500.0,Peugeot,Partner,8,23125,Diesel,Manuelle,5
+47000.0,Peugeot,Partner,7,24285,Essence,Manuelle,6
+41000.0,Peugeot,Partner,6,26500,Diesel,Manuelle,6
+49000.0,Peugeot,Partner,6,20000,Diesel,Manuelle,5
+123000.0,Peugeot,Partner,5,22729,Diesel,Manuelle,5
+54500.0,Peugeot,Partner,5,22729,Diesel,Manuelle,6
+43500.0,Peugeot,Partner,5,20200,Diesel,Manuelle,5
+43500.0,Peugeot,Partner,4,39750,Diesel,Manuelle,5
+15000.0,Peugeot,Partner,4,25000,Diesel,Manuelle,5
+52000.0,Peugeot,Partner,4,11250,Diesel,Manuelle,6
+48000.0,Peugeot,Partner,4,12153,Diesel,Manuelle,6
+47500.0,Peugeot,Partner,4,32500,Diesel,Manuelle,5
+50000.0,Peugeot,Partner,3,37881,Diesel,Manuelle,6
+50000.0,Peugeot,Partner,3,28333,Diesel,Manuelle,5
+47000.0,Peugeot,Partner,3,83333,Diesel,Manuelle,5
+59000.0,Peugeot,Partner,3,20000,Diesel,Manuelle,6
+69000.0,Peugeot,Partner,3,37881,Diesel,Manuelle,6
+10000.0,Peugeot,Traveller,23,15652,Diesel,Manuelle,10
+11800.0,Peugeot,106,28,9107,Essence,Manuelle,5
+12700.0,Peugeot,260,24,12500,Essence,Manuelle,4
+44000.0,PGO,Hemera,9,16666,Essence,Manuelle,5
+7800.0,Peugeot,306,25,4545,Diesel,Manuelle,6
+32500.0,Piaggio,Porter Pv,6,21,Essence,Manuelle,4
+88000.0,Porsche,Cayenne,16,10625,Essence,Automatique,30
+50000.0,Porsche,Cayenne,20,9500,Essence,Automatique,19
+56900.0,Porsche,Cayenne,16,9187,Essence,Automatique,17
+60000.0,Porsche,Cayenne,15,16666,Essence,Automatique,31
+18000.0,Renault,Kangoo,12,9277,Diesel,Manuelle,7
+38000.0,Renault,Symbol,5,22265,Essence,Manuelle,5
+11111.0,Renault,Kwid,2,30000,Essence,Manuelle,4
+32000.0,Renault,Kwid,1,17000,Essence,Manuelle,4
+35000.0,Renault,Kwid,1,39999,Essence,Manuelle,4
+8900.0,Renault,Clio,39,2854,Essence,Manuelle,4
+13000.0,Renault,Laguna,27,4123,Essence,Manuelle,9
+16800.0,Renault,Laguna,20,5566,Diesel,Manuelle,6
+10000.0,Renault,Laguna,18,13243,Diesel,Manuelle,7
+23500.0,Renault,Symbol,14,15642,Essence,Manuelle,5
+26000.0,Renault,Symbol,14,10571,Essence,Manuelle,5
+17000.0,Renault,Symbol,13,8563,Essence,Manuelle,5
+27500.0,Renault,Symbol,12,21666,Essence,Manuelle,5
+20000.0,Renault,Symbol,11,2727,Essence,Manuelle,5
+40000.0,Renault,Symbol,8,13915,Essence,Manuelle,5
+28500.0,Renault,Symbol,8,20000,Essence,Manuelle,5
+28500.0,Renault,Symbol,8,20000,Essence,Manuelle,5
+36800.0,Renault,Symbol,6,19166,Essence,Manuelle,5
+42000.0,Renault,Symbol,6,21250,Essence,Manuelle,5
+123456.0,Renault,Symbol,4,16675,Essence,Manuelle,5
+38000.0,Renault,Kwid,2,7250,Essence,Manuelle,4
+35000.0,Renault,Symbol,2,31000,Essence,Manuelle,4
+42000.0,Renault,Captur,10,9800,Essence,Manuelle,6
+34000.0,Renault,Captur,10,11132,Essence,Manuelle,6
+38000.0,Renault,Captur,9,15444,Essence,Manuelle,6
+32000.0,Renault,Captur,9,12369,Essence,Manuelle,6
+44000.0,Renault,Captur,7,20000,Essence,Manuelle,6
+62500.0,Renault,Captur,5,17200,Diesel,Manuelle,5
+9500.0,Renault,Clio,33,3373,Essence,Manuelle,5
+9500.0,Renault,Clio,33,3939,Essence,Manuelle,5
+9500.0,Renault,Clio,33,3939,Essence,Manuelle,5
+9500.0,Renault,Clio,33,3939,Essence,Manuelle,5
+9500.0,Renault,Clio,33,3373,Essence,Manuelle,5
+123000.0,Renault,Clio,22,5060,Essence,Manuelle,4
+28000.0,Renault,Clio,17,9411,Essence,Manuelle,5
+18700.0,Renault,Clio,17,11176,Essence,Manuelle,5
+18800.0,Renault,Clio,17,11176,Essence,Manuelle,5
+22000.0,Renault,Clio,14,7951,Essence,Manuelle,4
+34500.0,Renault,Clio,11,10120,Diesel,Manuelle,4
+35000.0,Renault,Clio,7,15903,Essence,Manuelle,5
+48000.0,Renault,Clio,5,14000,Essence,Manuelle,5
+43000.0,Renault,Clio,5,22265,Essence,Manuelle,5
+22222.0,Renault,Clio,4,20060,Essence,Manuelle,4
+35000.0,Renault,Clio,4,29500,Essence,Manuelle,5
+41000.0,Renault,Clio,3,30000,Essence,Manuelle,5
+59000.0,Renault,Clio,3,37109,Essence,Manuelle,5
+6200.0,Renault,Clio,34,3274,Essence,Manuelle,4
+10000.0,Renault,Clio,31,7419,Essence,Manuelle,5
+5500.0,Renault,Clio,29,3838,Essence,Manuelle,5
+8500.0,Renault,Clio,28,10357,Essence,Manuelle,5
+11000.0,Renault,Clio,27,13703,Essence,Manuelle,4
+16000.0,Renault,Clio,26,12961,Essence,Manuelle,4
+15000.0,Renault,Clio,25,10120,Essence,Manuelle,4
+44444.0,Renault,Clio,25,4453,Essence,Manuelle,4
+17000.0,Renault,Clio,24,4638,Essence,Manuelle,4
+19500.0,Renault,Clio,24,12500,Essence,Manuelle,4
+15500.0,Renault,Clio,24,10416,Essence,Manuelle,4
+15500.0,Renault,Clio,24,11666,Essence,Manuelle,6
+18500.0,Renault,Clio,24,4638,Essence,Manuelle,4
+15500.0,Renault,Clio,23,10652,Essence,Manuelle,4
+19000.0,Renault,Clio,23,21739,Essence,Manuelle,4
+19000.0,Renault,Clio,23,4840,Essence,Manuelle,4
+17000.0,Renault,Clio,23,10000,Essence,Manuelle,4
+14000.0,Renault,Clio,23,15217,Essence,Manuelle,5
+14000.0,Renault,Clio,23,10869,Essence,Manuelle,6
+15000.0,Renault,Clio,23,21739,Diesel,Manuelle,5
+20000.0,Renault,Clio,22,10000,Essence,Manuelle,5
+11500.0,Renault,Clio,22,5060,Essence,Manuelle,4
+14600.0,Renault,Clio,22,13636,Essence,Manuelle,4
+21500.0,Renault,Clio,21,7238,Essence,Manuelle,4
+16500.0,Renault,Clio,21,14285,Essence,Manuelle,5
+18000.0,Renault,Clio,21,18285,Diesel,Manuelle,4
+11500.0,Renault,Clio,21,5301,Diesel,Manuelle,7
+20000.0,Renault,Clio,20,17250,Essence,Manuelle,5
+18000.0,Renault,Clio,20,5566,Essence,Manuelle,5
+17000.0,Renault,Clio,19,17105,Essence,Manuelle,4
+16000.0,Renault,Clio,19,5859,Diesel,Manuelle,4
+16500.0,Renault,Clio,19,17894,Essence,Manuelle,5
+23000.0,Renault,Clio,19,5859,Essence,Manuelle,6
+21000.0,Renault,Clio,19,12894,Essence,Manuelle,5
+12000.0,Renault,Clio,19,5859,Essence,Manuelle,5
+23500.0,Renault,Clio,19,5859,Essence,Manuelle,4
+16200.0,Renault,Clio,19,5859,Essence,Manuelle,5
+25000.0,Renault,Clio,18,8761,Essence,Automatique,5
+22500.0,Renault,Clio,18,6172,Essence,Manuelle,5
+20000.0,Renault,Clio,18,5555,Essence,Manuelle,5
+18000.0,Renault,Clio,17,6548,Essence,Manuelle,5
+19000.0,Renault,Clio,17,6548,Essence,Manuelle,5
+18000.0,Renault,Clio,17,9529,Essence,Manuelle,5
+23000.0,Renault,Clio,16,6957,Essence,Manuelle,5
+20000.0,Renault,Clio,16,13125,Essence,Manuelle,5
+22000.0,Renault,Clio,15,7421,Diesel,Manuelle,5
+23000.0,Renault,Clio,15,7421,Essence,Manuelle,5
+12000.0,Renault,Clio,15,8333,GPL,Manuelle,5
+18500.0,Renault,Clio,15,14933,Essence,Manuelle,5
+28500.0,Renault,Clio,14,14357,Essence,Manuelle,5
+22000.0,Renault,Clio,14,7951,Essence,Manuelle,5
+17000.0,Renault,Clio,14,21428,Diesel,Manuelle,5
+25000.0,Renault,Clio,14,14000,Essence,Manuelle,4
+28000.0,Renault,Clio,13,12307,Essence,Manuelle,4
+32500.0,Renault,Clio,13,14615,Essence,Manuelle,5
+28000.0,Renault,Clio,12,15166,Diesel,Manuelle,5
+28500.0,Renault,Clio,12,9277,Essence,Manuelle,5
+140000.0,Renault,Clio,12,6666,Essence,Manuelle,5
+27300.0,Renault,Clio,12,14666,Essence,Manuelle,5
+15900.0,Renault,Clio,11,10120,Essence,Manuelle,5
+36500.0,Renault,Clio,10,11132,Essence,Manuelle,6
+36500.0,Renault,Clio,10,17000,Essence,Manuelle,6
+123000.0,Renault,Clio,10,11132,Essence,Manuelle,5
+35000.0,Renault,Clio,10,16000,Essence,Manuelle,5
+33700.0,Renault,Clio,10,11132,Essence,Manuelle,5
+31000.0,Renault,Clio,10,11132,Essence,Manuelle,5
+36000.0,Renault,Clio,9,15111,Essence,Manuelle,5
+36500.0,Renault,Clio,9,15333,Essence,Manuelle,5
+41000.0,Renault,Clio,8,13915,Essence,Manuelle,5
+38000.0,Renault,Clio,8,18875,Essence,Manuelle,5
+36000.0,Renault,Clio,8,13915,Essence,Manuelle,4
+41500.0,Renault,Clio,7,14285,Essence,Manuelle,4
+36500.0,Renault,Clio,7,15903,Essence,Manuelle,4
+123000.0,Renault,Clio,6,18554,Essence,Manuelle,5
+45000.0,Renault,Clio,6,12833,Essence,Manuelle,5
+45000.0,Renault,Clio,6,10000,Essence,Manuelle,5
+36500.0,Renault,Clio,6,17666,Essence,Manuelle,5
+43000.0,Renault,Clio,6,11666,Essence,Manuelle,5
+34000.0,Renault,Clio,6,21166,Essence,Manuelle,5
+42900.0,Renault,Clio,5,22265,Essence,Manuelle,5
+41500.0,Renault,Clio,5,15600,Essence,Manuelle,5
+43000.0,Renault,Clio,5,15000,Diesel,Manuelle,4
+39900.0,Renault,Clio,5,22265,Essence,Manuelle,5
+42900.0,Renault,Clio,5,18200,Essence,Manuelle,5
+47500.0,Renault,Clio,5,18000,Diesel,Manuelle,5
+42900.0,Renault,Clio,5,22265,Essence,Manuelle,5
+42500.0,Renault,Clio,5,18200,Essence,Manuelle,4
+42900.0,Renault,Clio,5,22265,Essence,Manuelle,5
+42900.0,Renault,Clio,5,18200,Essence,Manuelle,5
+42900.0,Renault,Clio,5,18800,Essence,Manuelle,5
+41000.0,Renault,Clio,5,24000,Diesel,Manuelle,5
+39900.0,Renault,Clio,5,22000,Essence,Manuelle,5
+39900.0,Renault,Clio,5,7980,Essence,Manuelle,5
+39900.0,Renault,Clio,5,22265,Essence,Manuelle,4
+42900.0,Renault,Clio,5,18400,Essence,Manuelle,5
+39900.0,Renault,Clio,4,18000,Essence,Manuelle,5
+41900.0,Renault,Clio,4,18250,Essence,Manuelle,5
+41900.0,Renault,Clio,4,18250,Essence,Manuelle,5
+41900.0,Renault,Clio,4,18250,Essence,Manuelle,5
+46000.0,Renault,Clio,4,42250,Essence,Manuelle,5
+42500.0,Renault,Clio,4,32500,Diesel,Manuelle,5
+38000.0,Renault,Clio,4,30000,Essence,Manuelle,5
+39900.0,Renault,Clio,4,16750,Essence,Manuelle,5
+46500.0,Renault,Clio,4,35000,Essence,Manuelle,5
+44500.0,Renault,Clio,4,37500,Essence,Manuelle,5
+46000.0,Renault,Clio,4,12750,Essence,Manuelle,5
+41500.0,Renault,Clio,4,10250,Essence,Manuelle,4
+39900.0,Renault,Clio,4,18250,Essence,Manuelle,5
+39900.0,Renault,Clio,4,19000,Essence,Manuelle,5
+35000.0,Renault,Clio,4,27831,Essence,Manuelle,5
+39000.0,Renault,Clio,4,23000,Essence,Manuelle,5
+45900.0,Renault,Clio,4,23700,Essence,Manuelle,5
+41900.0,Renault,Clio,4,18250,Essence,Manuelle,5
+39900.0,Renault,Clio,4,19000,Essence,Manuelle,5
+53000.0,Renault,Clio,3,8333,Essence,Manuelle,4
+39900.0,Renault,Clio,3,22333,Essence,Manuelle,5
+123000.0,Renault,Clio,3,31666,Essence,Manuelle,5
+53500.0,Renault,Clio,3,45333,Diesel,Manuelle,4
+44000.0,Renault,Clio,3,5000,Essence,Manuelle,4
+43000.0,Renault,Clio,3,23666,Essence,Manuelle,5
+42500.0,Renault,Clio,3,11666,Essence,Manuelle,4
+41900.0,Renault,Clio,3,37109,Essence,Manuelle,5
+39900.0,Renault,Clio,3,37109,Essence,Manuelle,5
+41000.0,Renault,Clio,3,22333,Essence,Manuelle,5
+39900.0,Renault,Clio,3,22666,Essence,Manuelle,5
+123000.0,Renault,Clio,3,37109,Essence,Manuelle,5
+39900.0,Renault,Clio,3,22333,Essence,Manuelle,5
+47000.0,Renault,Clio,3,17000,Essence,Manuelle,4
+41900.0,Renault,Clio,3,22333,Essence,Manuelle,5
+41000.0,Renault,Clio,3,22333,Essence,Manuelle,5
+39900.0,Renault,Clio,3,37109,Essence,Manuelle,5
+41000.0,Renault,Clio,3,22333,Essence,Manuelle,5
+42000.0,Renault,Clio,3,26666,Essence,Manuelle,5
+44000.0,Renault,Clio,3,7333,Essence,Manuelle,4
+41000.0,Renault,Clio,3,37109,Essence,Manuelle,4
+52000.0,Renault,Express,2,13500,Diesel,Manuelle,6
+5500.0,Renault,Express,36,8333,Diesel,Manuelle,6
+5000.0,Renault,Express,35,7142,Diesel,Manuelle,5
+6500.0,Renault,Express,33,9835,Diesel,Manuelle,5
+11000.0,Renault,Express,32,3478,Essence,Manuelle,6
+6000.0,Renault,Express,30,10000,Diesel,Manuelle,5
+43000.0,Renault,Express,2,33500,Diesel,Manuelle,5
+80000.0,Renault,Kadjar,5,14000,Essence,Automatique,7
+61000.0,Renault,Kadjar,6,23166,Essence,Manuelle,7
+65000.0,Renault,Kadjar,6,30000,Essence,Manuelle,7
+67000.0,Renault,Kadjar,6,19000,Essence,Manuelle,7
+62000.0,Renault,Kadjar,5,21400,Essence,Manuelle,7
+59000.0,Renault,Kadjar,5,20000,Essence,Automatique,5
+61500.0,Renault,Kadjar,5,20280,Essence,Manuelle,7
+83000.0,Renault,Kadjar,4,13000,Essence,Automatique,7
+16000.0,Renault,Kangoo,25,4453,Diesel,Manuelle,5
+10500.0,Renault,Kangoo,24,12500,Diesel,Manuelle,7
+11800.0,Renault,Kangoo,23,10260,Diesel,Manuelle,7
+11000.0,Renault,Kangoo,22,5060,Essence,Manuelle,5
+29000.0,Renault,Kangoo,21,5301,Essence,Manuelle,6
+9800.0,Renault,Kangoo,20,5566,Diesel,Manuelle,7
+7000.0,Renault,Kangoo,20,5566,Diesel,Manuelle,4
+25000.0,Renault,Kangoo,19,10210,Diesel,Manuelle,6
+25000.0,Renault,Kangoo,13,23076,Diesel,Manuelle,5
+59000.0,Renault,Koleos,10,9600,Diesel,Manuelle,8
+9500.0,Renault,Master,22,5060,Diesel,Manuelle,8
+18500.0,Renault,Master,22,5050,Diesel,Manuelle,8
+14000.0,Renault,Master,20,10000,Diesel,Manuelle,11
+17500.0,Renault,Megane,20,5566,Diesel,Manuelle,5
+17500.0,Renault,Megane,20,5566,Diesel,Manuelle,5
+22500.0,Renault,Megane,17,29411,Diesel,Manuelle,6
+29500.0,Renault,Megane,14,19857,Essence,Manuelle,7
+32000.0,Renault,Megane,14,7951,Essence,Manuelle,7
+49000.0,Renault,Megane,5,25000,Essence,Manuelle,7
+50000.0,Renault,Megane,5,22265,Essence,Manuelle,7
+9500.0,Renault,Megane,27,12962,Diesel,Manuelle,6
+12000.0,Renault,Megane,25,14600,Essence,Manuelle,7
+15000.0,Renault,Megane,21,5301,Diesel,Manuelle,5
+15500.0,Renault,Megane,21,5301,Diesel,Manuelle,5
+22000.0,Renault,Megane,21,12095,Essence,Manuelle,6
+20000.0,Renault,Megane,21,8023,Diesel,Manuelle,5
+10000.0,Renault,Megane,20,5566,Diesel,Manuelle,5
+16500.0,Renault,Megane,20,5566,Essence,Manuelle,6
+10000.0,Renault,Megane,20,5566,Diesel,Manuelle,5
+14500.0,Renault,Megane,20,5566,Diesel,Manuelle,5
+16000.0,Renault,Megane,20,5566,Diesel,Manuelle,6
+17000.0,Renault,Megane,20,21050,Diesel,Manuelle,6
+100000.0,Renault,Megane,20,10000,Diesel,Manuelle,5
+16800.0,Renault,Megane,20,5566,Diesel,Manuelle,5
+14000.0,Renault,Megane,20,16000,Essence,Manuelle,6
+16500.0,Renault,Megane,20,14000,Essence,Manuelle,6
+18500.0,Renault,Megane,20,5566,Diesel,Manuelle,5
+20000.0,Renault,Megane,19,12631,Diesel,Manuelle,6
+16300.0,Renault,Megane,19,5859,Diesel,Manuelle,5
+25000.0,Renault,Megane,19,12631,Essence,Manuelle,7
+19500.0,Renault,Megane,19,12684,Diesel,Manuelle,6
+15500.0,Renault,Megane,19,5859,Diesel,Manuelle,5
+11200.0,Renault,Megane,19,5263,Diesel,Manuelle,5
+18000.0,Renault,Megane,18,26111,Essence,Manuelle,6
+17900.0,Renault,Megane,18,19444,Essence,Manuelle,6
+18500.0,Renault,Megane,18,14722,Diesel,Manuelle,5
+19000.0,Renault,Megane,18,13333,Diesel,Manuelle,5
+22500.0,Renault,Megane,18,6184,Essence,Manuelle,6
+13000.0,Renault,Megane,18,6184,Diesel,Manuelle,5
+22500.0,Renault,Megane,17,6548,Diesel,Manuelle,6
+18500.0,Renault,Megane,17,6548,Essence,Manuelle,6
+20000.0,Renault,Megane,17,11176,Essence,Automatique,7
+18000.0,Renault,Megane,17,17529,Diesel,Manuelle,6
+22000.0,Renault,Megane,17,11176,Essence,Automatique,7
+22000.0,Renault,Megane,17,15882,Essence,Automatique,7
+21500.0,Renault,Megane,16,6957,Essence,Manuelle,6
+22000.0,Renault,Megane,15,7421,Diesel,Manuelle,5
+29500.0,Renault,Megane,15,12000,Essence,Manuelle,7
+26500.0,Renault,Megane,15,13666,Essence,Manuelle,7
+27000.0,Renault,Megane,14,12500,Diesel,Manuelle,5
+32000.0,Renault,Megane,14,7951,Diesel,Manuelle,6
+11111.0,Renault,Megane,14,12428,Essence,Manuelle,7
+24500.0,Renault,Megane,14,7951,Diesel,Manuelle,5
+22000.0,Renault,Megane,14,24159,Diesel,Manuelle,5
+35000.0,Renault,Megane,13,20000,Diesel,Manuelle,5
+35000.0,Renault,Megane,13,20000,Diesel,Manuelle,6
+29500.0,Renault,Megane,12,11916,Essence,Manuelle,7
+32000.0,Renault,Megane,12,9277,Diesel,Manuelle,5
+24000.0,Renault,Megane,12,18221,Essence,Manuelle,7
+42000.0,Renault,Megane,11,10120,Diesel,Manuelle,12
+35000.0,Renault,Megane,10,11132,Diesel,Manuelle,6
+89000.0,Renault,Megane,6,18554,Essence,Automatique,8
+61000.0,Renault,Megane,5,18600,Diesel,Manuelle,6
+49800.0,Renault,Megane,5,22265,Essence,Manuelle,7
+51500.0,Renault,Megane,5,23360,Essence,Manuelle,7
+8000.0,Renault,Megane,5,19400,Diesel,Manuelle,6
+51500.0,Renault,Megane,5,21200,Essence,Manuelle,7
+70000.0,Renault,Megane,5,7600,Essence,Manuelle,7
+52000.0,Renault,Megane,5,50000,Diesel,Manuelle,5
+56500.0,Renault,Megane,4,30000,Diesel,Manuelle,6
+64000.0,Renault,Megane,4,17500,Essence,Manuelle,7
+55500.0,Renault,Megane,4,37500,Diesel,Manuelle,5
+52500.0,Renault,Megane,4,32500,Diesel,Manuelle,5
+57900.0,Renault,Megane,4,30250,Essence,Manuelle,6
+90000.0,Renault,Megane,4,6250,Essence,Manuelle,7
+57000.0,Renault,Megane,3,29999,Essence,Automatique,7
+73900.0,Renault,Megane,3,26000,Essence,Automatique,7
+73900.0,Renault,Megane,3,26000,Essence,Automatique,7
+73900.0,Renault,Megane,3,26000,Essence,Manuelle,7
+65000.0,Renault,Megane,3,20000,Essence,Manuelle,7
+25500.0,Renault,Modus,12,14083,Essence,Manuelle,6
+12500.0,Renault,R11,37,6756,Diesel,Manuelle,6
+11000.0,Renault,R19,35,3428,Essence,Manuelle,6
+7300.0,Renault,R19,33,10272,Essence,Manuelle,6
+5800.0,Renault,R19,32,3478,Essence,Manuelle,4
+7500.0,Renault,R19,32,3478,Essence,Manuelle,6
+7000.0,Renault,R19,31,9677,Essence,Manuelle,6
+7800.0,Renault,R19,29,10344,Essence,Manuelle,6
+6000.0,Renault,R19,29,3838,Essence,Manuelle,4
+8000.0,Renault,R19,28,3975,Essence,Manuelle,6
+13000.0,Renault,R19,28,7142,Diesel,Manuelle,6
+6200.0,Renault,R4,40,2783,Essence,Manuelle,6
+6200.0,Renault,R5,39,2854,Essence,Manuelle,4
+6200.0,Renault,R5,27,4123,Essence,Manuelle,4
+5000.0,Renault,R9,42,8452,Essence,Manuelle,5
+123456.0,Renault,R9,40,3086,Essence,Manuelle,5
+6800.0,Renault,R9,36,3092,Essence,Manuelle,5
+18000.0,Renault,Scenic,23,8695,Essence,Automatique,7
+18000.0,Renault,Scenic,23,4840,Diesel,Manuelle,7
+111000.0,Renault,Scenic,22,5060,Diesel,Manuelle,7
+27000.0,Renault,Trafic,10,22000,Diesel,Manuelle,7
+22900.0,Renault,Twingo,15,12666,Essence,Manuelle,4
+40000.0,Renault,Twingo,12,16666,Essence,Manuelle,8
+70000.0,Seat,Arona,3,24000,Essence,Manuelle,4
+52000.0,Seat,Arona,6,27833,Essence,Manuelle,6
+58000.0,Seat,Arona,5,35400,Essence,Manuelle,6
+73000.0,Seat,Arona,2,25000,Essence,Manuelle,6
+10500.0,Seat,Arosa,26,12307,Essence,Manuelle,5
+125000.0,Seat,Ateca,3,15333,Essence,Automatique,9
+100000.0,Seat,Ateca,3,14666,Essence,Automatique,8
+62000.0,Seat,Leon,4,37500,Essence,Manuelle,6
+15000.0,Seat,Cordoba,26,3264,Essence,Manuelle,5
+123000.0,Seat,Ibiza,6,14147,Essence,Manuelle,4
+56000.0,Seat,Ibiza,4,21220,Essence,Manuelle,4
+48000.0,Seat,Ibiza,3,40000,Essence,Manuelle,4
+44000.0,Seat,Ibiza,3,33333,Essence,Manuelle,4
+58000.0,Seat,Ibiza,3,28294,Essence,Manuelle,4
+53000.0,Seat,Ibiza,3,28294,Essence,Manuelle,4
+35000.0,Seat,Ibiza,1,14000,Essence,Automatique,6
+35000.0,Seat,Ibiza,1,13000,Essence,Automatique,6
+35000.0,Seat,Ibiza,1,12000,Essence,Automatique,6
+25500.0,Seat,Ibiza,14,14285,Essence,Manuelle,5
+29500.0,Seat,Ibiza,13,6529,Essence,Manuelle,5
+26800.0,Seat,Ibiza,13,18461,Essence,Automatique,5
+30000.0,Seat,Ibiza,12,10833,Essence,Manuelle,5
+26800.0,Seat,Ibiza,12,7073,Essence,Manuelle,5
+21500.0,Seat,Ibiza,10,2000,Essence,Manuelle,5
+24000.0,Seat,Ibiza,10,8488,Essence,Manuelle,17
+46000.0,Seat,Ibiza,10,8488,Essence,Manuelle,5
+30000.0,Seat,Ibiza,10,20000,Essence,Manuelle,5
+27000.0,Seat,Ibiza,10,8488,Essence,Manuelle,5
+28500.0,Seat,Ibiza,10,8488,Essence,Manuelle,5
+35000.0,Seat,Ibiza,8,10610,Essence,Manuelle,5
+38000.0,Seat,Ibiza,8,18750,Essence,Manuelle,5
+35000.0,Seat,Ibiza,7,12126,Essence,Manuelle,4
+31000.0,Seat,Ibiza,7,21857,Essence,Manuelle,4
+40000.0,Seat,Ibiza,6,26666,Essence,Manuelle,4
+37000.0,Seat,Ibiza,6,33500,Essence,Manuelle,4
+47500.0,Seat,Ibiza,6,15870,Essence,Manuelle,4
+38000.0,Seat,Ibiza,6,23000,Essence,Manuelle,4
+40000.0,Seat,Ibiza,5,16976,Essence,Manuelle,4
+42000.0,Seat,Ibiza,5,19600,Essence,Manuelle,4
+49000.0,Seat,Ibiza,5,16976,Essence,Manuelle,4
+38000.0,Seat,Ibiza,4,50000,Essence,Manuelle,4
+62000.0,Seat,Ibiza,4,13750,Essence,Manuelle,6
+44900.0,Seat,Ibiza,4,21220,Essence,Manuelle,5
+44900.0,Seat,Ibiza,4,21220,Essence,Manuelle,5
+44900.0,Seat,Ibiza,4,21220,Essence,Manuelle,4
+44900.0,Seat,Ibiza,4,21220,Essence,Manuelle,4
+44900.0,Seat,Ibiza,4,21220,Essence,Manuelle,4
+44900.0,Seat,Ibiza,4,37500,Essence,Manuelle,4
+44900.0,Seat,Ibiza,4,37500,Essence,Manuelle,4
+50000.0,Seat,Ibiza,4,32500,Essence,Manuelle,4
+61000.0,Seat,Ibiza,3,21666,Essence,Manuelle,4
+55000.0,Seat,Ibiza,3,25933,Essence,Manuelle,4
+45900.0,Seat,Ibiza,3,28294,Essence,Manuelle,4
+43000.0,Seat,Ibiza,3,28294,Essence,Manuelle,5
+45900.0,Seat,Ibiza,3,38000,Essence,Manuelle,4
+49000.0,Seat,Ibiza,3,10000,Essence,Manuelle,4
+111111.0,Seat,Ibiza,3,28294,Essence,Manuelle,4
+45900.0,Seat,Ibiza,3,38000,Essence,Manuelle,4
+41500.0,Seat,Ibiza,3,28294,Essence,Manuelle,4
+58000.0,Seat,Ibiza,3,33333,Essence,Manuelle,4
+55000.0,Seat,Ibiza,3,28294,Essence,Manuelle,5
+45000.0,Seat,Ibiza,3,28000,Essence,Manuelle,4
+62500.0,Seat,Ibiza,3,25333,Essence,Manuelle,4
+55000.0,Seat,Ibiza,3,17333,Essence,Manuelle,5
+61900.0,Seat,Ibiza,3,24999,Essence,Manuelle,5
+75000.0,Seat,Ibiza,1,27100,Essence,Automatique,6
+68500.0,Seat,Leon,9,18888,Essence,Manuelle,7
+48000.0,Seat,Leon,9,24333,Essence,Automatique,6
+42500.0,Seat,Leon,9,18888,Essence,Manuelle,6
+70000.0,Seat,Leon,5,31600,Diesel,Manuelle,6
+56000.0,Seat,Leon,5,2400,Essence,Manuelle,6
+51000.0,Seat,Leon,5,16976,Essence,Manuelle,6
+40500.0,Seat,Leon,11,16909,Essence,Manuelle,5
+50000.0,Seat,Leon,10,12450,Essence,Automatique,6
+42000.0,Seat,Leon,10,19200,Essence,Manuelle,5
+47500.0,Seat,Leon,10,20500,Essence,Automatique,6
+45000.0,Seat,Leon,10,12600,Essence,Manuelle,5
+51500.0,Seat,Leon,9,8666,Essence,Manuelle,5
+47000.0,Seat,Leon,9,17222,Essence,Manuelle,6
+46000.0,Seat,Leon,9,17222,Essence,Manuelle,6
+49000.0,Seat,Leon,9,12777,Essence,Manuelle,5
+45500.0,Seat,Leon,9,9431,Essence,Automatique,6
+44000.0,Seat,Leon,9,9431,Essence,Manuelle,5
+43500.0,Seat,Leon,9,18000,Essence,Manuelle,6
+42000.0,Seat,Leon,9,9431,Essence,Manuelle,5
+43500.0,Seat,Leon,9,18111,Essence,Manuelle,6
+44000.0,Seat,Leon,9,9431,Essence,Manuelle,5
+40000.0,Seat,Leon,8,19000,Essence,Manuelle,5
+55500.0,Seat,Leon,8,10610,Essence,Manuelle,6
+52000.0,Seat,Leon,8,26500,Essence,Manuelle,6
+52000.0,Seat,Leon,8,10610,Essence,Manuelle,6
+52000.0,Seat,Leon,8,10610,Essence,Manuelle,6
+50500.0,Seat,Leon,8,16625,Essence,Manuelle,6
+46000.0,Seat,Leon,8,17750,Essence,Manuelle,5
+57000.0,Seat,Leon,7,19142,Essence,Manuelle,6
+47000.0,Seat,Leon,7,12126,Essence,Manuelle,6
+44000.0,Seat,Leon,7,12126,Essence,Manuelle,5
+48500.0,Seat,Leon,7,24714,Essence,Manuelle,6
+54500.0,Seat,Leon,7,22142,Essence,Manuelle,6
+48000.0,Seat,Leon,6,33333,Essence,Manuelle,6
+61000.0,Seat,Leon,6,23333,Essence,Manuelle,6
+49000.0,Seat,Leon,6,18333,Essence,Manuelle,6
+44000.0,Seat,Leon,6,25000,Essence,Manuelle,6
+56000.0,Seat,Leon,6,22666,Essence,Manuelle,6
+55000.0,Seat,Leon,6,12166,Essence,Manuelle,6
+88000.0,Seat,Leon,2,10000,Essence,Manuelle,6
+23000.0,Seat,Mii,8,27875,Essence,Manuelle,4
+111111.0,Seat,Mii,8,10610,Essence,Manuelle,4
+68000.0,Shuanghuan,Ceo,3,27333,GPL,Manuelle,6
+45000.0,Shuanghuan,Ceo,2,8175,Essence,Manuelle,7
+66750.0,Skoda,Fabia,1,3000,Essence,Manuelle,4
+24000.0,Skoda,Fabia,14,10142,Essence,Manuelle,4
+30000.0,Skoda,Fabia,8,9673,Essence,Manuelle,4
+52000.0,Skoda,Fabia,6,16000,Essence,Manuelle,5
+31000.0,Skoda,Fabia,4,46000,Essence,Manuelle,4
+33800.0,Skoda,Fabia,4,25000,Essence,Manuelle,4
+38500.0,Skoda,Fabia,3,43283,Essence,Manuelle,4
+36500.0,Skoda,Fabia,3,29000,Essence,Manuelle,4
+42000.0,Skoda,Fabia,3,25795,Essence,Manuelle,4
+43000.0,Skoda,Fabia,3,25795,Essence,Manuelle,4
+19000.0,Skoda,Octavia,16,5000,Diesel,Manuelle,6
+44000.0,Skoda,Octavia,7,20000,Essence,Automatique,8
+64500.0,Skoda,Octavia,4,25000,Essence,Automatique,7
+124000.0,Skoda,Octavia,2,10500,Essence,Automatique,8
+22000.0,Smart,Fortwo,14,8785,Essence,Automatique,4
+22000.0,Smart,Fortwo,14,8642,Essence,Automatique,4
+76000.0,Ssangyong,Actyon,5,27200,Diesel,Manuelle,7
+25500.0,Ssangyong,Actyon,16,22174,Diesel,Manuelle,10
+42000.0,Ssangyong,Actyon,12,37500,Diesel,Manuelle,7
+31500.0,Ssangyong,Actyon,12,9093,Diesel,Manuelle,7
+39500.0,Ssangyong,Actyon,10,10911,Diesel,Manuelle,7
+123000.0,Ssangyong,Actyon,8,16312,Diesel,Manuelle,7
+50000.0,Ssangyong,Actyon,8,32500,Diesel,Manuelle,7
+111000.0,Ssangyong,Actyon,8,16312,Diesel,Manuelle,7
+43000.0,Ssangyong,Actyon,8,13639,Diesel,Automatique,7
+48500.0,Dongfeng,S50,4,21750,Essence,Manuelle,6
+37500.0,Ssangyong,Korando,11,9919,Diesel,Automatique,11
+85000.0,Ssangyong,Korando,3,23333,Essence,Manuelle,9
+97000.0,Ssangyong,Korando,2,15000,Essence,Automatique,9
+36000.0,Ssangyong,Kyron,13,11538,Diesel,Automatique,11
+26000.0,Ssangyong,Musso,17,11411,Diesel,Manuelle,12
+56000.0,Ssangyong,Rexton,12,16666,Diesel,Automatique,11
+25000.0,Ssangyong,Rexton,20,5455,Essence,Manuelle,10
+57500.0,Ssangyong,Tivoli,9,12124,Essence,Automatique,7
+44000.0,Ssangyong,Tivoli,8,21750,Essence,Manuelle,7
+45000.0,Ssangyong,Tivoli,8,21250,Essence,Manuelle,7
+55000.0,Ssangyong,Tivoli,8,13639,Essence,Manuelle,7
+52000.0,Ssangyong,Tivoli,8,23750,Essence,Automatique,7
+49900.0,Ssangyong,Tivoli,7,15588,Diesel,Manuelle,6
+53500.0,Ssangyong,Tivoli,7,14876,Essence,Manuelle,7
+53500.0,Ssangyong,Tivoli,7,14876,Essence,Manuelle,7
+53000.0,Ssangyong,Tivoli,7,22857,Essence,Automatique,8
+58000.0,Ssangyong,Tivoli,6,26666,Essence,Automatique,8
+53000.0,Ssangyong,Tivoli,6,24666,Essence,Manuelle,7
+73000.0,Ssangyong,Tivoli,4,6000,Essence,Automatique,8
+70000.0,Ssangyong,Tivoli,4,13250,Essence,Manuelle,6
+66000.0,Ssangyong,Tivoli,3,31000,Essence,Manuelle,6
+69700.0,Ssangyong,Tivoli,3,14166,Essence,Manuelle,6
+74000.0,Ssangyong,Tivoli,3,7000,Essence,Manuelle,6
+54000.0,Ssangyong,Tivoli Xlv,7,7142,Essence,Manuelle,7
+28000.0,Suzuki,Celerio,4,19000,Essence,Automatique,4
+29500.0,Suzuki,S-Presso,3,23333,Essence,Manuelle,5
+31000.0,Suzuki,S-Presso,3,23333,Essence,Manuelle,5
+100000.0,Suzuki,S-Presso,0,0,Essence,Automatique,6
+34900.0,Suzuki,Ciaz,7,12142,Essence,Manuelle,5
+34900.0,Suzuki,Ciaz,7,14285,Essence,Manuelle,5
+34900.0,Suzuki,Ciaz,7,10387,Essence,Manuelle,5
+42500.0,Suzuki,Dzire,5,4800,Essence,Manuelle,5
+35900.0,Suzuki,Dzire,4,20250,Essence,Manuelle,5
+38500.0,Suzuki,Dzire,4,17750,Essence,Manuelle,5
+32000.0,Suzuki,Dzire,4,12000,Essence,Manuelle,4
+34900.0,Suzuki,Dzire,4,20500,Essence,Manuelle,5
+34500.0,Suzuki,Dzire,4,17125,Essence,Manuelle,5
+29200.0,Suzuki,Dzire,4,15750,Essence,Manuelle,4
+36900.0,Suzuki,Dzire,4,10000,Essence,Manuelle,5
+34900.0,Suzuki,Dzire,4,20000,Essence,Manuelle,5
+35900.0,Suzuki,Dzire,4,20250,Essence,Manuelle,5
+34900.0,Suzuki,Dzire,4,20000,Essence,Manuelle,5
+35900.0,Suzuki,Dzire,4,20250,Essence,Manuelle,5
+34900.0,Suzuki,Dzire,4,20250,Essence,Manuelle,5
+33000.0,Suzuki,Dzire,4,18177,Essence,Manuelle,5
+34900.0,Suzuki,Dzire,4,19999,Essence,Manuelle,5
+34900.0,Suzuki,Dzire,4,20000,Essence,Manuelle,5
+34900.0,Suzuki,Dzire,4,18177,Essence,Manuelle,5
+45000.0,Suzuki,Ciaz,4,21250,Essence,Manuelle,7
+34900.0,Suzuki,Dzire,4,21750,Essence,Manuelle,5
+34900.0,Suzuki,Dzire,4,20000,Essence,Manuelle,5
+35900.0,Suzuki,Dzire,3,27000,Essence,Manuelle,5
+28000.0,Suzuki,S-Presso,3,12666,Essence,Manuelle,4
+36900.0,Suzuki,Dzire,3,27333,Essence,Manuelle,5
+37900.0,Suzuki,Dzire,3,27666,Essence,Manuelle,5
+37900.0,Suzuki,Dzire,3,24237,Essence,Manuelle,5
+36900.0,Suzuki,Dzire,2,20000,Essence,Manuelle,5
+36900.0,Suzuki,Dzire,2,40000,Essence,Manuelle,5
+19500.0,Suzuki,Baleno,0,0,Essence,Manuelle,6
+46900.0,Suzuki,Baleno,7,11285,Essence,Automatique,5
+33000.0,Suzuki,Baleno,7,25714,Essence,Manuelle,5
+39900.0,Suzuki,Baleno,7,10387,Essence,Automatique,5
+39900.0,Suzuki,Baleno,7,10387,Essence,Automatique,5
+11111.0,Suzuki,Baleno,7,25714,Essence,Automatique,5
+45000.0,Suzuki,Baleno,6,6333,Essence,Manuelle,4
+34800.0,Suzuki,Celerio,4,18177,Essence,Manuelle,4
+33000.0,Suzuki,Celerio,3,18666,Essence,Manuelle,4
+28000.0,Suzuki,Celerio,7,10387,Essence,Manuelle,4
+31500.0,Suzuki,Celerio,6,11000,Essence,Manuelle,4
+28500.0,Suzuki,Celerio,6,11000,Essence,Manuelle,4
+31000.0,Suzuki,Celerio,4,24250,Essence,Manuelle,4
+35000.0,Suzuki,Celerio,4,17250,Essence,Automatique,5
+30000.0,Suzuki,Celerio,2,31000,Essence,Manuelle,4
+77500.0,Suzuki,Jimny,5,23800,Essence,Manuelle,6
+87000.0,Suzuki,Jimny,3,13333,Essence,Manuelle,6
+39500.0,Suzuki,Swift,5,19400,Essence,Manuelle,5
+46000.0,Suzuki,Swift,5,6400,Essence,Manuelle,5
+61500.0,Suzuki,Swift,0,0,Essence,Automatique,5
+28900.0,Suzuki,Swift,7,10387,Essence,Manuelle,5
+35500.0,Suzuki,Swift,7,19285,Essence,Manuelle,5
+31900.0,Suzuki,Swift,7,15714,Essence,Manuelle,5
+32900.0,Suzuki,Swift,7,16142,Essence,Manuelle,5
+32900.0,Suzuki,Swift,7,18571,Essence,Manuelle,5
+31900.0,Suzuki,Swift,7,15714,Essence,Manuelle,5
+33800.0,Suzuki,Swift,6,15000,Essence,Manuelle,5
+34000.0,Suzuki,Swift,6,20083,Essence,Manuelle,5
+36500.0,Suzuki,Swift,6,25000,Essence,Automatique,5
+40000.0,Suzuki,Swift,5,26900,Essence,Manuelle,5
+37900.0,Suzuki,Swift,4,19249,Essence,Automatique,5
+37900.0,Suzuki,Swift,4,19999,Essence,Automatique,5
+36500.0,Suzuki,Swift,4,50000,Essence,Manuelle,5
+39800.0,Suzuki,Swift,4,27750,Essence,Automatique,5
+37900.0,Suzuki,Swift,4,20000,Essence,Manuelle,5
+37900.0,Suzuki,Swift,4,20500,Essence,Manuelle,5
+44000.0,Suzuki,Swift,3,8000,Essence,Automatique,5
+14000.0,Suzuki,Swift,1,50000,Essence,Automatique,5
+59000.0,Suzuki,Sx4,2,9500,Essence,Automatique,6
+65000.0,Suzuki,Vitara,6,20083,Essence,Automatique,6
+12900.0,Suzuki,Wagon R,23,9652,Essence,Manuelle,5
+35000.0,Talbot,S-Presso,3,11,Essence,Manuelle,5
+60000.0,Tesla,Model X,0,0,Electrique,Automatique,5
+24000.0,Toyota,Yaris,11,23090,Essence,Manuelle,6
+35900.0,Toyota,Yaris,1,22000,Essence,Manuelle,4
+30500.0,Toyota,Yaris,26,8923,Essence,Manuelle,14
+10000.0,Toyota,Yaris,24,16666,Essence,Manuelle,5
+123000.0,Toyota,Yaris,13,18153,Diesel,Manuelle,10
+35000.0,Toyota,Agya,3,21666,Essence,Manuelle,4
+34000.0,Toyota,Agya,3,16666,Essence,Manuelle,4
+36000.0,Toyota,Agya,2,3900,Essence,Manuelle,4
+36000.0,Toyota,Agya,2,25250,Essence,Manuelle,4
+26000.0,Toyota,Avensis,11,25363,Essence,Manuelle,6
+27000.0,Toyota,Avensis,11,30545,Essence,Manuelle,6
+27000.0,Toyota,Avensis,11,30636,Essence,Manuelle,6
+27000.0,Toyota,Avensis,11,20181,Essence,Manuelle,6
+34000.0,Toyota,Aygo,2,17500,Essence,Manuelle,4
+35000.0,Toyota,Aygo,2,17500,Essence,Manuelle,4
+35500.0,Toyota,Aygo,2,17000,Essence,Manuelle,4
+40000.0,Toyota,Aygo,1,4444,Essence,Manuelle,4
+40000.0,Toyota,Aygo,1,124782,Essence,Manuelle,4
+29800.0,Toyota,Aygo,11,11343,Essence,Manuelle,4
+30000.0,Toyota,Aygo,7,12714,Essence,Manuelle,4
+34000.0,Toyota,Aygo,3,24666,Essence,Manuelle,4
+37900.0,Toyota,Aygo,2,25000,Essence,Automatique,5
+37900.0,Toyota,Aygo,2,25000,Essence,Automatique,5
+37900.0,Toyota,Aygo,2,25000,Essence,Manuelle,5
+37900.0,Toyota,Aygo,2,29500,Essence,Automatique,5
+40500.0,Toyota,Aygo,2,27500,Essence,Manuelle,5
+43200.0,Toyota,Aygo,2,14000,Essence,Automatique,7
+74000.0,Toyota,Chr,4,20250,Essence,Automatique,6
+74000.0,Toyota,Chr,4,35000,Essence,Automatique,6
+74000.0,Toyota,Chr,4,35000,Essence,Automatique,6
+63000.0,Toyota,Chr,7,28285,Essence,Automatique,6
+72000.0,Toyota,Chr,6,15000,Essence,Automatique,6
+70000.0,Toyota,Chr,6,20000,Essence,Automatique,6
+67000.0,Toyota,Chr,6,20797,Essence,Manuelle,6
+90000.0,Toyota,Chr,4,9500,Essence,Manuelle,6
+84000.0,Toyota,Chr,3,28866,Essence,Automatique,6
+67000.0,Toyota,Corolla,4,21250,Essence,Automatique,6
+12000.0,Toyota,Corolla,33,8878,Essence,Manuelle,7
+12000.0,Toyota,Corolla,25,4991,Essence,Manuelle,6
+15000.0,Toyota,Corolla,24,10166,Essence,Manuelle,6
+23000.0,Toyota,Corolla,20,6239,Essence,Automatique,8
+13000.0,Toyota,Corolla,15,8230,Essence,Manuelle,5
+69900.0,Toyota,Corolla,4,12000,Essence,Manuelle,6
+69900.0,Toyota,Corolla,4,12000,Essence,Manuelle,6
+69900.0,Toyota,Corolla,4,12000,Essence,Manuelle,6
+69900.0,Toyota,Corolla,4,12000,Essence,Manuelle,6
+71900.0,Toyota,Corolla,4,12000,Essence,Manuelle,6
+71900.0,Toyota,Corolla,4,12000,Essence,Manuelle,6
+71900.0,Toyota,Corolla,4,11999,Essence,Manuelle,6
+52000.0,Toyota,Hi Ace,6,20797,Diesel,Manuelle,8
+13000.0,Toyota,Hi Ace,28,4456,Diesel,Manuelle,10
+11700.0,Toyota,Hi Ace,24,5199,Diesel,Manuelle,10
+48000.0,Toyota,Hi Ace,18,27222,Diesel,Manuelle,11
+20000.0,Toyota,Hi Ace,16,7798,Diesel,Manuelle,11
+27000.0,Toyota,Hi Ace,15,8318,Essence,Manuelle,10
+33000.0,Toyota,Hi Ace,11,45454,Diesel,Manuelle,8
+22000.0,Toyota,Hi Ace,9,13864,Diesel,Manuelle,8
+111111.0,Toyota,Hi Ace,6,20797,Diesel,Manuelle,8
+50000.0,Toyota,Hi Ace,6,20797,Diesel,Manuelle,8
+45000.0,Toyota,Hi Ace,6,83333,Diesel,Manuelle,8
+13000.0,Toyota,Hilux,35,3565,Diesel,Manuelle,10
+24083.0,Toyota,Hilux,15,19333,Diesel,Manuelle,10
+123000.0,Toyota,Hilux,14,8913,Diesel,Manuelle,10
+73800.0,Toyota,Hilux,14,34285,Diesel,Manuelle,8
+35000.0,Toyota,Land Cruiser,32,15625,Diesel,Manuelle,11
+23000.0,Toyota,Land Cruiser,25,4991,Diesel,Manuelle,10
+59000.0,Toyota,Land Cruiser,23,12173,Essence,Manuelle,17
+50000.0,Toyota,Land Cruiser,22,15000,Diesel,Manuelle,11
+112000.0,Toyota,Land Cruiser,17,17058,Diesel,Manuelle,11
+95000.0,Toyota,Land Cruiser,16,19437,Essence,Automatique,19
+140000.0,Toyota,Land Cruiser,11,6181,Essence,Manuelle,13
+115000.0,Toyota,Rav 4,4,25000,Essence,Automatique,9
+27800.0,Toyota,Rav 4,24,9583,Essence,Manuelle,10
+128000.0,Toyota,Rav 4,4,16250,Essence,Automatique,9
+5200.0,Toyota,Starlet,32,9062,Essence,Manuelle,4
+9500.0,Toyota,Tercel,26,4799,Essence,Manuelle,7
+55000.0,Toyota,Yaris,3,40000,Essence,Manuelle,6
+23000.0,Toyota,Yaris,18,6932,Essence,Manuelle,4
+21500.0,Toyota,Yaris,16,15411,Essence,Manuelle,4
+24000.0,Toyota,Yaris,14,18357,Essence,Manuelle,4
+23300.0,Toyota,Yaris,12,10398,Essence,Manuelle,4
+35000.0,Toyota,Yaris,10,15500,Essence,Manuelle,5
+34000.0,Toyota,Yaris,10,15600,Essence,Manuelle,5
+35000.0,Toyota,Yaris,10,19375,Essence,Manuelle,5
+41000.0,Toyota,Yaris,9,54444,Essence,Manuelle,5
+43000.0,Toyota,Yaris,8,18500,Essence,Manuelle,5
+32000.0,Toyota,Yaris,7,17826,Essence,Manuelle,4
+32000.0,Toyota,Yaris,7,17826,Essence,Manuelle,4
+31500.0,Toyota,Yaris,7,19428,Essence,Manuelle,4
+30000.0,Toyota,Yaris,7,17826,Essence,Manuelle,4
+33800.0,Toyota,Yaris,6,23333,Essence,Manuelle,4
+33000.0,Toyota,Yaris,6,20797,Essence,Manuelle,4
+48000.0,Toyota,Yaris,5,14400,Essence,Manuelle,6
+39000.0,Toyota,Yaris,5,24956,Essence,Manuelle,5
+56000.0,Toyota,Yaris,4,31195,Essence,Manuelle,6
+39000.0,Toyota,Yaris,4,14000,Essence,Manuelle,4
+55000.0,Toyota,Yaris,3,30900,Essence,Manuelle,6
+19500.0,Volkswagen,Arteon,23,18695,Essence,Manuelle,5
+40000.0,Seat,Ibiza,3,66666,Essence,Manuelle,5
+75000.0,Volkswagen,T-Cross,1,6900,Essence,Manuelle,6
+150000.0,Volkswagen,ID4,0,0,Electrique,Automatique,6
+25000.0,Volkswagen,181,48,2083,Essence,Manuelle,9
+13800.0,Volkswagen,Golf,23,5073,Essence,Manuelle,5
+26000.0,Seat,Ibiza,12,7073,Essence,Manuelle,4
+52000.0,Volkswagen,CC,12,20375,Essence,Automatique,10
+65000.0,Volkswagen,Amarok,11,16909,Diesel,Manuelle,7
+82000.0,Volkswagen,Amarok,11,18181,Diesel,Manuelle,8
+82000.0,Volkswagen,Amarok,9,12964,Diesel,Manuelle,7
+77000.0,Volkswagen,Amarok,8,26250,Diesel,Manuelle,7
+50000.0,Volkswagen,Golf 7,7,23285,Essence,Manuelle,5
+105000.0,Volkswagen,Golf,6,19447,Diesel,Automatique,7
+60000.0,FAW,Besturn X40,3,13000,Essence,Automatique,6
+65000.0,Volkswagen,Bora,1,2500,Essence,Automatique,6
+20000.0,Volkswagen,Bora,25,4667,Essence,Manuelle,7
+16000.0,Volkswagen,Bora,22,5611,Diesel,Manuelle,7
+14000.0,Volkswagen,Bora,22,5611,Diesel,Manuelle,7
+30000.0,Volkswagen,Bora,21,9666,Diesel,Manuelle,7
+16800.0,Volkswagen,Bora,18,23444,Diesel,Manuelle,7
+17500.0,Volkswagen,Caddy,19,14736,Diesel,Manuelle,8
+16000.0,Volkswagen,Caddy,17,6863,Diesel,Manuelle,4
+22000.0,Volkswagen,Caddy,16,7292,Diesel,Manuelle,7
+15500.0,Volkswagen,Caddy,14,8334,Diesel,Manuelle,8
+17000.0,Volkswagen,Caddy,14,8334,Diesel,Manuelle,8
+24200.0,Volkswagen,Caddy,12,25000,Diesel,Manuelle,5
+30000.0,Volkswagen,Caddy,12,17666,Diesel,Manuelle,7
+26000.0,Volkswagen,Caddy,12,19833,Diesel,Manuelle,5
+29500.0,Volkswagen,Caddy,9,12964,Diesel,Manuelle,5
+35000.0,Volkswagen,Caddy,9,21666,Diesel,Manuelle,7
+30000.0,Volkswagen,Caddy,9,22169,Diesel,Manuelle,6
+36000.0,Volkswagen,Caddy,7,16669,Diesel,Manuelle,6
+45500.0,Volkswagen,Caddy,6,23333,Diesel,Manuelle,7
+123000.0,Volkswagen,Caddy,4,25250,Diesel,Manuelle,5
+52500.0,Volkswagen,Caddy,4,25250,Diesel,Manuelle,5
+40000.0,Volkswagen,Caravelle,11,37290,Diesel,Manuelle,7
+20000.0,Volkswagen,Coccinelle,24,9000,Essence,Manuelle,8
+36500.0,Volkswagen,Combi,6,19447,Essence,Manuelle,7
+31000.0,Volkswagen,Crafter Combi,9,37222,Diesel,Manuelle,7
+42000.0,Volkswagen,Eos,14,9642,Essence,Automatique,12
+35000.0,Volkswagen,Golf,19,14473,Diesel,Manuelle,6
+35000.0,Volkswagen,Golf,19,14473,Diesel,Manuelle,6
+42500.0,Volkswagen,Golf,14,19785,Essence,Manuelle,5
+34000.0,Volkswagen,Golf,14,18714,Essence,Manuelle,7
+38800.0,Volkswagen,Golf,14,20714,Diesel,Manuelle,5
+36000.0,Volkswagen,Golf,12,9723,Diesel,Manuelle,5
+53000.0,Volkswagen,Golf,11,23636,Diesel,Automatique,5
+123000.0,Volkswagen,Golf,10,21500,Diesel,Manuelle,6
+44900.0,Volkswagen,Golf,10,17900,Essence,Manuelle,5
+75000.0,Volkswagen,Golf,5,15800,Essence,Manuelle,5
+64800.0,Volkswagen,Golf,5,24600,Essence,Automatique,5
+116000.0,Volkswagen,Golf,4,10500,Essence,Automatique,8
+96000.0,Volkswagen,Golf,4,22500,Essence,Manuelle,5
+120000.0,Volkswagen,Golf,4,10250,Hybride,Automatique,8
+85000.0,Volkswagen,Golf,4,25000,Essence,Manuelle,8
+12000.0,Volkswagen,Golf,4,10000,Essence,Automatique,5
+87000.0,Volkswagen,Golf,3,16666,Essence,Manuelle,5
+92000.0,Volkswagen,Golf,3,38894,Essence,Manuelle,6
+127000.0,Volkswagen,Golf,1,9000,Hybride,Automatique,7
+5500.0,Volkswagen,Golf,40,2917,Essence,Manuelle,6
+6000.0,Volkswagen,Golf,40,12500,Diesel,Manuelle,5
+11500.0,Volkswagen,Golf,37,8370,Diesel,Manuelle,4
+5000.0,Volkswagen,Golf,36,3241,Diesel,Manuelle,4
+8500.0,Volkswagen,Golf,32,3646,Essence,Manuelle,9
+14000.0,Volkswagen,Golf,30,3889,Essence,Manuelle,7
+13000.0,Volkswagen,Golf,30,3889,Essence,Manuelle,6
+20500.0,Volkswagen,Golf,25,12000,Essence,Manuelle,6
+20000.0,Volkswagen,Golf,25,10000,Essence,Manuelle,6
+21000.0,Volkswagen,Golf,25,4667,Essence,Manuelle,7
+21000.0,Volkswagen,Golf,24,20416,Diesel,Manuelle,6
+23500.0,Volkswagen,Golf,24,4861,Essence,Manuelle,5
+19500.0,Volkswagen,Golf,24,4861,Essence,Manuelle,5
+12500.0,Volkswagen,Golf,24,4861,Diesel,Manuelle,6
+21000.0,Volkswagen,Golf,24,4861,Diesel,Manuelle,6
+18500.0,Volkswagen,Golf,24,4861,Essence,Manuelle,5
+24000.0,Volkswagen,Golf,23,15217,Essence,Manuelle,5
+19000.0,Volkswagen,Golf,23,18695,Essence,Manuelle,5
+24000.0,Volkswagen,Golf,22,15454,Essence,Manuelle,5
+32000.0,Volkswagen,Golf,21,5556,Essence,Automatique,7
+27000.0,Volkswagen,Golf,20,5834,Diesel,Manuelle,6
+26500.0,Volkswagen,Golf,20,14000,Diesel,Manuelle,5
+23000.0,Volkswagen,Golf,20,11150,Essence,Manuelle,7
+32500.0,Volkswagen,Golf,19,10342,Essence,Automatique,7
+25500.0,Volkswagen,Golf,19,12315,Diesel,Manuelle,6
+100000.0,Volkswagen,Golf,18,15088,Diesel,Manuelle,6
+27000.0,Volkswagen,Golf,17,6863,Essence,Manuelle,5
+34000.0,Volkswagen,Golf,16,19250,Essence,Manuelle,5
+32000.0,Volkswagen,Golf,16,13875,Diesel,Manuelle,6
+33000.0,Volkswagen,Golf,16,11875,Essence,Manuelle,5
+38000.0,Volkswagen,Golf,16,8000,Essence,Manuelle,6
+33000.0,Volkswagen,Golf,16,13687,Essence,Automatique,7
+31000.0,Volkswagen,Golf,16,10625,Diesel,Manuelle,6
+27000.0,Volkswagen,Golf,15,9733,Essence,Manuelle,7
+39000.0,Volkswagen,Golf,15,7778,Diesel,Manuelle,6
+29800.0,Volkswagen,Golf,15,13100,Essence,Automatique,7
+42000.0,Volkswagen,Golf,14,17857,Diesel,Manuelle,5
+39000.0,Volkswagen,Golf,14,8334,Essence,Manuelle,6
+43000.0,Volkswagen,Golf,14,12285,Essence,Automatique,7
+40500.0,Volkswagen,Golf,14,8334,Essence,Manuelle,5
+45000.0,Volkswagen,Golf,14,12142,Diesel,Manuelle,6
+42000.0,Volkswagen,Golf,14,16785,Diesel,Manuelle,5
+43000.0,Volkswagen,Golf,14,15928,Diesel,Manuelle,5
+38800.0,Volkswagen,Golf,14,20714,Diesel,Manuelle,5
+40000.0,Volkswagen,Golf,14,16000,Essence,Manuelle,5
+39000.0,Volkswagen,Golf,14,11571,Diesel,Manuelle,5
+41000.0,Volkswagen,Golf,13,14461,Diesel,Manuelle,5
+37000.0,Volkswagen,Golf,13,15900,Essence,Manuelle,5
+47000.0,Volkswagen,Golf,13,8975,Essence,Manuelle,5
+36000.0,Volkswagen,Golf,13,23846,Diesel,Manuelle,5
+42000.0,Volkswagen,Golf,13,8975,Essence,Manuelle,5
+39000.0,Volkswagen,Golf,13,13615,Essence,Manuelle,5
+38500.0,Volkswagen,Golf,13,9923,Essence,Manuelle,5
+45000.0,Volkswagen,Golf,12,14000,Essence,Manuelle,5
+39900.0,Volkswagen,Golf,12,23083,Essence,Manuelle,5
+43000.0,Volkswagen,Golf,12,14166,Essence,Manuelle,5
+42000.0,Volkswagen,Golf,12,15375,Essence,Manuelle,5
+44000.0,Volkswagen,Golf,12,17083,Essence,Manuelle,5
+38000.0,Volkswagen,Golf,12,9723,Diesel,Automatique,5
+40500.0,Volkswagen,Golf,12,10000,Essence,Manuelle,6
+42000.0,Volkswagen,Golf,12,9723,Diesel,Automatique,5
+47500.0,Volkswagen,Golf,11,11272,Essence,Automatique,5
+38500.0,Volkswagen,Golf,11,10607,Diesel,Manuelle,5
+49000.0,Volkswagen,Golf,11,18181,Essence,Manuelle,5
+43000.0,Volkswagen,Golf,11,13236,Essence,Manuelle,5
+48000.0,Volkswagen,Golf,11,20000,Essence,Manuelle,5
+45000.0,Volkswagen,Golf,11,10607,Diesel,Manuelle,5
+64000.0,Volkswagen,Golf,11,10607,Diesel,Manuelle,5
+48000.0,Volkswagen,Golf,11,10607,Essence,Manuelle,7
+57000.0,Volkswagen,Golf,11,23335,Diesel,Manuelle,5
+54000.0,Volkswagen,Golf,10,12500,Essence,Manuelle,5
+59000.0,Volkswagen,Golf,10,11668,Essence,Manuelle,6
+62000.0,Volkswagen,Golf,10,11668,Essence,Manuelle,5
+50000.0,Volkswagen,Golf,10,22900,Essence,Automatique,6
+44500.0,Volkswagen,Golf,10,17799,Essence,Manuelle,5
+60000.0,Volkswagen,Golf,10,15900,Essence,Automatique,6
+52000.0,Volkswagen,Golf,10,17500,Essence,Manuelle,5
+48000.0,Volkswagen,Golf,10,15900,Essence,Manuelle,5
+59500.0,Volkswagen,Golf,10,21200,Diesel,Manuelle,5
+55000.0,Volkswagen,Golf,9,12964,Essence,Manuelle,5
+60000.0,Volkswagen,Golf,9,5555,Essence,Manuelle,5
+47000.0,Volkswagen,Golf,9,24333,Essence,Manuelle,5
+57000.0,Volkswagen,Golf,9,22222,Essence,Manuelle,5
+55000.0,Volkswagen,Golf,9,17222,Diesel,Manuelle,6
+56000.0,Volkswagen,Golf,9,12964,Essence,Manuelle,5
+55000.0,Volkswagen,Golf,9,16666,Essence,Manuelle,5
+56000.0,Volkswagen,Golf,8,14585,Essence,Automatique,5
+58000.0,Volkswagen,Golf,8,16250,Essence,Manuelle,5
+50000.0,Volkswagen,Golf,7,16669,Essence,Manuelle,6
+59000.0,Volkswagen,Golf,7,20996,Essence,Manuelle,5
+64000.0,Volkswagen,Golf,6,22500,Essence,Manuelle,6
+65000.0,Volkswagen,Golf,6,20833,Essence,Automatique,6
+68000.0,Volkswagen,Golf,6,19447,Essence,Automatique,6
+83000.0,Volkswagen,Golf,6,21666,Essence,Manuelle,6
+84500.0,Volkswagen,Golf,6,14166,Diesel,Manuelle,6
+72000.0,Volkswagen,Golf,6,19447,Essence,Manuelle,6
+68000.0,Volkswagen,Golf,5,24000,Essence,Manuelle,4
+70000.0,Volkswagen,Golf,5,23336,Essence,Automatique,7
+74500.0,Volkswagen,Golf,5,16800,Essence,Manuelle,7
+71000.0,Volkswagen,Golf,5,23336,Essence,Automatique,6
+64000.0,Volkswagen,Golf,5,32800,Diesel,Manuelle,6
+68000.0,Volkswagen,Golf,5,23336,Essence,Automatique,5
+70000.0,Volkswagen,Golf,5,13000,Essence,Manuelle,5
+68500.0,Volkswagen,Golf,5,28000,Diesel,Manuelle,6
+68000.0,Volkswagen,Golf,5,24000,Essence,Automatique,6
+62000.0,Volkswagen,Golf,5,19600,Essence,Manuelle,5
+64000.0,Volkswagen,Golf,5,30000,Essence,Automatique,5
+72500.0,Volkswagen,Golf,5,22400,Hybride,Manuelle,6
+123456.0,Volkswagen,Golf,5,8000,Essence,Manuelle,6
+44500.0,Volkswagen,Golf,5,19000,Diesel,Manuelle,6
+64000.0,Volkswagen,Golf,5,21600,Essence,Automatique,7
+67500.0,Volkswagen,Golf,4,32500,Essence,Automatique,6
+125000.0,Volkswagen,Golf,4,2750,Essence,Manuelle,7
+85500.0,Volkswagen,Golf,4,45000,Essence,Automatique,8
+111000.0,Volkswagen,Golf,4,17250,Essence,Manuelle,5
+69000.0,Volkswagen,Golf,4,17500,Essence,Automatique,6
+89000.0,Volkswagen,Golf,4,29170,Diesel,Automatique,5
+118000.0,Volkswagen,Golf,4,10250,Essence,Manuelle,8
+119000.0,Volkswagen,Golf,4,17500,Essence,Manuelle,8
+99000.0,Volkswagen,Golf,4,37500,Diesel,Automatique,6
+82000.0,Volkswagen,Golf,4,2250,Essence,Manuelle,9
+96000.0,Volkswagen,Golf,3,38894,Essence,Manuelle,7
+135000.0,Volkswagen,Golf,3,20000,Electrique,Automatique,8
+110000.0,Volkswagen,Golf,3,6666,Essence,Manuelle,6
+114500.0,Volkswagen,Golf,3,38894,Hybride,Automatique,8
+94000.0,Volkswagen,Golf,3,22666,Hybride,Automatique,6
+110000.0,Volkswagen,Golf,3,24000,Essence,Automatique,8
+88000.0,Volkswagen,Golf,3,38894,Essence,Manuelle,6
+86000.0,Volkswagen,Golf,3,23000,Essence,Manuelle,6
+70000.0,Volkswagen,Golf,2,45000,Diesel,Manuelle,6
+95000.0,Volkswagen,Golf,2,30000,Essence,Manuelle,6
+77000.0,Volkswagen,Golf,2,10000,Electrique,Automatique,4
+105000.0,Volkswagen,Golf,1,12000,Hybride,Automatique,6
+40000.0,Volkswagen,Jetta,11,15454,Essence,Manuelle,8
+64000.0,Volkswagen,Jetta,9,6666,Essence,Automatique,9
+6500.0,Volkswagen,Jetta,34,3431,Diesel,Manuelle,7
+31900.0,Volkswagen,Jetta,16,7292,Diesel,Manuelle,6
+33000.0,Volkswagen,Jetta,14,15071,Diesel,Manuelle,6
+32000.0,Volkswagen,Jetta,14,10714,Essence,Manuelle,7
+38000.0,Volkswagen,Jetta,13,8923,Diesel,Automatique,5
+123456.0,Volkswagen,Jetta,11,17272,Essence,Manuelle,8
+45000.0,Volkswagen,Jetta,11,10607,Essence,Manuelle,6
+49000.0,Volkswagen,Jetta,11,12727,Essence,Manuelle,8
+45000.0,Volkswagen,Jetta,10,25800,Diesel,Manuelle,7
+45000.0,Volkswagen,Jetta,8,14585,Essence,Manuelle,7
+45000.0,Volkswagen,Jetta,8,25000,Essence,Manuelle,7
+53000.0,Volkswagen,Jetta,8,27375,Essence,Manuelle,7
+58900.0,Volkswagen,Jetta,6,28500,Essence,Manuelle,7
+108000.0,Volkswagen,Jetta,3,6666,Essence,Automatique,7
+48000.0,Volkswagen,New Beetle,9,20000,Essence,Manuelle,6
+35000.0,Volkswagen,Passat,16,7292,Diesel,Manuelle,7
+42000.0,Volkswagen,Passat,14,15714,Essence,Automatique,9
+52000.0,Volkswagen,Passat,9,18333,Diesel,Manuelle,5
+64000.0,Volkswagen,Passat,9,6666,Essence,Automatique,9
+63000.0,Volkswagen,Passat,7,20000,Essence,Manuelle,8
+85000.0,Volkswagen,Passat,5,28000,Diesel,Automatique,6
+12000.0,Volkswagen,Passat,30,3889,Diesel,Manuelle,7
+13500.0,Volkswagen,Passat,29,17241,Diesel,Manuelle,6
+16800.0,Volkswagen,Passat,26,4487,Diesel,Manuelle,5
+20000.0,Volkswagen,Passat,23,5073,Essence,Manuelle,7
+100000.0,Volkswagen,Passat,23,12545,Diesel,Manuelle,7
+32500.0,Volkswagen,Passat,20,14350,Essence,Manuelle,7
+29700.0,Volkswagen,Passat,18,6482,Diesel,Manuelle,6
+30000.0,Volkswagen,Passat,18,16666,Diesel,Manuelle,6
+30500.0,Volkswagen,Passat,18,9722,Diesel,Manuelle,6
+32000.0,Volkswagen,Passat,18,6482,Diesel,Manuelle,7
+28000.0,Volkswagen,Passat,18,6482,Essence,Manuelle,7
+28500.0,Volkswagen,Passat,17,13823,Essence,Manuelle,7
+38000.0,Volkswagen,Passat,15,18133,Essence,Automatique,9
+31000.0,Volkswagen,Passat,15,16000,Essence,Manuelle,7
+43000.0,Volkswagen,Passat,15,7778,Diesel,Automatique,8
+42000.0,Volkswagen,Passat,15,7778,Essence,Automatique,10
+29600.0,Volkswagen,Passat,15,16600,Essence,Manuelle,7
+33000.0,Volkswagen,Passat,14,8334,Essence,Manuelle,6
+35000.0,Volkswagen,Passat,13,19230,Essence,Automatique,9
+34000.0,Volkswagen,Passat,13,11000,Essence,Automatique,9
+46500.0,Volkswagen,Passat,12,9723,Diesel,Manuelle,5
+38500.0,Volkswagen,Passat,12,9723,Essence,Manuelle,9
+53000.0,Volkswagen,Passat,12,9723,Essence,Automatique,10
+57000.0,Volkswagen,Passat,12,13333,Essence,Manuelle,7
+43000.0,Volkswagen,Passat,12,14166,Diesel,Manuelle,5
+55000.0,Volkswagen,Passat,11,19090,Essence,Automatique,10
+42000.0,Volkswagen,Passat,11,27363,Diesel,Manuelle,6
+70000.0,Volkswagen,Passat,10,7600,Essence,Automatique,9
+46000.0,Volkswagen,Passat,10,16800,Essence,Manuelle,7
+46500.0,Volkswagen,Passat,10,19000,Diesel,Manuelle,5
+65000.0,Volkswagen,Passat,9,4222,Essence,Automatique,9
+56000.0,Volkswagen,Passat,9,16666,Essence,Manuelle,7
+63000.0,Volkswagen,Passat,7,20000,Essence,Manuelle,8
+100000.0,Volkswagen,Passat,2,4150,Essence,Manuelle,6
+13600.0,Volkswagen,Polo,26,4273,Essence,Manuelle,4
+14500.0,Volkswagen,Polo,24,4861,Essence,Manuelle,4
+123000.0,Volkswagen,Polo,21,12666,Essence,Manuelle,4
+11111.0,Volkswagen,Polo,12,9723,Essence,Manuelle,5
+30000.0,Volkswagen,Polo,12,9723,Essence,Manuelle,5
+35500.0,Volkswagen,Polo,7,26428,Essence,Manuelle,4
+35500.0,Volkswagen,Polo,7,13857,Essence,Manuelle,5
+10000.0,Volkswagen,Polo,6,10833,Diesel,Manuelle,5
+45500.0,Volkswagen,Polo,2,39000,Essence,Manuelle,4
+22000.0,Volkswagen,Polo,0,0,Essence,Manuelle,5
+5000.0,Volkswagen,Polo,44,2651,Essence,Manuelle,5
+8300.0,Volkswagen,Polo,38,3070,Essence,Manuelle,6
+9500.0,Volkswagen,Polo,29,4023,Essence,Manuelle,5
+10500.0,Volkswagen,Polo,29,10034,Essence,Manuelle,5
+9500.0,Volkswagen,Polo,29,4023,Essence,Manuelle,5
+8500.0,Volkswagen,Polo,29,4023,Essence,Manuelle,5
+9500.0,Volkswagen,Polo,29,4023,Essence,Manuelle,5
+8500.0,Volkswagen,Polo,29,4023,Essence,Manuelle,5
+12500.0,Volkswagen,Polo,29,6896,Essence,Manuelle,5
+10500.0,Volkswagen,Polo,29,9558,Essence,Manuelle,5
+7000.0,Volkswagen,Polo,28,4167,Essence,Manuelle,4
+12000.0,Volkswagen,Polo,27,4321,Essence,Manuelle,4
+15500.0,Volkswagen,Polo,27,13082,Essence,Manuelle,4
+12600.0,Volkswagen,Polo,27,4321,Essence,Manuelle,4
+11800.0,Volkswagen,Polo,26,4487,Essence,Manuelle,5
+11500.0,Volkswagen,Polo,26,4487,Essence,Manuelle,4
+11800.0,Volkswagen,Polo,26,8846,Essence,Manuelle,4
+12900.0,Volkswagen,Polo,26,4487,Essence,Manuelle,5
+13000.0,Volkswagen,Polo,25,4667,Essence,Manuelle,4
+13000.0,Volkswagen,Polo,25,4667,Essence,Manuelle,13
+12000.0,Volkswagen,Polo,25,16000,Essence,Manuelle,4
+14500.0,Volkswagen,Polo,24,4861,Essence,Manuelle,5
+150000.0,Volkswagen,Polo,24,4861,Essence,Manuelle,5
+14200.0,Volkswagen,Polo,24,15666,Essence,Manuelle,4
+140000.0,Volkswagen,Polo,24,4861,Essence,Manuelle,4
+13000.0,Volkswagen,Polo,24,8333,Essence,Manuelle,5
+8000.0,Volkswagen,Polo,23,5073,Diesel,Manuelle,6
+15000.0,Volkswagen,Polo,22,19545,Essence,Manuelle,4
+11000.0,Volkswagen,Polo,22,5303,Essence,Manuelle,5
+16400.0,Volkswagen,Polo,22,5303,Essence,Manuelle,5
+14000.0,Volkswagen,Polo,22,11727,Essence,Manuelle,5
+16400.0,Volkswagen,Polo,22,9090,Essence,Manuelle,5
+17500.0,Volkswagen,Polo,21,12380,Essence,Manuelle,5
+17500.0,Volkswagen,Polo,21,10952,Essence,Manuelle,4
+7500.0,Volkswagen,Polo,21,5556,Essence,Manuelle,5
+14000.0,Volkswagen,Polo,21,5556,Essence,Manuelle,4
+18000.0,Volkswagen,Polo,20,13000,Essence,Manuelle,4
+18000.0,Volkswagen,Polo,20,11710,Essence,Manuelle,5
+16800.0,Volkswagen,Polo,20,5834,Essence,Manuelle,4
+15000.0,Volkswagen,Polo,20,5834,Essence,Manuelle,4
+16500.0,Volkswagen,Polo,20,5834,Essence,Manuelle,4
+17500.0,Volkswagen,Polo,20,5834,Essence,Manuelle,5
+16000.0,Volkswagen,Polo,20,13500,Essence,Manuelle,4
+18000.0,Volkswagen,Polo,19,3631,Diesel,Manuelle,4
+16000.0,Volkswagen,Polo,19,9368,Essence,Manuelle,5
+25000.0,Volkswagen,Polo,19,6141,Essence,Manuelle,5
+14300.0,Volkswagen,Polo,19,6141,Essence,Manuelle,5
+17000.0,Volkswagen,Polo,19,12631,Essence,Manuelle,4
+21500.0,Volkswagen,Polo,18,6482,Essence,Manuelle,4
+17000.0,Volkswagen,Polo,18,6482,Diesel,Manuelle,5
+19000.0,Volkswagen,Polo,18,15247,Essence,Manuelle,4
+18000.0,Volkswagen,Polo,18,6482,Essence,Manuelle,5
+22500.0,Volkswagen,Polo,17,17647,Essence,Manuelle,5
+23000.0,Volkswagen,Polo,17,12941,Essence,Manuelle,4
+23800.0,Volkswagen,Polo,17,9529,Essence,Manuelle,5
+14500.0,Volkswagen,Polo,17,6863,Diesel,Manuelle,4
+20700.0,Volkswagen,Polo,17,12324,Essence,Manuelle,4
+23000.0,Volkswagen,Polo,17,15705,Essence,Manuelle,4
+21000.0,Volkswagen,Polo,17,11764,Essence,Manuelle,5
+23000.0,Volkswagen,Polo,17,12941,Essence,Manuelle,4
+14000.0,Volkswagen,Polo,16,7292,Diesel,Manuelle,4
+17000.0,Volkswagen,Polo,16,17812,Diesel,Manuelle,4
+22800.0,Volkswagen,Polo,16,6250,Essence,Manuelle,5
+23000.0,Volkswagen,Polo,16,11875,Essence,Manuelle,4
+22000.0,Volkswagen,Polo,16,7292,Essence,Manuelle,4
+20000.0,Volkswagen,Polo,16,18437,Essence,Manuelle,4
+22000.0,Volkswagen,Polo,16,7292,Essence,Manuelle,4
+21000.0,Volkswagen,Polo,15,7778,Essence,Manuelle,5
+14000.0,Volkswagen,Polo,15,2333,Diesel,Manuelle,6
+20000.0,Volkswagen,Polo,15,7778,Essence,Manuelle,5
+27000.0,Volkswagen,Polo,14,8334,Essence,Manuelle,5
+25500.0,Volkswagen,Polo,14,8334,Essence,Manuelle,4
+25000.0,Volkswagen,Polo,14,8334,Essence,Manuelle,4
+11000.0,Volkswagen,Polo,14,16428,Essence,Manuelle,5
+25500.0,Volkswagen,Polo,14,8334,Essence,Manuelle,5
+25000.0,Volkswagen,Polo,14,22857,Diesel,Manuelle,4
+27500.0,Volkswagen,Polo,14,8334,Essence,Manuelle,5
+29000.0,Volkswagen,Polo,14,18642,Essence,Manuelle,5
+29000.0,Volkswagen,Polo,14,8334,Essence,Manuelle,5
+28000.0,Volkswagen,Polo,14,8334,Essence,Manuelle,5
+27000.0,Volkswagen,Polo,13,18461,Essence,Manuelle,5
+32000.0,Volkswagen,Polo,13,10384,Essence,Manuelle,5
+27500.0,Volkswagen,Polo,13,12307,Essence,Manuelle,5
+32500.0,Volkswagen,Polo,13,23076,Essence,Manuelle,5
+25000.0,Volkswagen,Polo,13,8975,Diesel,Manuelle,43
+27000.0,Volkswagen,Polo,13,8975,Essence,Manuelle,5
+30000.0,Volkswagen,Polo,12,9723,Essence,Manuelle,4
+32500.0,Volkswagen,Polo,12,21083,Essence,Manuelle,5
+20000.0,Volkswagen,Polo,11,10101,Diesel,Manuelle,4
+32000.0,Volkswagen,Polo,11,19545,Essence,Manuelle,5
+28000.0,Volkswagen,Polo,10,15300,Essence,Manuelle,5
+46000.0,Volkswagen,Polo,8,14585,Essence,Manuelle,5
+31000.0,Volkswagen,Polo,8,32500,Essence,Manuelle,4
+38500.0,Volkswagen,Polo,8,25000,Essence,Manuelle,5
+35000.0,Volkswagen,Polo,7,25714,Essence,Manuelle,4
+32000.0,Volkswagen,Polo,7,16669,Essence,Manuelle,4
+32000.0,Volkswagen,Polo,7,16669,Essence,Manuelle,5
+36500.0,Volkswagen,Polo,7,15857,Essence,Manuelle,4
+33500.0,Volkswagen,Polo,7,17142,Essence,Manuelle,4
+35000.0,Volkswagen,Polo,7,16669,Essence,Manuelle,4
+33500.0,Volkswagen,Polo,7,17714,Essence,Manuelle,4
+35500.0,Volkswagen,Polo,7,13857,Essence,Manuelle,5
+122000.0,Volkswagen,Polo,6,19447,Essence,Manuelle,5
+10000.0,Volkswagen,Polo,6,31000,Essence,Manuelle,5
+59500.0,Volkswagen,Polo,5,2300,Essence,Manuelle,4
+45500.0,Volkswagen,Polo,5,18000,Essence,Manuelle,4
+37000.0,Volkswagen,Polo,5,55600,Essence,Manuelle,5
+38900.0,Volkswagen,Polo,5,23336,Essence,Manuelle,4
+42500.0,Volkswagen,Polo,5,31000,Essence,Manuelle,4
+43900.0,Volkswagen,Polo,4,27500,Essence,Manuelle,4
+43900.0,Volkswagen,Polo,4,27500,Essence,Manuelle,4
+39000.0,Volkswagen,Polo,4,29170,Essence,Manuelle,4
+43900.0,Volkswagen,Polo,4,23500,Essence,Manuelle,4
+42900.0,Volkswagen,Polo,4,22000,Essence,Manuelle,4
+43900.0,Volkswagen,Polo,4,27500,Essence,Manuelle,4
+41700.0,Volkswagen,Polo,4,31500,Essence,Manuelle,4
+43900.0,Volkswagen,Polo,4,23500,Essence,Manuelle,4
+43900.0,Volkswagen,Polo,4,27500,Essence,Manuelle,4
+41900.0,Volkswagen,Polo,4,23500,Essence,Manuelle,4
+41500.0,Volkswagen,Polo,4,22250,Essence,Manuelle,4
+43900.0,Volkswagen,Polo,4,29250,Essence,Manuelle,4
+42900.0,Volkswagen,Polo,4,27500,Essence,Manuelle,4
+42900.0,Volkswagen,Polo,4,27500,Essence,Manuelle,4
+60000.0,Volkswagen,Polo,4,35000,Essence,Manuelle,4
+43900.0,Volkswagen,Polo,4,23500,Essence,Manuelle,4
+46000.0,Volkswagen,Polo,3,30666,Essence,Manuelle,4
+55000.0,Volkswagen,Polo,3,28333,Essence,Manuelle,5
+45900.0,Volkswagen,Polo,3,38894,Essence,Manuelle,4
+51000.0,Volkswagen,Polo,3,22000,Essence,Manuelle,5
+45900.0,Volkswagen,Polo,3,30000,Essence,Manuelle,4
+53000.0,Volkswagen,Polo,2,40000,Essence,Manuelle,4
+32000.0,Volkswagen,Polo,0,0,Essence,Manuelle,5
+35000.0,Volkswagen,Scirocco,13,15230,Essence,Automatique,9
+65000.0,Volkswagen,Scirocco,14,11428,Essence,Automatique,9
+27500.0,Volkswagen,Scirocco,14,13392,Essence,Automatique,9
+95000.0,Volkswagen,Troc,5,9800,Essence,Manuelle,6
+74000.0,Volkswagen,Troc,5,23336,Essence,Manuelle,6
+82000.0,Volkswagen,Troc,5,14821,Essence,Manuelle,6
+82500.0,Volkswagen,Troc,5,23336,Essence,Manuelle,7
+89000.0,Volkswagen,Troc,5,20000,Essence,Manuelle,6
+89000.0,Volkswagen,Troc,5,23336,Essence,Manuelle,6
+40000.0,Volkswagen,Tiguan,15,11333,Essence,Automatique,10
+61500.0,Volkswagen,Tiguan,12,9723,Essence,Manuelle,7
+35800.0,Volkswagen,Tiguan,7,12857,Essence,Manuelle,7
+90000.0,Volkswagen,Tiguan,6,15600,Essence,Automatique,12
+117000.0,Volkswagen,Tiguan,4,15250,Essence,Automatique,8
+43000.0,Volkswagen,Touareg,17,22941,Diesel,Automatique,14
+43000.0,Volkswagen,Touareg,15,7778,Diesel,Automatique,12
+83000.0,Volkswagen,Touareg,11,10607,Diesel,Automatique,12
+120000.0,Volkswagen,Touareg,8,23625,Diesel,Automatique,12
+31000.0,Volkswagen,Touran,20,5834,Essence,Automatique,8
+38000.0,Volkswagen,Touran,17,6863,Essence,Automatique,9
+38000.0,Volkswagen,Touran,17,6863,Essence,Automatique,9
+45000.0,Volkswagen,Touran,14,20142,Diesel,Manuelle,6
+21000.0,Volkswagen,Transporter,24,12500,Diesel,Manuelle,8
+13000.0,Volkswagen,Transporter,24,4861,Diesel,Manuelle,6
+16300.0,Volkswagen,Vento,30,3889,Diesel,Manuelle,6
+13000.0,Volkswagen,Vento,29,2068,Diesel,Manuelle,5
+23000.0,Volvo,S40,15,16219,Essence,Manuelle,6
+37500.0,Volvo,S60,10,18600,Essence,Manuelle,8
+13000.0,Wallyscar,719,1,79852,GPL,Manuelle,7

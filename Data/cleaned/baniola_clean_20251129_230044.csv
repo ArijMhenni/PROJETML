@@ -1,0 +1,744 @@
+Prix,Marque,Modele,Age,Kilometrage,Energie,Boite_Vitesses,Puissance_Fiscale
+30500.0,Peugeot,208,7.0,80000.0,Essence,Manuelle,5.0
+23000.0,Peugeot,107,14.0,270.0,Essence,Manuelle,4.0
+30500.0,Peugeot,208,7.0,80000.0,Essence,Manuelle,5.0
+75000.0,Peugeot,3008,7.0,179000.0,Diesel,Automatique,6.0
+25500.0,Peugeot,208,9.0,160000.0,Essence,Manuelle,5.0
+26000.0,Peugeot,508,14.0,0.0,Diesel,Automatique,6.0
+9000.0,Peugeot,207,14.0,103000.0,Diesel,Manuelle,5.0
+25000.0,Peugeot,308,16.0,203000.0,Essence,Manuelle,6.0
+26500.0,Peugeot,308,17.0,195000.0,Essence,Automatique,5.0
+30000.0,Peugeot,208,10.0,113000.0,Essence,Manuelle,5.0
+13000.0,Peugeot,Expert,24.0,99999.0,Diesel,Manuelle,7.0
+24800.0,Peugeot,Autres,6.0,146000.0,Inconnu,Manuelle,5.0
+11000.0,Peugeot,206,27.0,280.0,Essence,Manuelle,4.0
+30500.0,Peugeot,208,7.0,80000.0,Essence,Manuelle,5.0
+14500.0,Peugeot,Boxer,18.0,14500.0,Diesel,Manuelle,7.0
+23500.0,Peugeot,208,8.0,113000.0,Essence,Manuelle,5.0
+73000.0,Peugeot,3008,4.0,220000.0,Essence,Automatique,7.0
+18000.0,Peugeot,307,22.0,430000.0,Diesel,Manuelle,8.0
+23500.0,Peugeot,407,16.0,400000.0,Diesel,Manuelle,6.0
+45000.0,Peugeot,2008,8.0,32500.0,Essence,Manuelle,5.0
+39000.0,Peugeot,2008,10.0,195000.0,Essence,Manuelle,5.0
+17800.0,Peugeot,206,22.0,200000.0,Essence,Manuelle,4.0
+13000.0,Peugeot,106,28.0,372893.0,Essence,Manuelle,5.0
+28000.0,Peugeot,308,0.0,141000.0,Essence,Manuelle,6.0
+26300.0,Peugeot,208,8.0,146.0,Essence,Manuelle,5.0
+79000.0,Peugeot,3008,4.0,145000.0,Diesel,Manuelle,7.0
+37000.0,Peugeot,208,3.0,58000.0,Essence,Manuelle,4.0
+16000.0,Peugeot,206,19.0,230000.0,Essence,Manuelle,5.0
+32500.0,Peugeot,308,14.0,76000.0,Essence,Manuelle,6.0
+24000.0,Peugeot,107,14.0,270.0,Essence,Manuelle,4.0
+45000.0,Peugeot,208,3.0,29000.0,Essence,Manuelle,4.0
+23800.0,Peugeot,308,14.0,317000.0,Essence,Manuelle,6.0
+24000.0,Peugeot,207,15.0,165000.0,Essence,Manuelle,6.0
+31500.0,Peugeot,208,5.0,80400.0,Essence,Manuelle,5.0
+28000.0,Peugeot,308,13.0,187000.0,Essence,Manuelle,6.0
+42500.0,Peugeot,2008,9.0,160000.0,Essence,Manuelle,5.0
+88000.0,Peugeot,3008,5.0,75500.0,Essence,Automatique,7.0
+28000.0,Peugeot,207,13.0,191000.0,Essence,Manuelle,5.0
+62000.0,Peugeot,3008,7.0,230000.0,Essence,Automatique,9.0
+19700.0,Peugeot,206,19.0,258000.0,Essence,Manuelle,5.0
+27000.0,Peugeot,208,8.0,129000.0,Essence,Manuelle,4.0
+47900.0,Peugeot,Partner,4.0,149000.0,Diesel,Manuelle,5.0
+24300.0,Peugeot,Autres,7.0,170000.0,Essence,Manuelle,5.0
+123456.0,Peugeot,308,15.0,200.0,Essence,Manuelle,6.0
+23500.0,Peugeot,207,16.0,245000.0,Essence,Manuelle,5.0
+56000.0,Peugeot,2008,5.0,104.0,Essence,Manuelle,6.0
+57000.0,Peugeot,Expert,5.0,68000.0,Diesel,Manuelle,5.0
+24000.0,Peugeot,208,12.0,210000.0,Essence,Manuelle,4.0
+21000.0,Peugeot,407,21.0,210000.0,Essence,Manuelle,6.0
+42000.0,Peugeot,308,8.0,30000.0,Essence,Manuelle,5.0
+38000.0,Peugeot,308,11.0,130000.0,Essence,Manuelle,5.0
+29000.0,Peugeot,208,7.0,44000.0,Essence,Manuelle,5.0
+87000.0,Peugeot,3008,3.0,167000.0,Diesel,Automatique,7.0
+22800.0,Peugeot,207,16.0,200.0,Diesel,Manuelle,5.0
+22800.0,Peugeot,207,16.0,200.0,Diesel,Manuelle,5.0
+11900.0,Peugeot,206,25.0,280.0,Essence,Manuelle,4.0
+26800.0,Peugeot,Autres,8.0,116000.0,Essence,Manuelle,5.0
+44000.0,Peugeot,308,9.0,145000.0,Diesel,Manuelle,6.0
+25000.0,Peugeot,Autres,12.0,105000.0,Essence,Manuelle,5.0
+43000.0,Peugeot,5008,9.0,250.0,Diesel,Manuelle,6.0
+28500.0,Peugeot,207,13.0,190000.0,Essence,Manuelle,5.0
+25000.0,Peugeot,208,9.0,150000.0,Essence,Automatique,5.0
+13500.0,Peugeot,106,28.0,0.0,Essence,Manuelle,4.0
+46000.0,Peugeot,308,9.0,150000.0,Diesel,Manuelle,6.0
+84000.0,Peugeot,2008,1.0,9000.0,Essence,Automatique,7.0
+25000.0,Peugeot,208,11.0,192000.0,Essence,Manuelle,5.0
+130000.0,Peugeot,508,4.0,190000.0,Diesel,Automatique,7.0
+27500.0,Peugeot,Autres,8.0,129000.0,Essence,Manuelle,5.0
+22000.0,Peugeot,Partner,22.0,0.0,Essence,Manuelle,6.0
+43000.0,Peugeot,3008,13.0,202000.0,Diesel,Manuelle,6.0
+58000.0,Peugeot,Expert,4.0,174000.0,Diesel,Manuelle,7.0
+32000.0,Peugeot,308,14.0,183000.0,Diesel,Manuelle,6.0
+12000.0,Peugeot,106,28.0,300.0,Essence,Manuelle,4.0
+22000.0,Peugeot,206,17.0,165416.0,Essence,Manuelle,6.0
+37500.0,Peugeot,2008,11.0,203000.0,Essence,Manuelle,5.0
+6500.0,Peugeot,205,26.0,330000.0,Essence,Manuelle,4.0
+80000.0,Peugeot,Autres,3.0,160.0,Diesel,Manuelle,6.0
+28000.0,Peugeot,208,9.0,150000.0,Essence,Manuelle,5.0
+20000.0,Peugeot,407,20.0,277.0,Essence,Manuelle,9.0
+110000.0,Peugeot,5008,7.0,110000.0,Diesel,Manuelle,7.0
+130000.0,Peugeot,508,4.0,125600.0,Hybride,Automatique,10.0
+26000.0,Peugeot,208,12.0,100000.0,Essence,Manuelle,5.0
+50000.0,Peugeot,3008,9.0,231000.0,Essence,Automatique,9.0
+14500.0,Peugeot,206,21.0,276000.0,Essence,Manuelle,4.0
+8000.0,Peugeot,Autres,8.0,450000.0,Diesel,Manuelle,5.0
+48000.0,Peugeot,508,12.0,220000.0,Diesel,Manuelle,7.0
+50500.0,Peugeot,308,6.0,144355.0,Diesel,Manuelle,6.0
+68000.0,Peugeot,Autres,7.0,190000.0,Diesel,Automatique,8.0
+18000.0,Peugeot,Partner,19.0,281000.0,Diesel,Manuelle,7.0
+28500.0,Peugeot,208,9.0,180000.0,Essence,Manuelle,5.0
+27000.0,Peugeot,308,15.0,235.0,Essence,Manuelle,6.0
+7000.0,Peugeot,309,34.0,300000.0,Essence,Manuelle,4.0
+11000.0,Peugeot,306,26.0,425000.0,Diesel,Manuelle,6.0
+39000.0,Peugeot,208,7.0,71000.0,Essence,Manuelle,5.0
+7000.0,Peugeot,205,30.0,3000.0,Diesel,Manuelle,5.0
+19500.0,Peugeot,Partner,11.0,1000.0,Essence,Manuelle,6.0
+45000.0,Peugeot,2008,8.0,123000.0,Essence,Manuelle,5.0
+27000.0,Peugeot,208,8.0,129000.0,Essence,Manuelle,4.0
+1234.0,Peugeot,208,9.0,150.0,Essence,Manuelle,5.0
+19500.0,Peugeot,206,14.0,217000.0,Essence,Manuelle,6.0
+68500.0,Peugeot,3008,6.0,104841.0,Essence,Automatique,9.0
+17000.0,Peugeot,206,15.0,250000.0,Essence,Manuelle,5.0
+45000.0,Peugeot,Partner,8.0,244000.0,Diesel,Manuelle,5.0
+69500.0,Peugeot,3008,8.0,248000.0,Diesel,Automatique,8.0
+62000.0,Peugeot,3008,6.0,190000.0,Essence,Automatique,7.0
+19500.0,Peugeot,2008,17.0,250000.0,Essence,Manuelle,6.0
+34000.0,Peugeot,508,12.0,170000.0,Essence,Automatique,7.0
+15000.0,Peugeot,Partner,23.0,400.0,Diesel,Manuelle,7.0
+390000.0,Peugeot,208,9.0,61000.0,Essence,Manuelle,5.0
+20000.0,Peugeot,206,17.0,1111.0,Essence,Manuelle,6.0
+55000.0,Peugeot,Autres,4.0,164000.0,Diesel,Manuelle,6.0
+40000.0,Peugeot,Autres,4.0,200000.0,Diesel,Manuelle,5.0
+72000.0,Peugeot,Autres,4.0,100000.0,Diesel,Manuelle,6.0
+35000.0,Peugeot,208,7.0,43000.0,Essence,Manuelle,5.0
+1111.0,Peugeot,Partner,5.0,63000.0,Diesel,Manuelle,6.0
+23500.0,Peugeot,308,14.0,380.0,Essence,Manuelle,6.0
+12000.0,Peugeot,206,24.0,300000.0,Diesel,Manuelle,5.0
+62000.0,Peugeot,Expert,5.0,190000.0,Diesel,Manuelle,6.0
+35000.0,Peugeot,Partner,12.0,290000.0,Diesel,Manuelle,5.0
+24500.0,Peugeot,107,13.0,169000.0,Essence,Manuelle,4.0
+17800.0,Peugeot,206,25.0,0.0,Essence,Manuelle,5.0
+23800.0,Peugeot,407,15.0,310000.0,Diesel,Manuelle,6.0
+18000.0,Peugeot,307,22.0,0.0,Diesel,Manuelle,8.0
+27000.0,Peugeot,208,12.0,132000.0,Essence,Manuelle,5.0
+27000.0,Peugeot,207,13.0,170000.0,Essence,Manuelle,5.0
+80000.0,Peugeot,3008,5.0,156000.0,Diesel,Manuelle,7.0
+11500.0,Peugeot,106,30.0,320.0,Essence,Manuelle,4.0
+32300.0,Peugeot,508,12.0,170000.0,Essence,Automatique,7.0
+80000.0,Peugeot,3008,4.0,141000.0,Diesel,Manuelle,7.0
+25000.0,Peugeot,Bipper Tepee,8.0,134.0,Diesel,Manuelle,5.0
+25000.0,Peugeot,Bipper Tepee,8.0,134.0,Diesel,Manuelle,5.0
+38000.0,Peugeot,Partner,5.0,197000.0,Diesel,Manuelle,5.0
+24300.0,Peugeot,206,14.0,201582.0,Essence,Manuelle,4.0
+16500.0,Peugeot,Partner,25.0,321000.0,Essence,Manuelle,5.0
+15500.0,Peugeot,Partner,0.0,0.0,Essence,Manuelle,6.0
+21000.0,Peugeot,207,17.0,230.0,Essence,Manuelle,6.0
+32000.0,Peugeot,508,10.0,236000.0,Essence,Automatique,9.0
+31500.0,Peugeot,208,5.0,125000.0,Essence,Manuelle,5.0
+47000.0,Peugeot,308,8.0,164000.0,Diesel,Manuelle,5.0
+36500.0,Peugeot,308,8.0,144000.0,Essence,Manuelle,5.0
+45900.0,Peugeot,Partner,4.0,101000.0,Diesel,Manuelle,5.0
+21000.0,Peugeot,207,18.0,190000.0,Essence,Manuelle,6.0
+53000.0,Peugeot,Autres,4.0,115000.0,Diesel,Manuelle,6.0
+16000.0,Peugeot,Partner,16.0,404000.0,Diesel,Manuelle,6.0
+42000.0,Peugeot,Autres,2.0,60000.0,Diesel,Manuelle,9.0
+23000.0,Peugeot,208,6.0,198000.0,Essence,Manuelle,5.0
+30000.0,Peugeot,Autres,7.0,105.0,Essence,Manuelle,5.0
+76000.0,Peugeot,3008,5.0,104000.0,Essence,Automatique,9.0
+9000.0,Peugeot,106,18.0,0.0,Essence,Manuelle,5.0
+38000.0,Peugeot,3008,13.0,157000.0,Essence,Manuelle,7.0
+78000.0,Peugeot,3008,6.0,185000.0,Essence,Automatique,9.0
+23500.0,Peugeot,Expert,17.0,360.0,Diesel,Manuelle,5.0
+23500.0,Peugeot,Expert,17.0,360.0,Diesel,Manuelle,5.0
+56000.0,Peugeot,308,6.0,150000.0,Diesel,Manuelle,5.0
+30000.0,Peugeot,207,14.0,110000.0,Essence,Manuelle,6.0
+38000.0,Peugeot,2008,8.0,168.0,Essence,Manuelle,5.0
+27000.0,Peugeot,208,10.0,170000.0,Essence,Manuelle,4.0
+21000.0,Peugeot,206,16.0,113000.0,Essence,Automatique,6.0
+38000.0,Peugeot,Partner,6.0,168000.0,Diesel,Manuelle,5.0
+23200.0,Peugeot,Autres,8.0,200.0,Essence,Manuelle,5.0
+25000.0,Peugeot,307,19.0,5000.0,Essence,Manuelle,6.0
+29800.0,Peugeot,Bipper Tepee,12.0,144000.0,Essence,Manuelle,5.0
+27000.0,Peugeot,Bipper Tepee,8.0,150.0,Diesel,Manuelle,6.0
+26000.0,Peugeot,Autres,9.0,179000.0,Essence,Manuelle,5.0
+33600.0,Peugeot,208,5.0,98500.0,Essence,Manuelle,4.0
+75000.0,Peugeot,2008,4.0,79800.0,Essence,Automatique,7.0
+57000.0,Peugeot,Expert,5.0,232000.0,Diesel,Manuelle,9.0
+39000.0,Peugeot,Bipper Tepee,9.0,210000.0,Essence,Manuelle,7.0
+43000.0,Peugeot,Partner,4.0,130000.0,Diesel,Manuelle,5.0
+18500.0,Peugeot,206,19.0,300.0,Essence,Manuelle,4.0
+28000.0,Peugeot,207,14.0,290.0,Diesel,Manuelle,5.0
+27800.0,Peugeot,208,10.0,156000.0,Essence,Manuelle,5.0
+67000.0,Peugeot,308,5.0,130000.0,Diesel,Manuelle,6.0
+25500.0,Peugeot,107,15.0,156000.0,Essence,Manuelle,4.0
+22500.0,Peugeot,206,14.0,178600.0,Essence,Manuelle,5.0
+29000.0,Peugeot,208,8.0,158000.0,Essence,Manuelle,4.0
+25000.0,Peugeot,208,7.0,180000.0,Essence,Manuelle,5.0
+36000.0,Suzuki,Swift,6.0,151000.0,Essence,Manuelle,5.0
+32500.0,Suzuki,S-Presso,2.0,46000.0,Essence,Manuelle,5.0
+38500.0,Suzuki,Celerio,2.0,35400.0,Essence,Manuelle,4.0
+48000.0,Suzuki,Autres,5.0,108000.0,Essence,Automatique,6.0
+39000.0,Suzuki,Celerio,2.0,30000.0,Essence,Manuelle,4.0
+38500.0,Suzuki,Swift,4.0,117000.0,Essence,Manuelle,5.0
+34000.0,Suzuki,Swift,7.0,170000.0,Essence,Manuelle,4.0
+31500.0,Suzuki,Swift,8.0,162.0,Essence,Manuelle,5.0
+49500.0,Suzuki,Celerio,1.0,20000.0,Essence,Automatique,4.0
+33000.0,Suzuki,Swift,6.0,178000.0,Essence,Manuelle,5.0
+29990.0,Suzuki,Celerio,5.0,90.0,Essence,Manuelle,4.0
+35000.0,Suzuki,Swift,3.0,112000.0,Essence,Manuelle,5.0
+30000.0,Suzuki,Celerio,5.0,126.0,Essence,Manuelle,4.0
+37500.0,Suzuki,Celerio,5.0,55000.0,Essence,Automatique,4.0
+27200.0,Suzuki,Celerio,7.0,101000.0,Essence,Manuelle,4.0
+31500.0,Suzuki,Autres,5.0,52000.0,Essence,Manuelle,4.0
+34000.0,Suzuki,Autres,3.0,45000.0,Essence,Manuelle,4.0
+35000.0,Suzuki,Swift,8.0,171000.0,Essence,Manuelle,5.0
+31500.0,Suzuki,S-Presso,4.0,78000.0,Essence,Manuelle,4.0
+38000.0,Suzuki,Celerio,2.0,24000.0,Essence,Manuelle,4.0
+52000.0,Kia,Rio,4.0,100000.0,Essence,Manuelle,5.0
+38000.0,Kia,Rio,8.0,153000.0,Essence,Manuelle,5.0
+39500.0,Kia,Rio,8.0,220000.0,Essence,Manuelle,5.0
+49500.0,Kia,Rio,3.0,81000.0,Essence,Manuelle,5.0
+41000.0,Kia,Rio,10.0,117000.0,Essence,Manuelle,5.0
+34500.0,Kia,Rio,12.0,135.0,Essence,Manuelle,5.0
+36000.0,Kia,Rio,11.0,256000.0,Essence,Manuelle,5.0
+37500.0,Kia,Rio,11.0,170.0,Essence,Manuelle,5.0
+53500.0,Kia,Rio,4.0,118000.0,Essence,Manuelle,5.0
+64000.0,Kia,Rio,4.0,34900.0,Essence,Manuelle,5.0
+22000.0,Kia,Rio,15.0,3000.0,Essence,Manuelle,6.0
+46000.0,Kia,Rio,6.0,150000.0,Essence,Manuelle,5.0
+38000.0,Kia,Rio,10.0,190000.0,Essence,Manuelle,5.0
+24000.0,Kia,Rio,14.0,230.0,Essence,Manuelle,6.0
+34000.0,Kia,Rio,13.0,190.0,Essence,Manuelle,5.0
+49500.0,Kia,Rio,5.0,50000.0,Essence,Manuelle,5.0
+38500.0,Kia,Rio,12.0,157.0,Essence,Manuelle,5.0
+63000.0,Kia,Rio,4.0,93000.0,Essence,Manuelle,5.0
+62000.0,Kia,Rio,3.0,71600.0,Essence,Manuelle,5.0
+18500.0,Kia,Rio,14.0,0.0,Diesel,Manuelle,6.0
+52500.0,Kia,Rio,6.0,70800.0,Essence,Manuelle,5.0
+35700.0,Kia,Rio,10.0,190000.0,Essence,Manuelle,4.0
+40000.0,Kia,Rio,8.0,165000.0,Essence,Manuelle,5.0
+58500.0,Kia,Rio,4.0,40000.0,Essence,Manuelle,4.0
+63000.0,Kia,Rio,3.0,67000.0,Essence,Manuelle,5.0
+57000.0,Kia,Rio,5.0,180000.0,Essence,Automatique,6.0
+55000.0,Kia,Rio,3.0,68000.0,Essence,Manuelle,5.0
+65000.0,Kia,Rio,2.0,6430.0,Essence,Manuelle,5.0
+58500.0,Kia,Rio,3.0,40000.0,Essence,Manuelle,5.0
+19500.0,Kia,Rio,15.0,321000.0,Essence,Manuelle,6.0
+40000.0,Kia,Rio,9.0,152000.0,Essence,Manuelle,5.0
+44500.0,Kia,Rio,5.0,194000.0,Essence,Automatique,6.0
+45500.0,Kia,Rio,5.0,204000.0,Essence,Manuelle,6.0
+40500.0,Kia,Rio,10.0,175000.0,Essence,Automatique,5.0
+60500.0,Kia,Rio,4.0,72000.0,Essence,Manuelle,5.0
+64000.0,Kia,Rio,3.0,75000.0,Essence,Manuelle,5.0
+34500.0,Kia,Rio,9.0,163000.0,Essence,Automatique,6.0
+43000.0,Kia,Rio,9.0,123000.0,Essence,Manuelle,5.0
+70000.0,Kia,Rio,2.0,36000.0,Essence,Manuelle,5.0
+63900.0,Kia,Rio,3.0,67600.0,Essence,Manuelle,5.0
+37500.0,Kia,Rio,9.0,237000.0,Essence,Manuelle,5.0
+65000.0,Kia,Rio,3.0,40000.0,Essence,Manuelle,5.0
+22500.0,Dacia,Dokker,11.0,250000.0,Diesel,Manuelle,6.0
+75000.0,Dacia,Autre,3.0,80000.0,Essence,Manuelle,5.0
+40000.0,Dacia,Duster,10.0,78000.0,Essence,Automatique,9.0
+13000.0,Dacia,Logan,14.0,300000.0,Diesel,Manuelle,5.0
+36000.0,Dacia,Sandero,10.0,190000.0,Essence,Manuelle,5.0
+26900.0,Dacia,Dokker,11.0,253000.0,Diesel,Manuelle,6.0
+65000.0,Dacia,Duster,4.0,177938.0,Diesel,Manuelle,6.0
+35000.0,Dacia,Duster,12.0,234214.0,Essence,Manuelle,7.0
+36000.0,Dacia,Sandero,4.0,130000.0,Essence,Manuelle,5.0
+36500.0,Dacia,Sandero,4.0,120000.0,Essence,Manuelle,5.0
+62000.0,Dacia,Sandero,2.0,19000.0,Essence,Automatique,6.0
+60000.0,Dacia,Duster,10.0,200.0,Diesel,Manuelle,6.0
+24000.0,Dacia,Dokker,9.0,340000.0,Diesel,Manuelle,6.0
+14900.0,Dacia,Logan,13.0,271000.0,Diesel,Manuelle,6.0
+30000.0,Dacia,Dokker,6.0,218000.0,Diesel,Manuelle,6.0
+32000.0,Dacia,Dokker,6.0,223000.0,Diesel,Manuelle,6.0
+39000.0,Dacia,Duster,13.0,212000.0,Diesel,Manuelle,5.0
+39000.0,Dacia,Sandero,8.0,137500.0,Essence,Manuelle,5.0
+36500.0,Dacia,Duster,11.0,200.0,Diesel,Manuelle,6.0
+35000.0,Dacia,Sandero,7.0,120.0,Essence,Manuelle,4.0
+38000.0,Dacia,Sandero,11.0,155000.0,Essence,Manuelle,5.0
+12000.0,Dacia,Logan Mcv,13.0,150000.0,Diesel,Manuelle,6.0
+50000.0,Dacia,Sandero,5.0,132000.0,Diesel,Manuelle,5.0
+39000.0,Dacia,Logan Mcv,7.0,174000.0,Essence,Manuelle,5.0
+1234.0,Dacia,Dokker,6.0,45000.0,Essence,Manuelle,6.0
+32000.0,Dacia,Dokker,5.0,190000.0,Diesel,Manuelle,6.0
+22000.0,Dacia,Dokker,9.0,260000.0,Diesel,Manuelle,5.0
+28000.0,Dacia,Logan Mcv,13.0,280000.0,Diesel,Manuelle,4.0
+38000.0,VW,Jetta,14.0,18000.0,Essence,Manuelle,7.0
+45000.0,VW,Golf 6,13.0,209000.0,Essence,Manuelle,5.0
+32000.0,VW,Caddy,12.0,200000.0,Essence,Manuelle,7.0
+20000.0,VW,Passat,18.0,220000.0,Essence,Automatique,12.0
+35000.0,VW,Passat,15.0,200000.0,Essence,Manuelle,6.0
+72000.0,VW,Golf 7,8.0,116000.0,Essence,Manuelle,6.0
+40000.0,VW,Polo,6.0,198000.0,Essence,Manuelle,4.0
+62000.0,VW,Polo,1.0,20000.0,Essence,Manuelle,6.0
+43000.0,VW,Polo,7.0,144000.0,Essence,Manuelle,4.0
+43000.0,VW,Passat,17.0,128000.0,Essence,Manuelle,7.0
+43000.0,VW,Golf 7,10.0,1000.0,Essence,Manuelle,6.0
+24300.0,VW,Polo,16.0,227000.0,Essence,Manuelle,4.0
+13500.0,VW,Polo,28.0,444.0,Essence,Manuelle,4.0
+99000.0,VW,Tiguan,8.0,88500.0,Essence,Automatique,8.0
+32000.0,VW,Golf 6,16.0,235000.0,Essence,Manuelle,5.0
+125000.0,VW,Tiguan,4.0,125000.0,Essence,Automatique,8.0
+75000.0,VW,Golf,8.0,102282.0,Essence,Manuelle,6.0
+64000.0,VW,Golf,8.0,97000.0,Essence,Automatique,6.0
+43000.0,VW,Passat,12.0,200000.0,Essence,Manuelle,9.0
+22000.0,VW,Polo,18.0,278000.0,Essence,Manuelle,4.0
+48000.0,VW,Golf 7,12.0,200000.0,Diesel,Manuelle,5.0
+23500.0,VW,Caddy,15.0,319000.0,Diesel,Manuelle,8.0
+41000.0,VW,Golf 6,15.0,298000.0,Essence,Manuelle,7.0
+57000.0,VW,Golf,9.0,146000.0,Diesel,Manuelle,5.0
+29000.0,VW,Polo,15.0,178000.0,Essence,Manuelle,4.0
+72000.0,VW,Tiguan,10.0,71000.0,Essence,Automatique,9.0
+72000.0,VW,Golf,8.0,92000.0,Essence,Manuelle,6.0
+22500.0,VW,Polo,18.0,278000.0,Essence,Manuelle,4.0
+22500.0,VW,Polo,18.0,277000.0,Essence,Manuelle,4.0
+18500.0,VW,Polo,22.0,300.0,Essence,Manuelle,4.0
+36500.0,VW,Golf,15.0,206101.0,Essence,Manuelle,7.0
+19500.0,VW,Polo,21.0,200.0,Essence,Manuelle,4.0
+17500.0,VW,Polo,20.0,12345.0,Essence,Manuelle,4.0
+73000.0,VW,Tiguan,10.0,128500.0,Essence,Automatique,9.0
+39000.0,VW,Golf,12.0,347000.0,Essence,Manuelle,5.0
+33000.0,VW,Passat,16.0,345000.0,Diesel,Manuelle,6.0
+79000.0,VW,Passat Cc,8.0,62000.0,Essence,Manuelle,7.0
+30000.0,VW,Jetta,16.0,400000.0,Essence,Manuelle,7.0
+19000.0,VW,Polo,20.0,285000.0,Essence,Manuelle,5.0
+30000.0,VW,Golf 5,17.0,280000.0,Essence,Manuelle,5.0
+46000.0,VW,Golf,12.0,278.0,Diesel,Manuelle,5.0
+45000.0,VW,Passat,16.0,240000.0,Diesel,Automatique,8.0
+32000.0,VW,Jetta,17.0,272000.0,Essence,Manuelle,7.0
+119000.0,VW,Golf 8,2.0,30000.0,Essence,Manuelle,7.0
+14000.0,VW,Caddy,23.0,250000.0,Diesel,Manuelle,8.0
+75000.0,VW,Tiguan,10.0,128500.0,Essence,Automatique,9.0
+145000.0,VW,Tiguan,3.0,89280.0,Hybride,Automatique,8.0
+27500.0,VW,Golf 5,21.0,2600.0,Diesel,Manuelle,6.0
+27580.0,VW,Golf 5,21.0,2800.0,Diesel,Manuelle,6.0
+32000.0,VW,Jetta,17.0,272000.0,Essence,Manuelle,7.0
+95800.0,VW,Tiguan,7.0,113.0,Essence,Automatique,8.0
+75000.0,VW,Tiguan,10.0,128500.0,Essence,Automatique,9.0
+82000.0,VW,Cc,6.0,81000.0,Essence,Manuelle,6.0
+42000.0,VW,Passat,12.0,236000.0,Diesel,Manuelle,7.0
+25000.0,VW,Passat,20.0,280.0,Essence,Manuelle,7.0
+8500.0,VW,Polo,27.0,400000.0,Essence,Manuelle,5.0
+120000.0,VW,Passat,5.0,90000.0,Hybride,Automatique,8.0
+55000.0,VW,Amarok,13.0,292000.0,Diesel,Manuelle,8.0
+12300.0,VW,Caddy,25.0,400.0,Diesel,Manuelle,8.0
+19500.0,VW,Polo,21.0,200.0,Essence,Manuelle,4.0
+60000.0,VW,Passat,11.0,152650.0,Diesel,Manuelle,5.0
+60000.0,VW,Golf,10.0,250.0,Diesel,Manuelle,7.0
+35000.0,VW,Polo,9.0,220000.0,Essence,Manuelle,4.0
+37000.0,VW,Golf,14.0,267000.0,Essence,Manuelle,7.0
+10300.0,VW,Golf,35.0,228532.0,Diesel,Manuelle,4.0
+59000.0,VW,Golf,7.0,177000.0,Essence,Automatique,6.0
+68000.0,VW,Golf 7,4.0,78000.0,Essence,Automatique,6.0
+27600.0,VW,Golf,17.0,320.0,Diesel,Manuelle,6.0
+15500.0,VW,Polo,21.0,345.0,Essence,Manuelle,4.0
+75000.0,VW,Tiguan,10.0,68000.0,Essence,Automatique,9.0
+59000.0,VW,Passat Cc,10.0,230000.0,Essence,Automatique,9.0
+24600.0,VW,Polo,15.0,263860.0,Essence,Manuelle,4.0
+45000.0,VW,Golf,12.0,325000.0,Essence,Manuelle,5.0
+16500.0,VW,Polo,24.0,250000.0,Essence,Manuelle,4.0
+70000.0,VW,Tiguan,11.0,185800.0,Diesel,Automatique,8.0
+76000.0,VW,Golf 8,4.0,97000.0,Essence,Automatique,6.0
+28500.0,VW,Polo,13.0,226000.0,Essence,Manuelle,5.0
+11500.0,VW,Polo,30.0,111111.0,Essence,Manuelle,5.0
+19000.0,VW,Polo,16.0,243000.0,Essence,Manuelle,5.0
+1234.0,VW,Caddy,5.0,222.0,Diesel,Manuelle,7.0
+40000.0,VW,Golf,15.0,209000.0,Essence,Automatique,7.0
+53000.0,VW,Polo,8.0,60000.0,Essence,Manuelle,5.0
+10000.0,VW,Polo,26.0,200000.0,Essence,Manuelle,5.0
+45000.0,VW,Golf,12.0,178000.0,Essence,Manuelle,5.0
+55000.0,VW,Amarok,14.0,225000.0,Diesel,Automatique,8.0
+55000.0,VW,Amarok,14.0,225000.0,Diesel,Automatique,8.0
+47000.0,VW,Golf 7,12.0,177500.0,Essence,Manuelle,5.0
+19500.0,VW,Golf,26.0,267000.0,Essence,Manuelle,5.0
+44000.0,VW,Polo,4.0,167000.0,Essence,Manuelle,5.0
+79500.0,VW,Golf,5.0,93000.0,Essence,Manuelle,6.0
+28900.0,VW,Passat,19.0,240000.0,Diesel,Manuelle,6.0
+42000.0,VW,Passat,16.0,304000.0,Diesel,Manuelle,6.0
+54000.0,VW,Transporter,10.0,222000.0,Diesel,Manuelle,7.0
+103000.0,VW,Golf 8,5.0,76700.0,Essence,Manuelle,8.0
+65000.0,VW,Amarok,13.0,263000.0,Diesel,Manuelle,8.0
+67000.0,VW,Golf 7,7.0,84000.0,Essence,Manuelle,6.0
+65000.0,VW,Polo,4.0,200000.0,Diesel,Manuelle,5.0
+13000.0,VW,Polo,23.0,187000.0,Essence,Manuelle,5.0
+42500.0,VW,Caddy,5.0,213000.0,Diesel,Manuelle,6.0
+23700.0,VW,Polo,17.0,270.0,Essence,Manuelle,5.0
+54000.0,VW,Golf 7,11.0,240.0,Essence,Manuelle,5.0
+5800.0,VW,Polo,30.0,100000.0,Essence,Manuelle,5.0
+42000.0,VW,Jetta,12.0,220000.0,Essence,Manuelle,6.0
+9400.0,VW,Golf,30.0,135000.0,Essence,Manuelle,5.0
+37000.0,VW,Polo,10.0,98000.0,Essence,Manuelle,4.0
+45000.0,VW,Polo,3.0,158000.0,Essence,Manuelle,4.0
+1111.0,VW,Touareg,4.0,160000.0,Diesel,Manuelle,6.0
+32500.0,VW,Polo,14.0,210000.0,Essence,Manuelle,5.0
+34000.0,VW,Passat,19.0,147000.0,Essence,Automatique,10.0
+25500.0,VW,Polo,18.0,243000.0,Essence,Manuelle,5.0
+35800.0,VW,Golf 6,15.0,340.0,Diesel,Manuelle,5.0
+79000.0,VW,Tiguan,11.0,119000.0,Diesel,Automatique,8.0
+77000.0,VW,Golf 7,7.0,118000.0,Essence,Manuelle,5.0
+25500.0,VW,Polo,15.0,231619.0,Essence,Manuelle,4.0
+42000.0,VW,Golf,15.0,180000.0,Essence,Manuelle,5.0
+56000.0,VW,Golf 7,8.0,259000.0,Essence,Manuelle,5.0
+28000.0,VW,Golf,19.0,320000.0,Essence,Manuelle,5.0
+32000.0,VW,Polo,11.0,190000.0,Essence,Manuelle,5.0
+32000.0,VW,Passat,14.0,320000.0,Essence,Manuelle,7.0
+95000.0,VW,Golf,4.0,42300.0,Essence,Manuelle,6.0
+11000.0,VW,Tiguan,38.0,178000.0,Diesel,Manuelle,6.0
+23000.0,VW,Caddy,20.0,1.0,Diesel,Manuelle,6.0
+32000.0,VW,Jetta,17.0,208732.0,Essence,Manuelle,7.0
+12345.0,VW,Golf 6,14.0,216.0,Diesel,Manuelle,5.0
+34500.0,VW,Polo,10.0,150.0,Essence,Manuelle,4.0
+47500.0,VW,Golf,11.0,188000.0,Essence,Manuelle,5.0
+1234.0,VW,Passat,6.0,15000.0,Essence,Manuelle,7.0
+1234.0,VW,Golf,4.0,70000.0,Essence,Automatique,8.0
+29000.0,VW,Golf,14.0,200.0,Essence,Manuelle,6.0
+23000.0,VW,Beetle,22.0,292000.0,Diesel,Manuelle,5.0
+43000.0,VW,Passat,15.0,151000.0,Essence,Automatique,9.0
+31700.0,VW,Polo,13.0,189.0,Essence,Manuelle,5.0
+28000.0,VW,Touran,19.0,278.0,Essence,Manuelle,7.0
+72000.0,VW,Passat,9.0,137880.0,Diesel,Manuelle,6.0
+64000.0,VW,Golf,6.0,175000.0,Essence,Automatique,6.0
+42000.0,VW,Jetta,14.0,195.0,Diesel,Manuelle,5.0
+32000.0,VW,Polo,13.0,153000.0,Essence,Manuelle,4.0
+30000.0,VW,Polo,13.0,230000.0,Essence,Manuelle,5.0
+57000.0,VW,Amarok,14.0,230000.0,Diesel,Manuelle,7.0
+13000.0,VW,Golf,25.0,281000.0,Essence,Manuelle,6.0
+85000.0,Land Rover,Evoque,12.0,165000.0,Essence,Automatique,11.0
+200000.0,Land Rover,Evoque,4.0,15000.0,Diesel,Manuelle,8.0
+187000.0,Land Rover,Range Rover Sport,9.0,135000.0,Diesel,Automatique,20.0
+270000.0,Land Rover,Range Rover,8.0,118000.0,Diesel,Automatique,6.0
+35000.0,Land Rover,Discovery,26.0,289000.0,Diesel,Automatique,10.0
+130000.0,Land Rover,Evoque,9.0,165000.0,Diesel,Automatique,9.0
+1234.0,Land Rover,Range Rover,10.0,11000.0,Essence,Automatique,20.0
+95000.0,Land Rover,Evoque,11.0,230000.0,Essence,Automatique,15.0
+94000.0,Land Rover,Evoque,9.0,178000.0,Diesel,Automatique,8.0
+125000.0,Land Rover,Evoque,6.0,170000.0,Diesel,Automatique,10.0
+187000.0,Land Rover,Evoque,5.0,70000.0,Diesel,Automatique,14.0
+30000.0,Citroen,C5,14.0,290000.0,Diesel,Manuelle,6.0
+57000.0,Citroen,Jumpy,5.0,120000.0,Diesel,Manuelle,6.0
+36000.0,Citroen,C3,7.0,94000.0,Essence,Manuelle,4.0
+32000.0,Citroen,Berlingo,13.0,267.0,Diesel,Manuelle,5.0
+30000.0,Citroen,C1,7.0,90000.0,Essence,Manuelle,4.0
+24000.0,Citroen,Jumpy,15.0,314000.0,Diesel,Manuelle,7.0
+18000.0,Citroen,C3,15.0,18000.0,Essence,Manuelle,5.0
+57000.0,Citroen,Jumpy,5.0,120000.0,Diesel,Manuelle,6.0
+24000.0,Citroen,Autre,8.0,129000.0,Essence,Automatique,5.0
+22000.0,Citroen,C3,21.0,199000.0,Essence,Manuelle,4.0
+20000.0,Citroen,C3,19.0,190000.0,Essence,Manuelle,4.0
+28500.0,Citroen,C3 Picasso,15.0,296000.0,Essence,Manuelle,6.0
+25000.0,Citroen,Autre,7.0,174000.0,Essence,Manuelle,5.0
+32000.0,Citroen,C4,11.0,140000.0,Essence,Manuelle,6.0
+49500.0,Citroen,C3,4.0,122000.0,Diesel,Manuelle,5.0
+7900.0,Citroen,Zx,28.0,376000.0,Essence,Manuelle,5.0
+25000.0,Citroen,C4,11.0,200000.0,Essence,Manuelle,6.0
+30500.0,Citroen,C4,12.0,224000.0,Essence,Manuelle,5.0
+55000.0,Citroen,Jumpy,8.0,247000.0,Diesel,Manuelle,7.0
+46500.0,Citroen,Autre,4.0,159000.0,Diesel,Manuelle,4.0
+29000.0,Citroen,Autre,9.0,190000.0,Essence,Manuelle,5.0
+1111.0,Citroen,C4,16.0,400000.0,Diesel,Manuelle,5.0
+45000.0,Citroen,C3,1.0,19500.0,Essence,Manuelle,4.0
+23000.0,Citroen,C3,22.0,207000.0,Essence,Manuelle,5.0
+28000.0,Citroen,C4,17.0,252000.0,Essence,Automatique,7.0
+36500.0,Citroen,C3,5.0,58000.0,Essence,Manuelle,4.0
+25500.0,Citroen,C3 Ii,13.0,265000.0,Essence,Manuelle,5.0
+12500.0,Citroen,Berlingo,23.0,300.0,Diesel,Manuelle,8.0
+37500.0,Citroen,C4 Ii,7.0,111000.0,Essence,Manuelle,6.0
+25000.0,Citroen,Jumpy,10.0,442000.0,Diesel,Manuelle,5.0
+24000.0,Citroen,C4 Picasso,16.0,318000.0,Diesel,Automatique,6.0
+5300.0,Citroen,Ax,36.0,300000.0,Essence,Manuelle,4.0
+6000.0,Citroen,C15,33.0,25.0,Diesel,Manuelle,6.0
+65000.0,Citroen,C4 Picasso Ii,11.0,230000.0,Diesel,Manuelle,6.0
+55000.0,Citroen,C3,4.0,140000.0,Diesel,Manuelle,5.0
+20000.0,Citroen,C3,17.0,277.0,Essence,Manuelle,4.0
+32000.0,Citroen,C4 Ii,11.0,156000.0,Essence,Manuelle,6.0
+29500.0,Citroen,C5,14.0,210000.0,Essence,Automatique,9.0
+25000.0,Citroen,Ds4,13.0,196952.0,Diesel,Manuelle,6.0
+38000.0,Citroen,C3,6.0,105000.0,Essence,Automatique,6.0
+28000.0,Citroen,Autre,12.0,181000.0,Essence,Manuelle,4.0
+39000.0,Citroen,C4 Cactus,7.0,80.0,Essence,Manuelle,5.0
+11500.0,Citroen,Saxo,26.0,300.0,Essence,Manuelle,5.0
+35000.0,Citroen,C4,7.0,10000.0,Essence,Automatique,7.0
+20000.0,Citroen,C3,16.0,157000.0,Essence,Manuelle,4.0
+29000.0,Citroen,C4,13.0,0.0,Essence,Manuelle,6.0
+210000.0,Citroen,C3,16.0,157000.0,Essence,Manuelle,4.0
+210000.0,Citroen,C3,16.0,157000.0,Essence,Manuelle,4.0
+21000.0,Citroen,C3,16.0,150000.0,Essence,Manuelle,4.0
+42000.0,Citroen,Ds5,10.0,152000.0,Essence,Automatique,9.0
+31500.0,Citroen,Berlingo,10.0,295999.0,Diesel,Manuelle,5.0
+40000.0,Citroen,C3,6.0,100000.0,Essence,Manuelle,4.0
+50000.0,Citroen,Berlingo,3.0,100000.0,Diesel,Manuelle,5.0
+17000.0,Citroen,C4,17.0,280.0,Diesel,Manuelle,6.0
+65000.0,Citroen,Jumper,6.0,160.0,Diesel,Manuelle,9.0
+58000.0,Citroen,Berlingo,4.0,90000.0,Diesel,Manuelle,5.0
+47000.0,Citroen,C4 Cactus,5.0,125000.0,Essence,Manuelle,6.0
+25000.0,Citroen,C5 Ii,16.0,342000.0,Diesel,Manuelle,6.0
+370000.0,Citroen,C3,6.0,85000.0,Essence,Manuelle,4.0
+45000.0,Citroen,C5 Tourer,9.0,217000.0,Diesel,Manuelle,7.0
+30000.0,Citroen,C4,11.0,260000.0,Essence,Manuelle,6.0
+35800.0,Citroen,C3,6.0,116000.0,Essence,Manuelle,4.0
+27000.0,Citroen,C4,13.0,241000.0,Essence,Manuelle,6.0
+33500.0,Citroen,C3 Ii,6.0,117369.0,Essence,Manuelle,4.0
+27500.0,Citroen,C4,12.0,185000.0,Essence,Manuelle,6.0
+34000.0,Citroen,Berlingo,9.0,239000.0,Diesel,Manuelle,5.0
+27500.0,Citroen,Ds3,14.0,223000.0,Essence,Manuelle,5.0
+26500.0,Citroen,C3,14.0,230000.0,Essence,Manuelle,5.0
+11000.0,Citroen,Zx,28.0,400000.0,Essence,Manuelle,5.0
+42000.0,Citroen,Berlingo Ii,3.0,177000.0,Diesel,Manuelle,5.0
+27800.0,Citroen,C3,15.0,179000.0,Essence,Manuelle,5.0
+36000.0,Citroen,Ds3,10.0,110.0,Essence,Manuelle,5.0
+21000.0,Citroen,C4,19.0,0.0,Essence,Manuelle,6.0
+26000.0,Citroen,Autre,9.0,250000.0,Essence,Manuelle,5.0
+47000.0,Citroen,Berlingo,5.0,170000.0,Diesel,Manuelle,4.0
+30500.0,Citroen,C4,13.0,300.0,Diesel,Manuelle,5.0
+33000.0,Citroen,C3,8.0,92000.0,Essence,Manuelle,4.0
+31000.0,Citroen,C3,14.0,150000.0,Essence,Manuelle,5.0
+27500.0,Citroen,C5,15.0,178000.0,Essence,Automatique,9.0
+40000.0,Citroen,C5,13.0,310000.0,Diesel,Manuelle,6.0
+33000.0,Citroen,Ds3,11.0,119000.0,Essence,Manuelle,5.0
+42700.0,Citroen,Berlingo,9.0,203.0,Diesel,Manuelle,5.0
+21000.0,Citroen,C4,19.0,0.0,Essence,Manuelle,6.0
+57000.0,Citroen,Berlingo,9.0,215000.0,Diesel,Manuelle,10.0
+30000.0,Citroen,C4,13.0,193000.0,Essence,Manuelle,6.0
+1233.0,Citroen,Berlingo,4.0,120000.0,Diesel,Manuelle,6.0
+24000.0,Citroen,Nemo,8.0,175000.0,Diesel,Manuelle,5.0
+27500.0,Citroen,C3 Ii,12.0,146000.0,Essence,Manuelle,5.0
+13500.0,Fiat,Punto,9.0,150000.0,GPL,Manuelle,4.0
+13000.0,Fiat,Punto,29.0,0.0,Essence,Manuelle,4.0
+37000.0,Fiat,Panda,3.0,130000.0,Essence,Manuelle,4.0
+31000.0,Fiat,Fiorino,3.0,190000.0,Diesel,Manuelle,5.0
+23000.0,Fiat,Grande Punto,16.0,310000.0,Essence,Manuelle,5.0
+19000.0,Fiat,Autre,10.0,270.0,Essence,Manuelle,5.0
+19000.0,Fiat,Autre,25.0,270.0,Essence,Manuelle,5.0
+9800.0,Fiat,Tipo,25.0,300000.0,Essence,Manuelle,4.0
+24000.0,Fiat,Grande Punto,15.0,291.0,Essence,Manuelle,5.0
+24000.0,Fiat,Grande Punto,15.0,291000.0,Essence,Manuelle,5.0
+12000.0,Fiat,Punto,22.0,290000.0,Essence,Manuelle,5.0
+25500.0,Fiat,Panda,13.0,180.0,Essence,Manuelle,4.0
+33000.0,Fiat,Freemont,13.0,228000.0,Diesel,Manuelle,8.0
+10500.0,Fiat,Palio Weekend,25.0,270000.0,Essence,Manuelle,4.0
+53000.0,Fiat,500,4.0,37000.0,Essence,Automatique,4.0
+32000.0,Fiat,Fiorino,7.0,150000.0,Diesel,Manuelle,5.0
+16300.0,Fiat,Autre,21.0,290000.0,Essence,Manuelle,6.0
+12000.0,Fiat,Palio Weekend,25.0,270000.0,Essence,Manuelle,4.0
+29000.0,Fiat,Grande Punto,9.0,131600.0,Essence,Manuelle,4.0
+29000.0,Fiat,Grande Punto,9.0,131500.0,Essence,Manuelle,4.0
+34000.0,Fiat,Doblo,5.0,182000.0,Diesel,Manuelle,5.0
+29000.0,Fiat,Grande Punto,9.0,131440.0,Essence,Manuelle,4.0
+18000.0,Fiat,Doblo Cargo,12.0,400.0,Diesel,Manuelle,5.0
+31000.0,Fiat,Fiorino,6.0,89000.0,Diesel,Manuelle,5.0
+30000.0,Fiat,500,13.0,202.0,Essence,Manuelle,4.0
+14500.0,Fiat,Punto,27.0,0.0,Essence,Manuelle,4.0
+14500.0,Fiat,Punto,28.0,0.0,Essence,Manuelle,5.0
+17500.0,Fiat,Doblo Cargo,9.0,334.0,Diesel,Manuelle,5.0
+24500.0,Fiat,Grande Punto,13.0,276.0,Essence,Manuelle,5.0
+47000.0,Fiat,500,3.0,70000.0,Essence,Manuelle,4.0
+44500.0,Fiat,Tipo,5.0,101500.0,Essence,Manuelle,5.0
+16200.0,Fiat,Palio Weekend,18.0,270000.0,Essence,Manuelle,4.0
+28800.0,Fiat,Grande Punto,12.0,140000.0,Essence,Manuelle,4.0
+23000.0,Fiat,Panda,16.0,252000.0,Essence,Manuelle,4.0
+30000.0,Fiat,500,13.0,202000.0,Essence,Manuelle,4.0
+17800.0,Fiat,Punto,17.0,221.0,Essence,Manuelle,5.0
+22000.0,Fiat,Autre,16.0,70000.0,Essence,Manuelle,4.0
+38000.0,Fiat,Doblo,4.0,86480.0,Diesel,Manuelle,5.0
+26000.0,Fiat,Fiorino Qubo,16.0,25000.0,Diesel,Manuelle,5.0
+42000.0,Fiat,Tipo,5.0,92000.0,Essence,Manuelle,6.0
+40000.0,Fiat,Panda,5.0,84000.0,Essence,Automatique,4.0
+18500.0,Fiat,Autre,20.0,217230.0,Essence,Manuelle,5.0
+40000.0,Fiat,Fiorino,3.0,32000.0,Diesel,Manuelle,5.0
+56000.0,Fiat,500,5.0,76000.0,Hybride,Manuelle,4.0
+7000.0,Fiat,Uno,30.0,260.0,Essence,Manuelle,5.0
+17000.0,Fiat,Scudo,21.0,0.0,Diesel,Manuelle,7.0
+23000.0,Fiat,Punto Evo,13.0,180000.0,Essence,Manuelle,4.0
+21500.0,Fiat,Grande Punto,16.0,202000.0,Essence,Manuelle,5.0
+49000.0,Fiat,Doblo,4.0,170000.0,Diesel,Manuelle,6.0
+21000.0,Fiat,Punto,20.0,185000.0,Diesel,Manuelle,5.0
+10500.0,Fiat,Punto,28.0,200000.0,Essence,Manuelle,4.0
+33000.0,Fiat,Fiorino,4.0,180000.0,Diesel,Manuelle,5.0
+31500.0,Fiat,Punto Evo,10.0,136000.0,Essence,Manuelle,4.0
+13800.0,Fiat,Uno,30.0,244000.0,Essence,Manuelle,4.0
+25000.0,Fiat,500,15.0,201000.0,Essence,Manuelle,4.0
+20000.0,Fiat,Doblo,9.0,243.0,Diesel,Manuelle,5.0
+26000.0,Fiat,Fiorino,16.0,250000.0,Diesel,Manuelle,5.0
+12000.0,Fiat,Palio Weekend,15.0,350000.0,Essence,Manuelle,5.0
+14500.0,Fiat,Ducato,27.0,470.0,Diesel,Manuelle,9.0
+33500.0,Fiat,Doblo Cargo,4.0,121000.0,Diesel,Manuelle,5.0
+38000.0,Fiat,500,7.0,112000.0,Essence,Automatique,4.0
+41900.0,Fiat,Doblo,1.0,70000.0,Diesel,Manuelle,5.0
+12000.0,Fiat,Palio Weekend,15.0,350000.0,Essence,Manuelle,5.0
+44000.0,Fiat,Panda,4.0,52.0,Essence,Manuelle,5.0
+24000.0,Fiat,Grande Punto,13.0,230.0,Essence,Manuelle,4.0
+14000.0,Fiat,Autre,19.0,200000.0,Essence,Manuelle,5.0
+33500.0,Fiat,Doblo,3.0,150000.0,Diesel,Manuelle,5.0
+31000.0,Fiat,Panda,8.0,135000.0,Essence,Manuelle,4.0
+34000.0,Fiat,Panda,5.0,68000.0,Essence,Manuelle,4.0
+18000.0,Fiat,Punto,18.0,250.0,Essence,Manuelle,5.0
+27000.0,Fiat,Grande Punto,12.0,154000.0,Essence,Manuelle,4.0
+23000.0,Fiat,Grande Punto,14.0,200.0,Essence,Manuelle,5.0
+18700.0,Fiat,Bravo Ii,16.0,470.0,Diesel,Manuelle,5.0
+48500.0,Fiat,500,5.0,65.0,Essence,Manuelle,4.0
+19000.0,Fiat,Doblo,12.0,120000.0,Diesel,Manuelle,5.0
+15000.0,Fiat,Doblo,10.0,197000.0,Diesel,Manuelle,4.0
+1234.0,Fiat,500,4.0,18000.0,Essence,Manuelle,4.0
+19000.0,Fiat,Doblo Cargo,10.0,251000.0,Diesel,Manuelle,5.0
+44000.0,Fiat,Ducato,9.0,177000.0,Diesel,Manuelle,8.0
+27000.0,Fiat,Punto Evo,12.0,207000.0,Essence,Manuelle,4.0
+47000.0,Fiat,Doblo,5.0,83000.0,Essence,Manuelle,6.0
+36000.0,Fiat,Fiorino,4.0,78450.0,Diesel,Manuelle,5.0
+16500.0,Fiat,Autre,18.0,250.0,Essence,Manuelle,5.0
+10500.0,Fiat,Palio Weekend,20.0,216000.0,Essence,Manuelle,5.0
+16000.0,Fiat,Palio Weekend,24.0,258000.0,Essence,Manuelle,4.0
+39000.0,Fiat,Fiorino,3.0,59000.0,Diesel,Manuelle,5.0
+16500.0,Fiat,Autre,18.0,210.0,Essence,Manuelle,5.0
+52000.0,Kia,Rio,4.0,100000.0,Essence,Manuelle,5.0
+22500.0,BMW,520,22.0,300.0,Essence,Automatique,11.0
+38000.0,VW,Jetta,14.0,18000.0,Essence,Manuelle,7.0
+40000.0,Renault,Clio,5.0,91000.0,Essence,Manuelle,5.0
+36000.0,Suzuki,Swift,6.0,151000.0,Essence,Manuelle,5.0
+45000.0,VW,Golf 6,13.0,209000.0,Essence,Manuelle,5.0
+29000.0,Mitsubishi,Lancer,15.0,216000.0,Essence,Automatique,9.0
+30500.0,Peugeot,208,7.0,80000.0,Essence,Manuelle,5.0
+37800.0,Kia,Picanto,7.0,117000.0,Essence,Manuelle,4.0
+32500.0,Suzuki,S-Presso,2.0,46000.0,Essence,Manuelle,5.0
+23000.0,Peugeot,107,14.0,270.0,Essence,Manuelle,4.0
+35000.0,Renault,Autres,9.0,141000.0,Essence,Manuelle,4.0
+32000.0,VW,Caddy,12.0,200000.0,Essence,Manuelle,7.0
+28000.0,Chery,A3,8.0,181000.0,Essence,Manuelle,5.0
+42000.0,Renault,Clio,2.0,65241.0,Essence,Manuelle,5.0
+9000.0,Renault,Kangoo,24.0,345000.0,Diesel,Manuelle,7.0
+13000.0,Audi,80,33.0,200.0,Essence,Manuelle,7.0
+30000.0,Citroen,C5,14.0,290000.0,Diesel,Manuelle,6.0
+34000.0,Hyundai,I20,8.0,266.0,Essence,Manuelle,5.0
+13500.0,Fiat,Punto,9.0,150000.0,GPL,Manuelle,4.0
+22500.0,Dacia,Dokker,11.0,250000.0,Diesel,Manuelle,6.0
+30500.0,Peugeot,208,7.0,80000.0,Essence,Manuelle,5.0
+57000.0,Citroen,Jumpy,5.0,120000.0,Diesel,Manuelle,6.0
+20000.0,VW,Passat,18.0,220000.0,Essence,Automatique,12.0
+39500.0,Skoda,Fabia,3.0,100000.0,Essence,Manuelle,5.0
+35000.0,VW,Passat,15.0,200000.0,Essence,Manuelle,6.0
+36000.0,Citroen,C3,7.0,94000.0,Essence,Manuelle,4.0
+26500.0,Ford,Ka,10.0,221000.0,Essence,Manuelle,4.0
+75000.0,Peugeot,3008,7.0,179000.0,Diesel,Automatique,6.0
+80000.0,MG,Mg Rx8,3.0,130000.0,Essence,Automatique,9.0
+2000.0,Kia,Sportage,16.0,0.0,Diesel,Automatique,4.0
+36000.0,Hyundai,Veloster,12.0,188000.0,Essence,Automatique,8.0
+38500.0,Suzuki,Celerio,2.0,35400.0,Essence,Manuelle,4.0
+138000.0,Toyota,Rav4,2.0,58800.0,Hybride,Automatique,9.0
+122000.0,Mercedes-Benz,Classe C,7.0,186000.0,Diesel,Automatique,6.0
+72000.0,VW,Golf 7,8.0,116000.0,Essence,Manuelle,6.0
+75000.0,Dacia,Autre,3.0,80000.0,Essence,Manuelle,5.0
+65000.0,Toyota,Autres,4.0,154000.0,Diesel,Manuelle,4.0
+25500.0,Peugeot,208,9.0,160000.0,Essence,Manuelle,5.0
+40000.0,Dacia,Duster,10.0,78000.0,Essence,Automatique,9.0
+26000.0,Peugeot,508,14.0,0.0,Diesel,Automatique,6.0
+13000.0,Fiat,Punto,29.0,0.0,Essence,Manuelle,4.0
+29000.0,Hyundai,I10,8.0,94000.0,Essence,Manuelle,4.0
+149000.0,Mercedes-Benz,Glc,10.0,37000.0,Diesel,Automatique,9.0
+25500.0,Mini,Autre,19.0,200000.0,Essence,Manuelle,7.0
+9000.0,Peugeot,207,14.0,103000.0,Diesel,Manuelle,5.0
+105000.0,Mercedes-Benz,Classe A,6.0,69600.0,Essence,Manuelle,7.0
+43800.0,Seat,Ibiza,5.0,118000.0,Essence,Manuelle,5.0
+38000.0,Toyota,Yaris,10.0,174000.0,Essence,Manuelle,5.0
+32000.0,Citroen,Berlingo,13.0,267.0,Diesel,Manuelle,5.0
+25000.0,Peugeot,308,16.0,203000.0,Essence,Manuelle,6.0
+27000.0,Mahindra,Kuv 100,6.0,130000.0,Essence,Manuelle,5.0
+33500.0,Renault,Clio,2.0,43000.0,Essence,Automatique,4.0
+13000.0,Dacia,Logan,14.0,300000.0,Diesel,Manuelle,5.0
+40000.0,VW,Polo,6.0,198000.0,Essence,Manuelle,4.0
+37000.0,Fiat,Panda,3.0,130000.0,Essence,Manuelle,4.0
+31000.0,Fiat,Fiorino,3.0,190000.0,Diesel,Manuelle,5.0
+26500.0,Peugeot,308,17.0,195000.0,Essence,Automatique,5.0
+62000.0,VW,Polo,1.0,20000.0,Essence,Manuelle,6.0
+30000.0,Mahindra,Kuv 100,3.0,51000.0,Essence,Manuelle,4.0
+84000.0,Kia,Autre,5.0,71000.0,Essence,Automatique,8.0
+50000.0,Chery,Tiggo,6.0,160000.0,Essence,Manuelle,8.0
+27000.0,Mercedes-Benz,Classe C,15.0,140000.0,Diesel,Manuelle,8.0
+30000.0,Citroen,C1,7.0,90000.0,Essence,Manuelle,4.0
+52000.0,MG,Mg Rx8,7.0,117000.0,Essence,Automatique,9.0
+24000.0,Citroen,Jumpy,15.0,314000.0,Diesel,Manuelle,7.0
+17500.0,Ford,Focus,21.0,17500.0,Essence,Manuelle,6.0
+58000.0,Mercedes-Benz,Classe A,9.0,120000.0,Essence,Automatique,6.0
+26000.0,Renault,Megane,16.0,203000.0,Diesel,Manuelle,5.0
+27000.0,Ford,Fiesta,11.0,220000.0,Essence,Manuelle,5.0
+30000.0,Peugeot,208,10.0,113000.0,Essence,Manuelle,5.0
+41500.0,Renault,Clio,6.0,189000.0,Essence,Manuelle,5.0
+23000.0,Fiat,Grande Punto,16.0,310000.0,Essence,Manuelle,5.0
+85000.0,Land Rover,Evoque,12.0,165000.0,Essence,Automatique,11.0
+23000.0,Audi,A4,22.0,127000.0,Essence,Manuelle,7.0
+38000.0,Ford,Ecosport,5.0,233000.0,Essence,Automatique,6.0
+35500.0,Hyundai,I10,2.0,92.0,Essence,Manuelle,5.0
+38000.0,Kia,Rio,8.0,153000.0,Essence,Manuelle,5.0
+39500.0,Kia,Rio,8.0,220000.0,Essence,Manuelle,5.0
+72000.0,Chery,Tiggo,3.0,79000.0,Essence,Automatique,9.0
+19000.0,Fiat,Autre,10.0,270.0,Essence,Manuelle,5.0
+22000.0,Chevrolet,Aveo,17.0,159000.0,Essence,Manuelle,5.0
+43000.0,VW,Polo,7.0,144000.0,Essence,Manuelle,4.0
+43000.0,VW,Passat,17.0,128000.0,Essence,Manuelle,7.0
+13000.0,Peugeot,Expert,24.0,99999.0,Diesel,Manuelle,7.0
+34500.0,Kia,Picanto,5.0,98000.0,Essence,Manuelle,4.0
+24800.0,Peugeot,Autres,6.0,146000.0,Inconnu,Manuelle,5.0
+89000.0,Mercedes-Benz,Classe C,10.0,245000.0,Essence,Automatique,
+39500.0,Renault,Clio,5.0,90000.0,Essence,Manuelle,5.0
+40000.0,Chevrolet,Aveo,3.0,88000.0,Essence,Automatique,6.0
+43000.0,VW,Golf 7,10.0,1000.0,Essence,Manuelle,6.0
+37000.0,Mazda,Bt 50,17.0,352000.0,Diesel,Manuelle,10.0
+58000.0,MG,Mg Rx8,5.0,117000.0,Essence,Automatique,7.0
+35000.0,Renault,Clio,12.0,160500.0,Essence,,
+29500.0,Hyundai,I20,10.0,230000.0,Essence,Manuelle,4.0
+119000.0,Audi,Q5,11.0,32000.0,Diesel,Manuelle,8.0
+18000.0,Citroen,C3,15.0,18000.0,Essence,Manuelle,5.0
+11000.0,Peugeot,206,27.0,280.0,Essence,Manuelle,4.0
+43000.0,BMW,Serie 1 Ii,13.0,168000.0,Essence,Manuelle,7.0
+25500.0,Ford,Fiesta,11.0,122000.0,Essence,Manuelle,5.0
+98000.0,BMW,Serie 1 Ii,4.0,68000.0,Diesel,Manuelle,6.0
+49500.0,Kia,Rio,3.0,81000.0,Essence,Manuelle,5.0
+19000.0,Fiat,Autre,25.0,270.0,Essence,Manuelle,5.0
+30500.0,Peugeot,208,7.0,80000.0,Essence,Manuelle,5.0
+57000.0,Citroen,Jumpy,5.0,120000.0,Diesel,Manuelle,6.0
+14500.0,Peugeot,Boxer,18.0,14500.0,Diesel,Manuelle,7.0
+25500.0,Ford,Fiesta,11.0,121000.0,Essence,Manuelle,5.0
+39000.0,Hyundai,I10,3.0,13733.0,Essence,Manuelle,4.0
+24300.0,VW,Polo,16.0,227000.0,Essence,Manuelle,4.0
+18500.0,Ford,Focus,19.0,290.0,Essence,Manuelle,6.0
+56000.0,MG,Mg Rx8,5.0,80000.0,Essence,Manuelle,7.0
+32500.0,Hyundai,I20,10.0,230000.0,Essence,Manuelle,4.0
+13500.0,VW,Polo,28.0,444.0,Essence,Manuelle,4.0
+24000.0,Citroen,Autre,8.0,129000.0,Essence,Automatique,5.0
+9800.0,Fiat,Tipo,25.0,300000.0,Essence,Manuelle,4.0
+25000.0,Ford,Fiesta,13.0,218000.0,Essence,Manuelle,5.0
+45000.0,BMW,316,13.0,179000.0,Essence,Automatique,7.0
+22000.0,Citroen,C3,21.0,199000.0,Essence,Manuelle,4.0
+23500.0,Peugeot,208,8.0,113000.0,Essence,Manuelle,5.0
+18000.0,Chevrolet,Autre,18.0,297000.0,Essence,Manuelle,6.0
+44500.0,Opel,Astra,6.0,132314.0,Diesel,Manuelle,7.0
+73000.0,Peugeot,3008,4.0,220000.0,Essence,Automatique,7.0
+9000.0,Ford,Fiesta,32.0,0.0,Essence,Manuelle,5.0
+79000.0,Mercedes-Benz,Classe E,14.0,120000.0,Diesel,Automatique,14.0
+24000.0,Fiat,Grande Punto,15.0,291.0,Essence,Manuelle,5.0
+18000.0,Peugeot,307,22.0,430000.0,Diesel,Manuelle,8.0
+23500.0,Peugeot,407,16.0,400000.0,Diesel,Manuelle,6.0
+18000.0,Renault,Megane,20.0,290000.0,Diesel,Manuelle,7.0
+24500.0,Mahindra,Kuv 100,7.0,93000.0,Essence,Manuelle,5.0
+38500.0,Kia,Cerato,12.0,286000.0,Essence,Automatique,7.0
+48500.0,Hyundai,I10,1.0,60456.0,Essence,Manuelle,5.0
+24000.0,Fiat,Grande Punto,15.0,291000.0,Essence,Manuelle,5.0
+260000.0,Porsche,Macan,5.0,80000.0,Essence,Automatique,
+125000.0,Kia,Sportage,6.0,100.0,Essence,Automatique,10.0
+41000.0,Mazda,Mazda6,10.0,190000.0,Essence,Automatique,9.0
+45000.0,Peugeot,2008,8.0,32500.0,Essence,Manuelle,5.0
+67000.0,Toyota,Rav4,11.0,170000.0,Essence,Automatique,9.0
+38500.0,Ssangyong,Actyon,11.0,260000.0,Diesel,Manuelle,7.0
+30000.0,Geely,Mk-Gl,6.0,74000.0,Essence,Manuelle,6.0
+41000.0,Kia,Rio,10.0,117000.0,Essence,Manuelle,5.0
+37000.0,Hyundai,I10,4.0,107000.0,Essence,Manuelle,4.0
+120000.0,Seat,Ateca,1.0,41000.0,Essence,Automatique,8.0
+51000.0,Nissan,Qashqai,9.0,290000.0,Diesel,Manuelle,5.0
+36000.0,Dacia,Sandero,10.0,190000.0,Essence,Manuelle,5.0
+39000.0,Peugeot,2008,10.0,195000.0,Essence,Manuelle,5.0
+17800.0,Peugeot,206,22.0,200000.0,Essence,Manuelle,4.0
+99000.0,VW,Tiguan,8.0,88500.0,Essence,Automatique,8.0
+120000.0,Mercedes-Benz,Classe A,6.0,56000.0,Essence,Automatique,8.0
+39500.0,Kia,Picanto,3.0,74000.0,Essence,Manuelle,4.0
+37500.0,Volvo,S80,13.0,353215.0,Diesel,Automatique,9.0

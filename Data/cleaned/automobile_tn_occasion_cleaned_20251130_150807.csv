@@ -1,0 +1,1088 @@
+﻿Prix,Marque,Modele,Annee,Age,Kilometrage,Energie,Boite_Vitesses,Puissance_Fiscale
+37500.0,Peugeot,Peugeot 208 Style,2022.0,3.0,69000.0,Essence,Manuelle,5.0
+42500.0,Seat,Seat Ibiza Populaire,2019.0,6.0,100000.0,Essence,Manuelle,4.0
+102000.0,Mercedes-Benz,Mercedes-Benz Classe A AMG,2019.0,6.0,110000.0,Essence,Automatique,7.0
+159000.0,Land,Land Rover Range Rover Evoque Dynamic SE +,2021.0,4.0,110000.0,Hybride,Automatique,11.0
+127000.0,Mercedes-Benz,Mercedes-Benz CLA AMG,2021.0,4.0,85000.0,Essence,Automatique,7.0
+140000.0,Mercedes-Benz,Mercedes-Benz CLA AMG,2021.0,4.0,69000.0,Hybride,Automatique,8.0
+105000.0,BMW,BMW Série 4 Gran Coupé Luxury Line,2019.0,6.0,79000.0,Essence,Automatique,7.0
+117000.0,BMW,BMW Série 4 Gran Coupé Pack M Sport,2019.0,6.0,90000.0,Essence,Automatique,7.0
+102000.0,Land,Land Rover Range Rover Evoque R-Dynamic,2016.0,9.0,160000.0,Diesel,Automatique,10.0
+142200.0,Mercedes-Benz,Mercedes-Benz Classe C AMG,2019.0,6.0,147000.0,Essence,Automatique,8.0
+169000.0,Mercedes-Benz,Mercedes-Benz Classe A AMG,2023.0,2.0,15000.0,Hybride,Automatique,8.0
+102000.0,Mercedes-Benz,Mercedes-Benz Classe S Executive,2010.0,15.0,165000.0,Essence,Automatique,18.0
+122000.0,Porsche,Porsche Cayenne,2012.0,13.0,195000.0,Essence,Automatique,21.0
+73000.0,VW,Volkswagen Virtus Confortline,2023.0,2.0,10000.0,Essence,Automatique,7.0
+83000.0,Seat,Seat Leon Dynamic,2021.0,4.0,59000.0,Essence,Automatique,8.0
+225000.0,Mercedes-Benz,Mercedes-Benz GLE Coupé AMG,2016.0,9.0,127000.0,Diesel,Automatique,16.0
+249000.0,Land,Land Rover Range Rover Sport Autobiography,2018.0,7.0,75000.0,Diesel,Automatique,16.0
+249000.0,Land,Land Rover Range Rover Sport Autobiography,2019.0,6.0,104000.0,Hybride,Automatique,19.0
+55500.0,MG,MG ZS Luxe,2019.0,6.0,124000.0,Essence,Automatique,7.0
+69000.0,Mercedes-Benz,Mercedes-Benz Classe C Avantgarde,2015.0,10.0,200000.0,Essence,Automatique,8.0
+89000.0,Mercedes-Benz,Mercedes-Benz Classe E AMG,2013.0,12.0,199000.0,Essence,Automatique,10.0
+109000.0,BMW,BMW X6,2011.0,14.0,195000.0,Diesel,Automatique,15.0
+145000.0,VW,Volkswagen Touareg Pack Luxe,2015.0,10.0,108000.0,Diesel,Automatique,16.0
+95000.0,Mercedes-Benz,Mercedes-Benz GLA AMG,2016.0,9.0,125000.0,Essence,Automatique,9.0
+125000.0,Cupra,Cupra Formentor Exclusive,2024.0,1.0,44000.0,Essence,Automatique,11.0
+220000.0,Jeep,Jeep Grand Cherokee Limited,2021.0,4.0,54000.0,Essence,Automatique,20.0
+120000.0,Jaguar,Jaguar XF Luxe,2017.0,8.0,42000.0,Essence,Automatique,16.0
+75000.0,Mercedes-Benz,Mercedes-Benz Classe E coupé AMG,2014.0,11.0,230000.0,Essence,Automatique,10.0
+185000.0,Porsche,Porsche Cayenne,2013.0,12.0,210000.0,Diesel,Automatique,28.0
+99000.0,Land,Land Rover Discovery Sport Pure,2017.0,8.0,110000.0,Diesel,Automatique,8.0
+195000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG,2022.0,3.0,23000.0,Hybride,Automatique,9.0
+130000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG +,2021.0,4.0,105000.0,Diesel,Automatique,8.0
+155000.0,Mercedes-Benz,Mercedes-Benz CLS AMG,2015.0,10.0,66000.0,Diesel,Automatique,11.0
+77000.0,Land,Land Rover Range Rover Evoque Dynamic,2012.0,13.0,162000.0,Diesel,Automatique,9.0
+69000.0,Mercedes-Benz,Mercedes-Benz Classe S Limousine,2008.0,17.0,212000.0,Essence,Automatique,29.0
+45000.0,Smart,Smart ForTwo Passion,2016.0,9.0,44000.0,Essence,Automatique,4.0
+245000.0,Jaguar,Jaguar F-Type RDYNAMIC,2017.0,8.0,12000.0,Essence,Automatique,19.0
+83000.0,KIA,KIA Sportage GT-Line,2019.0,6.0,134000.0,Diesel,Automatique,7.0
+316200.0,Mercedes-Benz,Mercedes-Benz CLE Coupé AMG +,2024.0,1.0,15000.0,Essence,Automatique,12.0
+179720.0,Volvo,Volvo XC40 Black Edition,2024.0,1.0,4000.0,Hybride,Automatique,9.0
+79000.0,Citroën,Citroën Jumpy Combi,2020.0,5.0,160000.0,Diesel,Manuelle,6.0
+128000.0,Mercedes-Benz,Mercedes-Benz Classe A AMG,2022.0,3.0,63000.0,Essence,Automatique,7.0
+57000.0,BMW,BMW Série 3 Access,2014.0,11.0,265000.0,Essence,Automatique,7.0
+65000.0,Hyundai,Hyundai Accent,2022.0,3.0,68000.0,Essence,Automatique,6.0
+79000.0,GWM,GWM Haval H6 Luxury,2021.0,4.0,96000.0,Essence,Automatique,9.0
+185000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG,2021.0,4.0,38000.0,Hybride,Automatique,10.0
+73000.0,KIA,KIA Rio 5p GT-Line,2022.0,3.0,10000.0,Essence,Manuelle,5.0
+49000.0,KIA,KIA Picanto LX,2021.0,4.0,31000.0,Essence,Automatique,4.0
+49000.0,Seat,Seat Ibiza Populaire,2018.0,7.0,43000.0,Essence,Manuelle,4.0
+79500.0,Chery,Chery Arrizo 5 Luxury,2025.0,0.0,37657.0,Essence,Automatique,7.0
+112000.0,VW,Volkswagen Golf 8 Life,2023.0,2.0,42000.0,Essence,Automatique,8.0
+47500.0,Peugeot,Peugeot Partner,2021.0,4.0,150000.0,Diesel,Manuelle,5.0
+310000.0,Mercedes-Benz,Mercedes-Benz GLE Coupé AMG,2017.0,8.0,40000.0,Essence,Automatique,26.0
+98000.0,Mercedes-Benz,Mercedes-Benz Classe A AMG,2019.0,6.0,121000.0,Diesel,Automatique,7.0
+265000.0,BMW,BMW X5 Confort xLine,2020.0,5.0,112000.0,Diesel,Automatique,14.0
+52000.0,KIA,KIA Cee'd,2019.0,6.0,178000.0,Essence,Manuelle,6.0
+48500.0,Renault,Renault Clio Life Plus,2022.0,3.0,95000.0,Essence,Manuelle,5.0
+67000.0,Porsche,Porsche Cayenne,2009.0,16.0,214000.0,Essence,Automatique,21.0
+78000.0,Nissan,Nissan Juke Tekna,2022.0,3.0,84000.0,Essence,Automatique,6.0
+47000.0,Suzuki,Suzuki Ciaz GLX,2020.0,5.0,112000.0,Essence,Automatique,6.0
+39800.0,Toyota,Toyota Agya,2023.0,2.0,60000.0,Essence,Automatique,5.0
+61000.0,KIA,KIA Rio 5p GT-Line,2022.0,3.0,61000.0,Essence,Manuelle,5.0
+51000.0,KIA,KIA Rio 5p Prestige,2022.0,3.0,93000.0,Essence,Manuelle,5.0
+53000.0,Peugeot,Peugeot 308,2021.0,4.0,136000.0,Diesel,Manuelle,6.0
+84000.0,BMW,BMW Série 1 Business Line,2020.0,5.0,124000.0,Essence,Automatique,8.0
+68000.0,GWM,GWM Haval H6 Luxury,2021.0,4.0,103000.0,Essence,Automatique,9.0
+91000.0,Peugeot,Peugeot 3008 GT-Line,2020.0,5.0,24500.0,Essence,Automatique,9.0
+106900.0,BMW,BMW Série 2 Gran Coupé Sport Line Collection,2021.0,4.0,59000.0,Essence,Automatique,8.0
+42500.0,Peugeot,Peugeot 2008 Allure Toit Cielo,2016.0,9.0,160000.0,Essence,Manuelle,5.0
+140000.0,Toyota,Toyota Hilux Double Cabine Double Cabine Premium,2018.0,7.0,120000.0,Diesel,Automatique,8.0
+52500.0,BMW,BMW Série 3 Access,2014.0,11.0,174000.0,Essence,Manuelle,7.0
+25000.0,Peugeot,Peugeot 307,2006.0,19.0,143000.0,Essence,Manuelle,6.0
+39000.0,VW,Volkswagen Golf 6 Team,2014.0,11.0,268000.0,Essence,Manuelle,5.0
+34500.0,Renault,Renault Kwid Outsider,2022.0,3.0,77000.0,Essence,Manuelle,4.0
+53000.0,Dacia,Dacia Sandero Stepway,2022.0,3.0,127000.0,Essence,Automatique,5.0
+75900.0,Peugeot,Peugeot 508 GT Line,2019.0,6.0,149000.0,Essence,Automatique,8.0
+449000.0,Mercedes-Benz,Mercedes-Benz AMG GT,2021.0,4.0,57000.0,Hybride,Automatique,24.0
+68000.0,Land,Land Rover Range Rover Sport HSE Dynamic,2009.0,16.0,228000.0,Diesel,Automatique,13.0
+48000.0,VW,Volkswagen Passat CC,2011.0,14.0,384000.0,Diesel,Automatique,8.0
+45000.0,Skoda,Skoda Yeti Ambition,2016.0,9.0,224000.0,Essence,Automatique,7.0
+72000.0,Audi,Audi A3 Berline Design,2018.0,7.0,154000.0,Essence,Automatique,6.0
+145000.0,Isuzu,Isuzu Mu-x,2017.0,8.0,38000.0,Diesel,Automatique,8.0
+44000.0,Citroën,Citroën Berlingo Van Business,2020.0,5.0,84000.0,Diesel,Manuelle,5.0
+30000.0,Mahindra,Mahindra KUV 100 K6+,2022.0,3.0,76000.0,Essence,Manuelle,5.0
+30000.0,Dacia,Dacia Logan MCV,2012.0,13.0,161000.0,Diesel,Manuelle,4.0
+24500.0,Fiat,Fiat Grande Punto EVO,2011.0,14.0,208000.0,Essence,Manuelle,4.0
+62000.0,BMW,BMW Série 3 Pack M,2015.0,10.0,214000.0,Essence,Automatique,7.0
+39900.0,VW,Volkswagen Golf 6 Trend,2010.0,15.0,263000.0,Essence,Manuelle,5.0
+48500.0,Seat,Seat Ibiza Style,2020.0,5.0,91000.0,Essence,Manuelle,4.0
+49900.0,KIA,KIA Rio Berline SX,2019.0,6.0,90000.0,Essence,Automatique,6.0
+41500.0,KIA,KIA Picanto LX,2021.0,4.0,108000.0,Essence,Automatique,4.0
+41900.0,KIA,KIA Rio Berline EX,2020.0,5.0,160000.0,Essence,Manuelle,6.0
+71900.0,KIA,KIA Sportage EX,2017.0,8.0,103000.0,Essence,Automatique,8.0
+63000.0,Isuzu,Isuzu D-Max Simple Cabine,2019.0,6.0,176000.0,Diesel,Manuelle,8.0
+32000.0,Renault,Renault Megane coupé,2010.0,15.0,116000.0,Essence,Manuelle,7.0
+125000.0,Audi,Audi Q3 Sportback S-Line,2020.0,5.0,98000.0,Essence,Manuelle,8.0
+43000.0,VW,Volkswagen Polo Ambition,2021.0,4.0,88000.0,Essence,Manuelle,4.0
+44500.0,KIA,KIA Sportage,2013.0,12.0,275000.0,Diesel,Automatique,11.0
+48500.0,VW,Volkswagen Passat Confortline,2013.0,12.0,239000.0,Diesel,Manuelle,5.0
+35000.0,Peugeot,Peugeot 208 Active,2021.0,4.0,200000.0,Essence,Manuelle,5.0
+88000.0,GWM,GWM Poer MT,2023.0,2.0,100000.0,Diesel,Manuelle,11.0
+98000.0,Skoda,Skoda Superb Ambassador,2022.0,3.0,85000.0,Essence,Automatique,8.0
+87000.0,Chevrolet,Chevrolet Captiva 7 places,2023.0,2.0,23000.0,Essence,Automatique,9.0
+75000.0,BMW,BMW X5,2010.0,15.0,211000.0,Essence,Automatique,19.0
+27900.0,Nissan,Nissan Micra Acenta,2017.0,8.0,143000.0,Essence,Manuelle,5.0
+40500.0,Peugeot,Peugeot 208 Populaire,2023.0,2.0,45000.0,Essence,Manuelle,4.0
+50000.0,KIA,KIA Rio 5p GX,2023.0,2.0,67000.0,Essence,Manuelle,5.0
+119000.0,KIA,KIA Sportage SX,2023.0,2.0,119000.0,Essence,Automatique,10.0
+36500.0,Wallyscar,Wallyscar 719 Atmos,2023.0,2.0,67000.0,Essence,Manuelle,7.0
+56900.0,VW,Volkswagen Amarok Highline,2013.0,12.0,219000.0,Diesel,Manuelle,8.0
+59900.0,Ford,Ford Ecosport Titanium,2021.0,4.0,99000.0,Essence,Automatique,7.0
+110000.0,Iveco,Iveco Daily Simple Cabine,2024.0,1.0,50000.0,Diesel,Manuelle,10.0
+34500.0,Peugeot,Peugeot Bipper Tepee,2013.0,12.0,150000.0,Essence,Manuelle,5.0
+45000.0,VW,Volkswagen Caddy Prestige,2020.0,5.0,97000.0,Diesel,Manuelle,5.0
+45500.0,Hyundai,Hyundai Grand i10 Populaire,2023.0,2.0,37000.0,Essence,Manuelle,4.0
+74000.0,MG,MG GT Luxury,2024.0,1.0,58000.0,Essence,Automatique,7.0
+34000.0,Dacia,Dacia Duster Confort,2014.0,11.0,141000.0,Essence,Manuelle,7.0
+61500.0,VW,Volkswagen Polo R-Line,2021.0,4.0,83000.0,Essence,Manuelle,4.0
+42500.0,BMW,BMW Série 3 E90,2010.0,15.0,128000.0,Essence,Manuelle,7.0
+56000.0,KIA,KIA Picanto Smart,2025.0,0.0,0.0,Essence,Manuelle,5.0
+42500.0,BMW,BMW Série 3 Pack M,2009.0,16.0,167000.0,Essence,Manuelle,7.0
+34900.0,KIA,KIA Cerato KOUP,2012.0,13.0,145000.0,Essence,Automatique,7.0
+249000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG,2024.0,1.0,11000.0,Hybride,Automatique,9.0
+180000.0,Mercedes-Benz,Mercedes-Benz Classe GL,2016.0,9.0,94000.0,Diesel,Automatique,16.0
+22000.0,Audi,Audi A4,2004.0,21.0,316000.0,Diesel,Automatique,7.0
+56000.0,Mercedes-Benz,Mercedes-Benz Classe E AMG,2009.0,16.0,195000.0,Diesel,Automatique,11.0
+38000.0,Fiat,Fiat Fiorino,2024.0,1.0,31000.0,Diesel,Manuelle,5.0
+65000.0,Toyota,Toyota RAV 4,2012.0,13.0,155000.0,Diesel,Manuelle,8.0
+100000.0,KIA,KIA Sportage GT-Line,2021.0,4.0,140000.0,Essence,Automatique,11.0
+35900.0,Mini,Mini 3 portes,2015.0,10.0,226000.0,Essence,Manuelle,4.0
+129000.0,Mercedes-Benz,Mercedes-Benz GLC Coupé,2018.0,7.0,130000.0,Diesel,Automatique,9.0
+74500.0,Mercedes-Benz,Mercedes-Benz Classe C Business Advanced,2014.0,11.0,119000.0,Essence,Manuelle,8.0
+51000.0,VW,Volkswagen Polo Sedan,2022.0,3.0,80000.0,Essence,Manuelle,5.0
+29000.0,Dacia,Dacia Dokker Van,2021.0,4.0,154000.0,Diesel,Manuelle,5.0
+98000.0,Hyundai,Hyundai Tucson,2023.0,2.0,77000.0,Diesel,Manuelle,6.0
+49000.0,Mazda,Mazda 3 Core+ Grade,2018.0,7.0,212000.0,Essence,Manuelle,6.0
+52000.0,Audi,Audi A3,2014.0,11.0,194000.0,Essence,Manuelle,5.0
+68900.0,GWM,GWM Haval H6 Luxury,2020.0,5.0,95000.0,Essence,Automatique,9.0
+49900.0,Mercedes-Benz,Mercedes-Benz Classe E AMG,2011.0,14.0,297000.0,Essence,Automatique,11.0
+34900.0,Nissan,Nissan Juke,2013.0,12.0,224000.0,Essence,Manuelle,5.0
+53000.0,Peugeot,Peugeot Landtrek Simple Cabine,2023.0,2.0,133000.0,Diesel,Manuelle,6.0
+39000.0,Suzuki,Suzuki Swift,2021.0,4.0,132000.0,Essence,Manuelle,5.0
+90000.0,Suzuki,Suzuki Baleno GLX,2024.0,1.0,68000.0,Essence,Automatique,6.0
+105000.0,KIA,KIA Sportage Black Edition,2021.0,4.0,98000.0,Diesel,Automatique,7.0
+195000.0,Mercedes-Benz,Mercedes-Benz Classe E,2021.0,4.0,57000.0,Hybride,Automatique,10.0
+68000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG,2013.0,12.0,221000.0,Essence,Automatique,11.0
+99000.0,Mercedes-Benz,Mercedes-Benz Classe A AMG,2019.0,6.0,189000.0,Diesel,Automatique,6.0
+43500.0,Hyundai,Hyundai i20 GLS,2018.0,7.0,82000.0,Essence,Manuelle,5.0
+45000.0,MG,MG 3 Confort Plus,2021.0,4.0,96000.0,Essence,Automatique,7.0
+19900.0,Peugeot,Peugeot 207,2006.0,19.0,359000.0,Essence,Manuelle,6.0
+43000.0,Mazda,Mazda 6,2015.0,10.0,190000.0,Essence,Automatique,9.0
+35000.0,Citroën,Citroën Berlingo,2011.0,14.0,155000.0,Diesel,Manuelle,7.0
+260000.0,Mercedes-Benz,Mercedes-Benz GLE Coupé AMG,2017.0,8.0,87000.0,Essence,Automatique,23.0
+58000.0,Mercedes-Benz,Mercedes-Benz CLA,2014.0,11.0,289000.0,Essence,Automatique,7.0
+335000.0,Mercedes-Benz,Mercedes-Benz GLE AMG,2020.0,5.0,95000.0,Diesel,Automatique,14.0
+75000.0,Nissan,Nissan Patrol,2001.0,24.0,384000.0,Diesel,Manuelle,12.0
+30500.0,BMW,BMW Série 3,2006.0,19.0,368000.0,Essence,Manuelle,7.0
+95000.0,Suzuki,Suzuki Jimny 3 portes GL,2023.0,2.0,24000.0,Essence,Automatique,6.0
+55500.0,Hyundai,Hyundai i20 High Grade,2022.0,3.0,103000.0,Essence,Manuelle,5.0
+72500.0,Mercedes-Benz,Mercedes-Benz CLA,2014.0,11.0,135000.0,Essence,Manuelle,7.0
+45000.0,Mercedes-Benz,Mercedes-Benz Classe C,2009.0,16.0,193000.0,Essence,Manuelle,9.0
+49500.0,Suzuki,Suzuki Ertiga GLX 7 places,2021.0,4.0,153000.0,Essence,Automatique,6.0
+34000.0,Toyota,Toyota Agya Populaire,2022.0,3.0,93000.0,Essence,Manuelle,4.0
+59000.0,KIA,KIA Rio 5p GT-Line,2021.0,4.0,78000.0,Essence,Manuelle,5.0
+90000.0,Ford,Ford Kuga Titanium,2022.0,3.0,78000.0,Essence,Automatique,10.0
+139000.0,Audi,Audi Q3 Sportback S-Line,2021.0,4.0,85000.0,Essence,Automatique,9.0
+65000.0,KIA,KIA Sportage GT-Line,2016.0,9.0,218000.0,Diesel,Manuelle,11.0
+28500.0,Nissan,Nissan Micra Acenta,2016.0,9.0,188000.0,Essence,Manuelle,5.0
+54000.0,KIA,KIA Picanto GT-Line,2024.0,1.0,50000.0,Essence,Automatique,4.0
+85000.0,KIA,KIA Sportage GT-Line,2018.0,7.0,116000.0,Diesel,Automatique,7.0
+210000.0,BMW,BMW X3,2019.0,6.0,72000.0,Essence,Automatique,15.0
+63500.0,Seat,Seat Arona Xperience,2022.0,3.0,151000.0,Essence,Automatique,6.0
+270000.0,Land,Land Rover Range Rover Sport,2019.0,6.0,130000.0,Essence,Automatique,24.0
+59500.0,GWM,GWM Haval H2 Luxury,2020.0,5.0,142000.0,Essence,Automatique,9.0
+54000.0,KIA,KIA Picanto GT-Line,2024.0,1.0,42000.0,Essence,Automatique,5.0
+52500.0,KIA,KIA Rio 5p Prestige,2022.0,3.0,119000.0,Essence,Manuelle,5.0
+28500.0,Lancia,Lancia Ypsilon,2011.0,14.0,133000.0,Essence,Manuelle,4.0
+48000.0,Renault,Renault Express Van,2024.0,1.0,75000.0,Diesel,Manuelle,5.0
+35000.0,Peugeot,Peugeot 407,2009.0,16.0,70000.0,Diesel,Manuelle,6.0
+55000.0,Skoda,Skoda Octavia Ambition,2018.0,7.0,128000.0,Essence,Automatique,8.0
+94900.0,Mercedes-Benz,Mercedes-Benz Classe C Avantgarde,2015.0,10.0,127000.0,Essence,Automatique,10.0
+285000.0,Mercedes-Benz,Mercedes-Benz Classe E AMG,2024.0,1.0,9000.0,Hybride,Automatique,12.0
+46500.0,Peugeot,Peugeot 4008,2014.0,11.0,157000.0,Essence,Manuelle,9.0
+39500.0,Alfa,Alfa Romeo Giulietta,2016.0,9.0,130000.0,Essence,Manuelle,7.0
+42000.0,Mercedes-Benz,Mercedes-Benz Classe C,2010.0,15.0,386000.0,Diesel,Manuelle,7.0
+42000.0,Skoda,Skoda Fabia,2021.0,4.0,135000.0,Essence,Manuelle,4.0
+24000.0,Citroën,Citroën C4,2008.0,17.0,289000.0,Essence,Manuelle,6.0
+99000.0,Mercedes-Benz,Mercedes-Benz CLA AMG,2014.0,11.0,130000.0,Essence,Automatique,24.0
+35900.0,Dacia,Dacia Duster,2011.0,14.0,123000.0,Essence,Manuelle,7.0
+90000.0,VW,Volkswagen Golf 8 1ST EDITION,2020.0,5.0,86000.0,Essence,Manuelle,8.0
+37900.0,Peugeot,Peugeot 2008 Allure,2018.0,7.0,104000.0,Essence,Manuelle,5.0
+188000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG,2022.0,3.0,91000.0,Hybride,Automatique,9.0
+39900.0,Renault,Renault Clio Life Plus,2022.0,3.0,113000.0,Essence,Manuelle,5.0
+56500.0,Hyundai,Hyundai i20 High Grade,2021.0,4.0,87000.0,Essence,Manuelle,5.0
+129000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG,2020.0,5.0,116000.0,Essence,Automatique,9.0
+44500.0,Hyundai,Hyundai Grand i10 GLS,2021.0,4.0,89000.0,Essence,Manuelle,5.0
+55000.0,Chery,Chery Tiggo 3X Luxury,2022.0,3.0,26000.0,Essence,Automatique,6.0
+33500.0,Opel,Opel Corsa,2017.0,8.0,135000.0,Essence,Manuelle,5.0
+73000.0,VW,Volkswagen Golf 7 Smartline,2020.0,5.0,99000.0,Essence,Automatique,6.0
+45000.0,BMW,BMW Série 7,2006.0,19.0,368000.0,Diesel,Automatique,15.0
+46000.0,Hyundai,Hyundai Grand i10 High Grade,2022.0,3.0,72000.0,Essence,Manuelle,5.0
+129000.0,Mercedes-Benz,Mercedes-Benz Classe A AMG,2021.0,4.0,61000.0,Essence,Automatique,7.0
+139000.0,Iveco,Iveco Daily Fourgon 35-150,2023.0,2.0,99000.0,Diesel,Manuelle,10.0
+73500.0,Peugeot,Peugeot 3008,2017.0,8.0,182000.0,Diesel,Manuelle,6.0
+43000.0,Peugeot,Peugeot 208 Populaire,2022.0,3.0,25000.0,Essence,Manuelle,4.0
+44900.0,Jeep,Jeep Grand Cherokee,2002.0,23.0,317000.0,Diesel,Automatique,11.0
+205000.0,Land,Land Rover Range Rover Evoque,2021.0,4.0,29000.0,Hybride,Automatique,7.0
+45000.0,Jaguar,Jaguar X-Type,2011.0,14.0,176000.0,Essence,Automatique,17.0
+43000.0,Suzuki,Suzuki Celerio GL,2024.0,1.0,27000.0,Essence,Automatique,4.0
+39500.0,GWM,GWM M4,2019.0,6.0,63000.0,Essence,Manuelle,6.0
+65500.0,Porsche,Porsche Cayenne,2008.0,17.0,230000.0,Essence,Automatique,21.0
+46000.0,Ford,Ford Focus Titanium,2018.0,7.0,134000.0,Essence,Automatique,7.0
+39500.0,Peugeot,Peugeot 208 Populaire,2022.0,3.0,39000.0,Essence,Manuelle,4.0
+105000.0,BYD,BYD Tang Supreme,2023.0,2.0,44000.0,Essence,Automatique,11.0
+34900.0,Mercedes-Benz,Mercedes-Benz Classe E,2004.0,21.0,221000.0,Diesel,Manuelle,9.0
+85000.0,BMW,BMW Série 1 Pack M,2018.0,7.0,114000.0,Essence,Manuelle,7.0
+25500.0,Mini,Mini 3 portes,2009.0,16.0,297000.0,Essence,Manuelle,5.0
+72000.0,Audi,Audi Q5 S-line,2013.0,12.0,258000.0,Diesel,Automatique,10.0
+80000.0,VW,Volkswagen Golf 8,2021.0,4.0,84000.0,Essence,Manuelle,6.0
+85000.0,KIA,KIA Sportage,2016.0,9.0,181000.0,Diesel,Automatique,10.0
+69000.0,Seat,Seat Leon Style,2020.0,5.0,115000.0,Essence,Manuelle,6.0
+82000.0,Mercedes-Benz,Mercedes-Benz Classe C Avantgarde,2014.0,11.0,137000.0,Essence,Automatique,8.0
+89900.0,Toyota,Toyota RAV 4,2017.0,8.0,171000.0,Essence,Automatique,9.0
+90000.0,Audi,Audi Q5 Sline Quattro,2016.0,9.0,148000.0,Essence,Automatique,15.0
+75000.0,Fiat,Fiat Ducato,2022.0,3.0,38000.0,Diesel,Manuelle,8.0
+33000.0,Toyota,Toyota Hilux Double Cabine,1996.0,29.0,278000.0,Diesel,Manuelle,11.0
+78000.0,Mercedes-Benz,Mercedes-Benz Classe C Avantgarde,2015.0,10.0,213000.0,Essence,Automatique,9.0
+84900.0,KIA,KIA Sportage,2019.0,6.0,60000.0,Essence,Automatique,8.0
+47500.0,KIA,KIA Rio Berline EX,2020.0,5.0,121000.0,Essence,Manuelle,6.0
+140000.0,Mercedes-Benz,Mercedes-Benz CLA,2020.0,5.0,44000.0,Essence,Automatique,7.0
+71500.0,VW,Volkswagen Golf 7 R-Line,2020.0,5.0,107000.0,Essence,Automatique,6.0
+32000.0,Mahindra,Mahindra KUV 100 K8,2018.0,7.0,98000.0,Essence,Manuelle,5.0
+59000.0,Audi,Audi Q7,2010.0,15.0,262000.0,Diesel,Automatique,16.0
+70000.0,MG,MG ZS Luxury,2022.0,3.0,56000.0,Essence,Automatique,7.0
+98000.0,Mitsubishi,Mitsubishi Pajero,2010.0,15.0,157000.0,Diesel,Manuelle,11.0
+88000.0,KIA,KIA Sportage Black Edition,2021.0,4.0,111000.0,Essence,Automatique,8.0
+54900.0,Audi,Audi A1 Sportback Attraction,2017.0,8.0,95000.0,Essence,Manuelle,6.0
+155000.0,Mercedes-Benz,Mercedes-Benz GLA AMG,2022.0,3.0,82000.0,Essence,Automatique,7.0
+54000.0,Land,Land Rover Range Rover Sport,2008.0,17.0,250000.0,Essence,Automatique,32.0
+69900.0,Citroën,Citroën C4 X,2021.0,4.0,142000.0,Diesel,Manuelle,6.0
+63000.0,Hyundai,Hyundai i20 High Grade,2021.0,4.0,88000.0,Essence,Automatique,5.0
+159000.0,Audi,Audi E-tron Sportback,2020.0,5.0,32000.0,Electrique,Automatique,12.0
+55000.0,Opel,Opel Astra Edition,2021.0,4.0,95000.0,Essence,Manuelle,6.0
+120000.0,VW,Volkswagen Golf 8 Life,2023.0,2.0,55000.0,Essence,Automatique,8.0
+60000.0,Audi,Audi Q5,2008.0,17.0,370000.0,Diesel,Automatique,15.0
+350000.0,Mercedes-Benz,Mercedes-Benz EQS Berline,2022.0,3.0,51000.0,Electrique,Automatique,8.0
+48000.0,Mazda,Mazda CX-5,2014.0,11.0,296000.0,Essence,Automatique,9.0
+48000.0,Ssangyong,Ssangyong Tivoli Classic,2018.0,7.0,184000.0,Essence,Manuelle,7.0
+79000.0,Peugeot,Peugeot Boxer Fourgon,2021.0,4.0,133000.0,Diesel,Manuelle,7.0
+170000.0,Audi,Audi E-tron,2019.0,6.0,55000.0,Electrique,Automatique,12.0
+155000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG,2020.0,5.0,55000.0,Essence,Automatique,8.0
+70000.0,Jeep,Jeep Renegade Longitude,2020.0,5.0,105000.0,Essence,Manuelle,8.0
+31500.0,Peugeot,Peugeot 208,2017.0,8.0,113000.0,Essence,Manuelle,5.0
+139000.0,GWM,GWM Haval H6,2024.0,1.0,23000.0,Hybride,Automatique,8.0
+43000.0,VW,Volkswagen Polo Passion,2019.0,6.0,93000.0,Essence,Manuelle,4.0
+37000.0,VW,Volkswagen Caddy,2017.0,8.0,202000.0,Diesel,Manuelle,5.0
+49500.0,Renault,Renault Kadjar Intens,2018.0,7.0,213000.0,Essence,Automatique,7.0
+57500.0,BMW,BMW Série 5 Pack M,2008.0,17.0,224000.0,Diesel,Manuelle,10.0
+136500.0,KIA,KIA Sportage SX,2023.0,2.0,39000.0,Essence,Automatique,10.0
+185000.0,Mercedes-Benz,Mercedes-Benz EQB,2023.0,2.0,9000.0,Electrique,Automatique,8.0
+148000.0,Jaguar,Jaguar XF Pure,2018.0,7.0,108000.0,Diesel,Automatique,9.0
+64000.0,VW,Volkswagen Tiguan,2013.0,12.0,220000.0,Diesel,Automatique,9.0
+79000.0,KIA,KIA Stonic GT-Line,2021.0,4.0,56000.0,Hybride,Automatique,6.0
+110000.0,Mercedes-Benz,Mercedes-Benz Classe C,2018.0,7.0,87000.0,Diesel,Automatique,7.0
+130000.0,Porsche,Porsche Panamera,2013.0,12.0,151000.0,Essence,Automatique,20.0
+43000.0,Renault,Renault Clio Life Plus,2021.0,4.0,89000.0,Essence,Manuelle,5.0
+107000.0,Mercedes-Benz,Mercedes-Benz Classe C,2016.0,9.0,98000.0,Diesel,Automatique,6.0
+59000.0,KIA,KIA Rio 5p Prestige,2020.0,5.0,80000.0,Essence,Manuelle,5.0
+29500.0,Renault,Renault Koleos,2010.0,15.0,200000.0,Diesel,Automatique,10.0
+43500.0,VW,Volkswagen Passat,2011.0,14.0,287000.0,Diesel,Manuelle,5.0
+297000.0,BMW,BMW X5 Pack M,2016.0,9.0,70000.0,Essence,Automatique,48.0
+37000.0,Mercedes-Benz,Mercedes-Benz Classe C,2008.0,17.0,404000.0,Diesel,Automatique,8.0
+115000.0,Mercedes-Benz,Mercedes-Benz Classe A AMG,2019.0,6.0,145000.0,Diesel,Automatique,6.0
+94000.0,VW,Volkswagen Tiguan,2018.0,7.0,120000.0,Diesel,Manuelle,6.0
+54000.0,Mazda,Mazda CX-5,2014.0,11.0,134000.0,Essence,Automatique,9.0
+78000.0,VW,Volkswagen Golf 8,2020.0,5.0,105000.0,Essence,Manuelle,6.0
+90000.0,KIA,KIA Sportage GT-Line,2019.0,6.0,81000.0,Diesel,Automatique,7.0
+35900.0,Citroën,Citroën C3 Shine,2018.0,7.0,172000.0,Essence,Manuelle,4.0
+57000.0,Mazda,Mazda BT-50 Double cabine MID,2014.0,11.0,248000.0,Diesel,Manuelle,9.0
+51500.0,Ssangyong,Ssangyong Tivoli Classic,2019.0,6.0,141000.0,Essence,Manuelle,7.0
+130000.0,Chevrolet,Chevrolet Camaro,2015.0,10.0,135000.0,Essence,Manuelle,21.0
+49500.0,Fiat,Fiat 500,2017.0,8.0,39000.0,Essence,Manuelle,4.0
+55000.0,BMW,BMW X5,2007.0,18.0,362000.0,Diesel,Automatique,15.0
+63000.0,VW,Volkswagen Golf 7 Access,2019.0,6.0,117000.0,Essence,Automatique,6.0
+44000.0,Renault,Renault Megane Sedan,2019.0,6.0,123000.0,Essence,Manuelle,7.0
+69900.0,Hyundai,Hyundai Accent,2023.0,2.0,45000.0,Essence,Manuelle,6.0
+110000.0,GWM,GWM Haval H6,2022.0,3.0,22000.0,Essence,Automatique,8.0
+54000.0,Mercedes-Benz,Mercedes-Benz Classe A,2013.0,12.0,220000.0,Essence,Automatique,6.0
+61000.0,Fiat,Fiat Fiorino,2023.0,2.0,47000.0,Diesel,Manuelle,5.0
+190000.0,Toyota,Toyota Prado,2014.0,11.0,75000.0,Essence,Manuelle,11.0
+69000.0,KIA,KIA Stonic,2021.0,4.0,91000.0,Hybride,Manuelle,6.0
+49000.0,Mercedes-Benz,Mercedes-Benz Classe C,2008.0,17.0,414000.0,Diesel,Automatique,10.0
+42000.0,Hyundai,Hyundai Veloster,2017.0,8.0,158000.0,Essence,Automatique,8.0
+139000.0,Jaguar,Jaguar F-Pace Pure,2016.0,9.0,200000.0,Diesel,Automatique,10.0
+89000.0,Land,Land Rover Range Rover Evoque Pure,2017.0,8.0,144000.0,Diesel,Automatique,8.0
+39900.0,Peugeot,Peugeot RCZ,2011.0,14.0,92000.0,Essence,Manuelle,9.0
+145000.0,Jeep,Jeep Compass S MODEL,2023.0,2.0,37000.0,Essence,Automatique,8.0
+49500.0,MG,MG ZS Luxe,2018.0,7.0,159000.0,Essence,Automatique,7.0
+119000.0,Land,Land Rover Range Rover Evoque Prestige,2016.0,9.0,154000.0,Diesel,Automatique,11.0
+65000.0,KIA,KIA Sportage,2018.0,7.0,181000.0,Essence,Automatique,8.0
+155000.0,Mercedes-Benz,Mercedes-Benz Classe X,2019.0,6.0,152000.0,Diesel,Automatique,8.0
+53900.0,Jeep,Jeep Compass,2011.0,14.0,147000.0,Diesel,Manuelle,8.0
+82000.0,Peugeot,Peugeot Rifter,2020.0,5.0,195000.0,Diesel,Manuelle,5.0
+59500.0,Fiat,Fiat Tipo Berline Entry Plus,2022.0,3.0,26000.0,Essence,Manuelle,5.0
+64000.0,Citroën,Citroën Jumpy Fourgon,2022.0,3.0,123000.0,Diesel,Manuelle,7.0
+85000.0,KIA,KIA Sportage,2019.0,6.0,85000.0,Essence,Automatique,8.0
+65000.0,VW,Volkswagen Golf 7 Smartline,2018.0,7.0,134000.0,Essence,Automatique,6.0
+54000.0,MG,MG GS Luxe,2017.0,8.0,202000.0,Essence,Automatique,9.0
+92500.0,Ford,Ford Ranger Double Cabine XLT,2013.0,12.0,230000.0,Diesel,Manuelle,7.0
+89000.0,VW,Volkswagen Passat R-Line DSG,2021.0,4.0,190000.0,Essence,Automatique,8.0
+42000.0,Audi,Audi A6,2009.0,16.0,204000.0,Essence,Automatique,11.0
+73000.0,BMW,BMW Série 4 Coupé Confort Luxury Line,2014.0,11.0,178000.0,Essence,Automatique,10.0
+69900.0,Mercedes-Benz,Mercedes-Benz Classe C Business Advanced,2014.0,11.0,158000.0,Essence,Manuelle,8.0
+32000.0,Renault,Renault Megane 3,2009.0,16.0,309000.0,Diesel,Manuelle,6.0
+94000.0,Mercedes-Benz,Mercedes-Benz Classe C,2017.0,8.0,164000.0,Essence,Automatique,8.0
+72000.0,BMW,BMW Série 1,2018.0,7.0,112000.0,Essence,Manuelle,7.0
+79500.0,Seat,Seat Arona Xperience,2023.0,2.0,90000.0,Essence,Automatique,6.0
+55000.0,Geely,Geely GX3,2021.0,4.0,57000.0,Essence,Automatique,6.0
+61000.0,VW,Volkswagen Golf 7,2019.0,6.0,175000.0,Essence,Automatique,6.0
+31500.0,Citroën,Citroën C5,2012.0,13.0,226000.0,Diesel,Manuelle,6.0
+145000.0,Mercedes-Benz,Mercedes-Benz Classe C,2017.0,8.0,76000.0,Essence,Automatique,15.0
+87000.0,KIA,KIA Sportage GT-Line,2017.0,8.0,268000.0,Diesel,Automatique,10.0
+48500.0,Citroën,Citroën DS5,2013.0,12.0,263000.0,Diesel,Automatique,6.0
+50000.0,Ford,Ford Focus Titanium,2018.0,7.0,132000.0,Essence,Automatique,7.0
+100000.0,Hummer,Hummer H3,2007.0,18.0,96000.0,Essence,Automatique,19.0
+64000.0,Jeep,Jeep Renegade Longitude,2019.0,6.0,150000.0,Essence,Automatique,8.0
+42000.0,Peugeot,Peugeot Partner,2021.0,4.0,261000.0,Diesel,Manuelle,5.0
+129900.0,Porsche,Porsche Cayenne,2012.0,13.0,236000.0,Essence,Automatique,21.0
+36000.0,Chevrolet,Chevrolet Cruze LT,2018.0,7.0,150000.0,Essence,Manuelle,7.0
+44000.0,Citroën,Citroën C3 Shine,2019.0,6.0,69000.0,Essence,Manuelle,4.0
+185000.0,Land,Land Rover Defender 110,2015.0,10.0,70000.0,Diesel,Manuelle,10.0
+59000.0,Audi,Audi Q5,2014.0,11.0,230000.0,Essence,Manuelle,14.0
+155000.0,Porsche,Porsche Cayenne,2012.0,13.0,90000.0,Essence,Automatique,21.0
+79000.0,Mercedes-Benz,Mercedes-Benz Classe E Avantgarde,2014.0,11.0,210000.0,Essence,Automatique,10.0
+92000.0,KIA,KIA Sportage GT-Line,2019.0,6.0,173000.0,Diesel,Automatique,8.0
+195000.0,Nissan,Nissan Navara Double Cabine,2022.0,3.0,22000.0,Diesel,Automatique,8.0
+38000.0,Peugeot,Peugeot 308,2017.0,8.0,184000.0,Essence,Manuelle,5.0
+320000.0,Land,Land Rover Defender 110,2020.0,5.0,97000.0,Diesel,Automatique,12.0
+84900.0,KIA,KIA Sportage,2020.0,5.0,95000.0,Essence,Automatique,8.0
+108000.0,VW,Volkswagen Tiguan,2018.0,7.0,124000.0,Diesel,Manuelle,8.0
+37000.0,Citroën,Citroën C4 Cactus Feel,2016.0,9.0,148000.0,Essence,Manuelle,5.0
+45000.0,Audi,Audi Q5,2009.0,16.0,194000.0,Essence,Automatique,13.0
+46000.0,KIA,KIA Sportage,2013.0,12.0,405000.0,Diesel,Automatique,11.0
+160000.0,Land,Land Rover Range Rover Sport,2016.0,9.0,164000.0,Diesel,Automatique,16.0
+41500.0,Skoda,Skoda Octavia Ambition,2015.0,10.0,135000.0,Essence,Automatique,7.0
+209000.0,Mercedes-Benz,Mercedes-Benz Classe C,2023.0,2.0,41000.0,Hybride,Automatique,9.0
+79000.0,MG,MG HS Luxury,2021.0,4.0,110000.0,Essence,Automatique,10.0
+84000.0,BYD,BYD Song,2022.0,3.0,45000.0,Essence,Automatique,9.0
+85000.0,Mazda,Mazda CX-3,2018.0,7.0,82000.0,Essence,Automatique,9.0
+105000.0,Hyundai,Hyundai Tucson,2021.0,4.0,113000.0,Hybride,Automatique,7.0
+34000.0,Mazda,Mazda CX-7,2012.0,13.0,190000.0,Essence,Automatique,15.0
+32000.0,Mitsubishi,Mitsubishi Attrage GLS,2018.0,7.0,197000.0,Essence,Automatique,4.0
+80000.0,KIA,KIA Sportage,2020.0,5.0,112000.0,Essence,Automatique,8.0
+110000.0,KIA,KIA XCeed,2022.0,3.0,17000.0,Essence,Automatique,9.0
+45000.0,Opel,Opel Combo Cargo,2021.0,4.0,72000.0,Diesel,Manuelle,5.0
+38000.0,BAIC,BAIC YX Kenbo S3,2018.0,7.0,110000.0,Essence,Manuelle,7.0
+98000.0,KIA,KIA Sportage GT-Line,2020.0,5.0,83000.0,Essence,Automatique,11.0
+77000.0,DFSK,DFSK Glory 580 Comfort MT,2022.0,3.0,68000.0,Essence,Manuelle,8.0
+74000.0,GWM,GWM Haval H6 Luxury,2021.0,4.0,130000.0,Essence,Automatique,9.0
+76900.0,Hyundai,Hyundai i20 High Grade,2023.0,2.0,21000.0,Essence,Automatique,5.0
+105000.0,Mercedes-Benz,Mercedes-Benz Classe C,2018.0,7.0,172000.0,Essence,Automatique,8.0
+209000.0,BMW,BMW Série 5,2022.0,3.0,80000.0,Hybride,Automatique,10.0
+180000.0,Jeep,Jeep Grand Cherokee Limited,2016.0,9.0,132000.0,Essence,Automatique,20.0
+65000.0,Mercedes-Benz,Mercedes-Benz ML,2009.0,16.0,240000.0,Diesel,Automatique,15.0
+67000.0,MG,MG 5 Luxe,2022.0,3.0,26000.0,Electrique,Automatique,7.0
+52000.0,Mercedes-Benz,Mercedes-Benz Classe A Style,2014.0,11.0,174000.0,Essence,Manuelle,6.0
+39000.0,Chery,Chery Tiggo 2 Confort,2020.0,5.0,135000.0,Essence,Manuelle,6.0
+140000.0,Ford,Ford Ranger Double Cabine XLT,2020.0,5.0,70000.0,Diesel,Automatique,7.0
+39900.0,BMW,BMW Série 3 coupé,2009.0,16.0,232000.0,Essence,Manuelle,7.0
+79000.0,VW,Volkswagen Golf Plus Sportsvan Join,2018.0,7.0,72000.0,Essence,Manuelle,6.0
+200000.0,Land,Land Rover Defender 110 LXV,2014.0,11.0,115000.0,Diesel,Manuelle,8.0
+85000.0,Mercedes-Benz,Mercedes-Benz Classe E,2017.0,8.0,252000.0,Essence,Automatique,9.0
+155500.0,BMW,BMW Série 7 X-Drive,2012.0,13.0,200000.0,Diesel,Automatique,20.0
+119000.0,Mercedes-Benz,Mercedes-Benz Classe C,2017.0,8.0,146000.0,Essence,Automatique,8.0
+43000.0,Skoda,Skoda Octavia,2016.0,9.0,191000.0,Essence,Automatique,8.0
+65000.0,Mercedes-Benz,Mercedes-Benz Classe S,2007.0,18.0,112000.0,Essence,Automatique,19.0
+62000.0,Peugeot,Peugeot 3008,2017.0,8.0,131000.0,Essence,Manuelle,7.0
+135000.0,Audi,Audi Q3 Sportback Business Line,2021.0,4.0,122000.0,Essence,Automatique,9.0
+115000.0,Isuzu,Isuzu D-Max Double Cabine,2013.0,12.0,244000.0,Diesel,Manuelle,8.0
+129000.0,Jaguar,Jaguar XJL,2014.0,11.0,51000.0,Essence,Automatique,16.0
+85000.0,Porsche,Porsche Cayenne,2008.0,17.0,184000.0,Essence,Automatique,21.0
+295000.0,Land,Land Rover Range Rover Velar,2019.0,6.0,60000.0,Diesel,Automatique,11.0
+117000.0,VW,Volkswagen Tiguan,2018.0,7.0,104000.0,Essence,Automatique,8.0
+86000.0,BMW,BMW X5,2010.0,15.0,159000.0,Diesel,Automatique,19.0
+139000.0,Land,Land Rover Range Rover Evoque,2015.0,10.0,130000.0,Diesel,Automatique,10.0
+88000.0,Mercedes-Benz,Mercedes-Benz Classe C,2016.0,9.0,160000.0,Diesel,Automatique,6.0
+248000.0,Mercedes-Benz,Mercedes-Benz Classe E,2022.0,3.0,15000.0,Essence,Automatique,9.0
+37000.0,Nissan,Nissan Patrol,1991.0,34.0,481000.0,Diesel,Manuelle,11.0
+52000.0,BMW,BMW X5,2007.0,18.0,295000.0,Diesel,Automatique,16.0
+67000.0,Toyota,Toyota Land Cruiser 80,1996.0,29.0,506000.0,Diesel,Manuelle,17.0
+49500.0,VW,Volkswagen Passat CC,2014.0,11.0,191000.0,Essence,Automatique,10.0
+135000.0,Mercedes-Benz,Mercedes-Benz Classe C,2017.0,8.0,113000.0,Essence,Automatique,8.0
+78000.0,BMW,BMW Série 3,2018.0,7.0,177000.0,Essence,Automatique,7.0
+126000.0,GWM,GWM Haval H6,2023.0,2.0,11000.0,Essence,Automatique,8.0
+79500.0,BMW,BMW Série 5,2013.0,12.0,179000.0,Essence,Automatique,10.0
+125000.0,BMW,BMW Série 4 Gran Coupé,2019.0,6.0,99000.0,Essence,Automatique,7.0
+119000.0,Mercedes-Benz,Mercedes-Benz Classe A,2020.0,5.0,101000.0,Essence,Automatique,7.0
+105000.0,Mercedes-Benz,Mercedes-Benz Classe E,2017.0,8.0,223000.0,Essence,Automatique,9.0
+149000.0,Toyota,Toyota Hilux Double Cabine,2019.0,6.0,114000.0,Diesel,Manuelle,8.0
+145000.0,Mercedes-Benz,Mercedes-Benz Classe C,2019.0,6.0,112000.0,Hybride,Automatique,10.0
+155000.0,Porsche,Porsche Cayenne,2012.0,13.0,195000.0,Diesel,Automatique,15.0
+45000.0,Mitsubishi,Mitsubishi Pajero Sport,1999.0,26.0,510000.0,Diesel,Manuelle,9.0
+52000.0,Nissan,Nissan Patrol,2006.0,19.0,359000.0,Diesel,Manuelle,12.0
+37000.0,Audi,Audi A4,2011.0,14.0,233000.0,Essence,Manuelle,7.0
+55000.0,Mercedes-Benz,Mercedes-Benz Classe E Avantgarde,2010.0,15.0,199000.0,Essence,Automatique,11.0
+59000.0,Fiat,Fiat 500 C,2020.0,5.0,20000.0,Essence,Manuelle,4.0
+65000.0,Ford,Ford Kuga Titanium,2017.0,8.0,208000.0,Essence,Automatique,11.0
+340000.0,Land,Land Rover Range Rover Sport,2019.0,6.0,47000.0,Hybride,Automatique,17.0
+41000.0,VW,Volkswagen Golf 6,2011.0,14.0,295000.0,Diesel,Automatique,5.0
+54000.0,KIA,KIA Sportage,2012.0,13.0,324000.0,Diesel,Automatique,11.0
+44000.0,Citroën,Citroën C3 Shine,2019.0,6.0,51000.0,Essence,Manuelle,4.0
+68000.0,Ford,Ford Ranger,2014.0,11.0,191000.0,Diesel,Automatique,7.0
+65000.0,Citroën,Citroën Jumpy Fourgon,2019.0,6.0,170000.0,Diesel,Manuelle,7.0
+99000.0,Mercedes-Benz,Mercedes-Benz CLA,2018.0,7.0,20000.0,Essence,Automatique,7.0
+95000.0,Mercedes-Benz,Mercedes-Benz Classe S,2008.0,17.0,151000.0,Essence,Automatique,19.0
+48000.0,Audi,Audi A4,2008.0,17.0,241000.0,Essence,Automatique,11.0
+84900.0,Peugeot,Peugeot 3008,2018.0,7.0,132000.0,Essence,Automatique,9.0
+120000.0,Jaguar,Jaguar XJL,2014.0,11.0,163000.0,Essence,Automatique,16.0
+85000.0,BMW,BMW Série 3,2016.0,9.0,152000.0,Essence,Automatique,7.0
+65000.0,Porsche,Porsche Cayenne,2009.0,16.0,212000.0,Essence,Automatique,30.0
+65000.0,Dongfeng,Dongfeng SX3,2021.0,4.0,32000.0,Essence,Manuelle,8.0
+109000.0,Skoda,Skoda Octavia Style,2022.0,3.0,30000.0,Essence,Automatique,8.0
+80000.0,Peugeot,Peugeot 3008 Allure,2020.0,5.0,169000.0,Essence,Automatique,7.0
+75000.0,BMW,BMW X3 xLine,2014.0,11.0,219000.0,Essence,Automatique,9.0
+85000.0,KIA,KIA Sportage,2018.0,7.0,101000.0,Essence,Automatique,8.0
+350000.0,Land,Land Rover Range Rover Sport,2019.0,6.0,82000.0,Hybride,Automatique,17.0
+48000.0,KIA,KIA Sorento,2012.0,13.0,250000.0,Diesel,Automatique,12.0
+52000.0,Infiniti,Infiniti FX,2008.0,17.0,190000.0,Essence,Automatique,20.0
+110000.0,KIA,KIA Sportage GT-Line,2018.0,7.0,132000.0,Diesel,Automatique,10.0
+51000.0,Mazda,Mazda 6,2014.0,11.0,141000.0,Essence,Automatique,9.0
+119000.0,Mercedes-Benz,Mercedes-Benz Classe C C180,2018.0,7.0,143000.0,Essence,Automatique,9.0
+29500.0,Mahindra,Mahindra Scorpio SUV,2013.0,12.0,328000.0,Diesel,Manuelle,8.0
+195000.0,BMW,BMW Série 5 Luxury Line,2019.0,6.0,47000.0,Essence,Automatique,10.0
+55000.0,Skoda,Skoda Octavia Essence,2020.0,5.0,230000.0,Essence,Automatique,6.0
+178500.0,Mercedes-Benz,Mercedes-Benz GLC,2018.0,7.0,130000.0,Hybride,Automatique,10.0
+58500.0,VW,Volkswagen Golf 7 Confortline,2019.0,6.0,169000.0,Essence,Manuelle,6.0
+89000.0,Mercedes-Benz,Mercedes-Benz GLA,2015.0,10.0,97000.0,Essence,Automatique,8.0
+88000.0,VW,Volkswagen Tiguan Prestige,2020.0,5.0,84000.0,Essence,Automatique,8.0
+121000.0,VW,Volkswagen Golf 8,2024.0,1.0,2400.0,Essence,Automatique,8.0
+385000.0,Mercedes-Benz,Mercedes-Benz GLE Coupé,2022.0,3.0,63000.0,Hybride,Automatique,17.0
+120000.0,GWM,GWM Poer AT,2025.0,0.0,23000.0,Diesel,Automatique,7.0
+123000.0,BMW,BMW X5 Pack M,2016.0,9.0,226000.0,Diesel,Automatique,13.0
+28500.0,DS,DS 3 Sport Chic,2013.0,12.0,147000.0,Essence,Manuelle,5.0
+225000.0,Mercedes-Benz,Mercedes-Benz GLE Coupé AMG,2018.0,7.0,130000.0,Diesel,Automatique,16.0
+58000.0,VW,Volkswagen Golf 7,2014.0,11.0,146000.0,Essence,Automatique,5.0
+225000.0,Mercedes-Benz,Mercedes-Benz GLC,2020.0,5.0,76000.0,Hybride,Automatique,10.0
+128000.0,Audi,Audi A5 Sportback S-Line,2021.0,4.0,96000.0,Essence,Automatique,8.0
+51000.0,Citroën,Citroën Berlingo Van,2022.0,3.0,92000.0,Diesel,Manuelle,5.0
+138000.0,BMW,BMW Série 1 Pack M,2024.0,1.0,13000.0,Essence,Automatique,6.0
+85000.0,Suzuki,Suzuki Jimny 3 portes GL,2022.0,3.0,88000.0,Essence,Automatique,6.0
+245000.0,Toyota,Toyota Prado,2019.0,6.0,215000.0,Diesel,Automatique,11.0
+146000.0,Toyota,Toyota RAV 4 Hybride,2023.0,2.0,27000.0,Hybride,Automatique,9.0
+450000.0,Mercedes-Benz,Mercedes-Benz Classe G,2017.0,8.0,44000.0,Diesel,Automatique,17.0
+80000.0,Renault,Renault Alpine A110,2025.0,0.0,38000.0,Hybride,Automatique,5.0
+118000.0,Audi,Audi Q3,2019.0,6.0,86000.0,Essence,Automatique,9.0
+71000.0,Mercedes-Benz,Mercedes-Benz CLA,2013.0,12.0,76000.0,Essence,Manuelle,6.0
+79000.0,Mercedes-Benz,Mercedes-Benz Classe E Avantgarde,2015.0,10.0,152000.0,Essence,Automatique,10.0
+69500.0,VW,Volkswagen T-Cross Highline,2020.0,5.0,89000.0,Essence,Manuelle,6.0
+103000.0,Mercedes-Benz,Mercedes-Benz Classe A AMG Premium,2021.0,4.0,118000.0,Diesel,Automatique,6.0
+52000.0,Peugeot,Peugeot 308 Allure,2021.0,4.0,158000.0,Diesel,Manuelle,5.0
+57000.0,Audi,Audi A3 S-Line,2017.0,8.0,215000.0,Diesel,Manuelle,6.0
+69000.0,Renault,Renault Captur,2021.0,4.0,66000.0,Essence,Manuelle,5.0
+65000.0,Mini,Mini 5 portes,2021.0,4.0,113000.0,Essence,Manuelle,5.0
+159000.0,Audi,Audi Q3 Sportback S-Line Plus,2021.0,4.0,70000.0,Hybride,Automatique,8.0
+43500.0,Peugeot,Peugeot 208 Style,2021.0,4.0,119000.0,Diesel,Manuelle,5.0
+133000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG +,2021.0,4.0,98000.0,Diesel,Automatique,8.0
+87000.0,Audi,Audi A3 Sportback S-Line,2021.0,4.0,158000.0,Diesel,Manuelle,6.0
+57000.0,Peugeot,Peugeot 2008 Allure,2021.0,4.0,11000.0,Essence,Automatique,5.0
+65000.0,Renault,Renault Megane Dynamique,2022.0,3.0,55000.0,Hybride,Automatique,6.0
+95000.0,KIA,KIA Sportage GT-Line,2021.0,4.0,118000.0,Essence,Automatique,11.0
+147000.0,Mercedes-Benz,Mercedes-Benz CLA AMG,2021.0,4.0,78000.0,Hybride,Automatique,8.0
+98000.0,VW,Volkswagen Passat GTE,2021.0,4.0,112000.0,Hybride,Automatique,8.0
+59000.0,Audi,Audi A5 Sportback Ambition Luxe,2015.0,10.0,140000.0,Essence,Automatique,10.0
+118000.0,Audi,Audi A5 Sportback S-Line,2020.0,5.0,97000.0,Essence,Automatique,8.0
+230000.0,Audi,Audi Q7,2019.0,6.0,84000.0,Diesel,Automatique,15.0
+47000.0,VW,Volkswagen Golf 7 Confortline,2013.0,12.0,108000.0,Essence,Automatique,5.0
+375000.0,Mercedes-Benz,Mercedes-Benz GLC,2022.0,3.0,16000.0,Hybride,Automatique,12.0
+74000.0,Peugeot,Peugeot Rifter,2020.0,5.0,145000.0,Diesel,Manuelle,7.0
+65000.0,Seat,Seat Arona Xcellence,2021.0,4.0,53000.0,Essence,Manuelle,5.0
+238000.0,BMW,BMW X1,2024.0,1.0,22000.0,Hybride,Automatique,8.0
+310000.0,Mercedes-Benz,Mercedes-Benz EQS Berline,2022.0,3.0,53000.0,Electrique,Automatique,8.0
+185000.0,BMW,BMW X5,2017.0,8.0,105000.0,Diesel,Automatique,13.0
+54000.0,KIA,KIA Rio 5p SX,2019.0,6.0,72000.0,Essence,Manuelle,5.0
+255000.0,Jeep,Jeep Wrangler Rubicon,2021.0,4.0,51000.0,Essence,Automatique,18.0
+350000.0,Audi,Audi Q8,2021.0,4.0,71000.0,Hybride,Automatique,23.0
+123000.0,Mercedes-Benz,Mercedes-Benz Classe E AMG,2017.0,8.0,161000.0,Essence,Automatique,9.0
+225000.0,Mercedes-Benz,Mercedes-Benz GLE Coupé AMG,2017.0,8.0,138000.0,Essence,Automatique,26.0
+78000.0,Mercedes-Benz,Mercedes-Benz CLS,2011.0,14.0,230000.0,Diesel,Automatique,11.0
+185000.0,BMW,BMW X3 Pack Sport M Limited Edition,2020.0,5.0,85000.0,Diesel,Automatique,7.0
+188000.0,Mercedes-Benz,Mercedes-Benz GLB,2023.0,2.0,16000.0,Diesel,Automatique,8.0
+190000.0,Land,Land Rover Range Rover Sport,2018.0,7.0,110000.0,Diesel,Automatique,16.0
+265000.0,Land,Land Rover Range Rover Sport Autobiography,2015.0,10.0,80000.0,Essence,Automatique,43.0
+180000.0,Audi,Audi E-tron,2021.0,4.0,38000.0,Electrique,Automatique,12.0
+50000.0,Seat,Seat Leon Style,2017.0,8.0,80000.0,Essence,Manuelle,6.0
+60000.0,Nissan,Nissan Qashqai,2016.0,9.0,92000.0,Essence,Automatique,6.0
+72000.0,BMW,BMW X1 Access,2017.0,8.0,133000.0,Essence,Automatique,7.0
+66000.0,VW,Volkswagen Golf 7 Life,2020.0,5.0,110000.0,Essence,Manuelle,6.0
+134000.0,VW,Volkswagen Tiguan R-Line,2023.0,2.0,90000.0,Essence,Automatique,8.0
+127000.0,BMW,BMW Série 4 Gran Coupé Executive Kit M,2016.0,9.0,124000.0,Essence,Automatique,10.0
+123000.0,Mercedes-Benz,Mercedes-Benz Classe E AMG,2017.0,8.0,150000.0,Essence,Automatique,10.0
+101000.0,Seat,Seat Ateca Xperience,2020.0,5.0,74700.0,Essence,Automatique,8.0
+170000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG,2021.0,4.0,38000.0,Hybride,Automatique,9.0
+185000.0,Land,Land Rover Defender 110,2015.0,10.0,103000.0,Diesel,Manuelle,7.0
+113000.0,Mercedes-Benz,Mercedes-Benz Classe A,2020.0,5.0,85000.0,Hybride,Automatique,7.0
+158000.0,Audi,Audi A5 Sportback High Tech,2022.0,3.0,28000.0,Essence,Automatique,8.0
+157000.0,Mercedes-Benz,Mercedes-Benz Classe A Berline AMG,2024.0,1.0,24000.0,Hybride,Automatique,8.0
+205000.0,Mercedes-Benz,Mercedes-Benz Classe C,2024.0,1.0,38000.0,Hybride,Automatique,9.0
+175000.0,Mercedes-Benz,Mercedes-Benz Classe E,2019.0,6.0,31000.0,Diesel,Automatique,11.0
+288000.0,Audi,Audi Q8 s-line,2018.0,7.0,112000.0,Hybride,Automatique,19.0
+119000.0,VW,Volkswagen Taigo R-Line,2025.0,0.0,1000.0,Essence,Automatique,7.0
+62000.0,Nissan,Nissan Qashqai High,2017.0,8.0,150000.0,Essence,Automatique,6.0
+145000.0,Mercedes-Benz,Mercedes-Benz CLA,2022.0,3.0,80000.0,Hybride,Automatique,8.0
+163000.0,Mercedes-Benz,Mercedes-Benz CLA,2022.0,3.0,33000.0,Hybride,Automatique,8.0
+59000.0,Mercedes-Benz,Mercedes-Benz Classe C coupé Sport,2013.0,12.0,170000.0,Essence,Manuelle,8.0
+84500.0,Land,Land Rover Range Rover Evoque R-Dynamic,2016.0,9.0,187000.0,Essence,Automatique,15.0
+109000.0,Toyota,Toyota GT86 importée d Allemagne,2020.0,5.0,11000.0,Essence,Automatique,12.0
+98000.0,VW,Volkswagen Golf 7 R,2016.0,9.0,67000.0,Essence,Automatique,16.0
+178000.0,VW,Volkswagen Golf 8 GTI,2022.0,3.0,46000.0,Essence,Automatique,19.0
+280000.0,Land,Land Rover Range Rover Sport,2021.0,4.0,41000.0,Hybride,Automatique,19.0
+385000.0,Mercedes-Benz,Mercedes-Benz GLC Coupé,2025.0,0.0,9000.0,Hybride,Automatique,11.0
+188000.0,Mercedes-Benz,Mercedes-Benz CLA,2022.0,3.0,22000.0,Hybride,Automatique,8.0
+209000.0,Mercedes-Benz,Mercedes-Benz GLC Coupé,2020.0,5.0,45000.0,Hybride,Automatique,12.0
+225000.0,Mercedes-Benz,Mercedes-Benz Classe E,2021.0,4.0,34000.0,Hybride,Automatique,12.0
+218000.0,Mercedes-Benz,Mercedes-Benz GLC Coupé,2021.0,4.0,55000.0,Hybride,Automatique,12.0
+102000.0,VW,Volkswagen T-roc Active,2021.0,4.0,50000.0,Essence,Manuelle,6.0
+198000.0,BMW,BMW X6,2016.0,9.0,90000.0,Essence,Automatique,34.0
+134000.0,Mercedes-Benz,Mercedes-Benz Classe A AMG,2022.0,3.0,70000.0,Hybride,Automatique,8.0
+209000.0,Mercedes-Benz,Mercedes-Benz GLE Coupé serie 252,2018.0,7.0,85000.0,Diesel,Automatique,16.0
+69500.0,VW,Volkswagen Golf 7,2019.0,6.0,120000.0,Essence,Automatique,7.0
+187000.0,Mercedes-Benz,Mercedes-Benz CLA,2024.0,1.0,20000.0,Hybride,Automatique,8.0
+158000.0,Mercedes-Benz,Mercedes-Benz GLA AMG,2021.0,4.0,63000.0,Hybride,Automatique,8.0
+157000.0,Mercedes-Benz,Mercedes-Benz CLA,2021.0,4.0,80000.0,Hybride,Automatique,8.0
+357000.0,Mercedes-Benz,Mercedes-Benz GLC Coupé,2024.0,1.0,14000.0,Hybride,Automatique,11.0
+69000.0,VW,Volkswagen Golf 7 Sound,2020.0,5.0,120009.0,Essence,Automatique,6.0
+92000.0,BMW,BMW X3,2017.0,8.0,94000.0,Essence,Automatique,15.0
+88500.0,Audi,Audi A5 Sportback,2018.0,7.0,215000.0,Essence,Automatique,8.0
+218000.0,Mercedes-Benz,Mercedes-Benz Classe E,2021.0,4.0,53000.0,Hybride,Automatique,12.0
+89500.0,Mercedes-Benz,Mercedes-Benz Classe A Progressive,2020.0,5.0,94000.0,Essence,Automatique,7.0
+98000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG,2016.0,9.0,182000.0,Essence,Automatique,8.0
+62000.0,Mercedes-Benz,Mercedes-Benz Classe E coupé,2010.0,15.0,180000.0,Essence,Automatique,19.0
+51000.0,VW,Volkswagen Polo Sedan Trendline,2022.0,3.0,81000.0,Essence,Manuelle,5.0
+41500.0,KIA,KIA Picanto LX,2021.0,4.0,109000.0,Essence,Automatique,4.0
+139000.0,Mercedes-Benz,Mercedes-Benz Classe E AMG,2019.0,6.0,80000.0,Essence,Automatique,11.0
+120000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG,2015.0,10.0,36000.0,Essence,Automatique,10.0
+83500.0,Mercedes-Benz,Mercedes-Benz Classe E Elegance,2014.0,11.0,140000.0,Essence,Automatique,10.0
+117000.0,KIA,KIA Sportage GT-Line,2021.0,4.0,49000.0,Diesel,Automatique,8.0
+119000.0,Suzuki,Suzuki Jimny 5 portes GLX,2025.0,0.0,100.0,Essence,Automatique,6.0
+95000.0,Land,Land Rover Discovery Sport,2016.0,9.0,190000.0,Diesel,Automatique,9.0
+87000.0,Porsche,Porsche Cayenne,2008.0,17.0,90000.0,Essence,Automatique,21.0
+55000.0,Fiat,Fiat 500 Lounge,2022.0,3.0,43000.0,Essence,Automatique,4.0
+54000.0,VW,Volkswagen Golf 7 Allstar,2016.0,9.0,160000.0,Essence,Manuelle,5.0
+135000.0,Mercedes-Benz,Mercedes-Benz CLA Progressive,2020.0,5.0,50000.0,Essence,Automatique,7.0
+245000.0,Porsche,Porsche Panamera,2014.0,11.0,79000.0,Essence,Automatique,33.0
+135000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG,2020.0,5.0,67000.0,Essence,Automatique,8.0
+55000.0,Peugeot,Peugeot 208,2021.0,4.0,25000.0,Essence,Manuelle,6.0
+69000.0,VW,Volkswagen T-roc,2019.0,6.0,85000.0,Essence,Manuelle,6.0
+73500.0,DFSK,DFSK Glory 500 CVT,2025.0,0.0,3000.0,Essence,Automatique,7.0
+147000.0,Hyundai,Hyundai Tucson N Line,2022.0,3.0,35000.0,Hybride,Automatique,11.0
+145000.0,Mercedes-Benz,Mercedes-Benz CLA AMG,2021.0,4.0,48000.0,Essence,Automatique,8.0
+86000.0,Chevrolet,Chevrolet Captiva 7 places,2023.0,2.0,18000.0,Essence,Automatique,9.0
+39500.0,Citroën,Citroën C3 Live,2019.0,6.0,85000.0,Essence,Manuelle,4.0
+66500.0,Hyundai,Hyundai i20 High Grade,2025.0,0.0,15000.0,Essence,Manuelle,4.0
+65000.0,KIA,KIA Stonic,2021.0,4.0,140000.0,Essence,Manuelle,6.0
+68000.0,KIA,KIA Sportage,2018.0,7.0,149000.0,Essence,Automatique,8.0
+350000.0,Audi,Audi Q8,2021.0,4.0,22000.0,Hybride,Automatique,23.0
+49000.0,Alfa,Alfa Romeo Giulietta,2018.0,7.0,85000.0,Essence,Manuelle,7.0
+85000.0,BMW,BMW Série 3 Sport Line,2019.0,6.0,100000.0,Essence,Automatique,7.0
+117000.0,Hyundai,Hyundai Kona,2025.0,0.0,14000.0,Hybride,Automatique,5.0
+98000.0,Audi,Audi Q3 S-line,2017.0,8.0,64000.0,Essence,Automatique,8.0
+75000.0,GWM,GWM Haval H6 Luxury,2021.0,4.0,99000.0,Essence,Automatique,9.0
+42500.0,Abarth,Abarth 500,2011.0,14.0,180000.0,Essence,Manuelle,8.0
+38500.0,KIA,KIA Cerato,2010.0,15.0,51000.0,Essence,Manuelle,7.0
+85000.0,Jeep,Jeep Renegade Limited,2022.0,3.0,35000.0,Essence,Automatique,8.0
+69000.0,Seat,Seat Leon Style,2020.0,5.0,85000.0,Essence,Manuelle,6.0
+179000.0,Mercedes-Benz,Mercedes-Benz GLA AMG,2021.0,4.0,56000.0,Diesel,Automatique,8.0
+45000.0,VW,Volkswagen Polo,2022.0,3.0,87000.0,Essence,Manuelle,4.0
+72000.0,KIA,KIA Rio 5p,2023.0,2.0,45000.0,Essence,Automatique,6.0
+225000.0,BMW,BMW Série 4 Gran Coupé Pack M,2023.0,2.0,100000.0,Essence,Automatique,10.0
+51000.0,Alfa,Alfa Romeo Giulietta,2018.0,7.0,80000.0,Essence,Manuelle,7.0
+43800.0,Toyota,Toyota Agya,2023.0,2.0,33000.0,Essence,Automatique,5.0
+145005.0,KIA,KIA Seltos Top Grade,2024.0,1.0,18000.0,Essence,Automatique,8.0
+139000.0,Nissan,Nissan Qashqai N-connecta,2024.0,1.0,11000.0,Hybride,Automatique,7.0
+158000.0,Audi,Audi Q5,2020.0,5.0,149000.0,Hybride,Automatique,9.0
+57000.0,Audi,Audi A4 Ambiente,2015.0,10.0,67000.0,Essence,Manuelle,7.0
+148000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG,2019.0,6.0,125000.0,Hybride,Automatique,9.0
+255000.0,Land,Land Rover Range Rover Sport HSE Dynamic,2019.0,6.0,148000.0,Diesel,Automatique,20.0
+115000.0,Audi,Audi A5 Sportback,2020.0,5.0,140000.0,Essence,Automatique,8.0
+35000.0,Peugeot,Peugeot 508,2013.0,12.0,200000.0,Essence,Automatique,9.0
+98000.0,Hyundai,Hyundai Tucson,2022.0,3.0,40000.0,Essence,Automatique,9.0
+46000.0,BMW,BMW Série 1,2012.0,13.0,137000.0,Diesel,Manuelle,6.0
+225000.0,Land,Land Rover Range Rover Evoque Dynamic SE,2024.0,1.0,50000.0,Diesel,Automatique,9.0
+135000.0,Audi,Audi Q5 S-line,2017.0,8.0,83000.0,Diesel,Manuelle,8.0
+179000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG,2022.0,3.0,90000.0,Hybride,Automatique,9.0
+51000.0,Renault,Renault Clio Esprit Alpine,2020.0,5.0,100000.0,Essence,Manuelle,5.0
+94500.0,KIA,KIA Sportage GT-Line,2020.0,5.0,69000.0,Essence,Automatique,11.0
+80000.0,KIA,KIA Sportage Black Edition,2021.0,4.0,130000.0,Essence,Automatique,8.0
+46000.0,VW,Volkswagen Golf 6 Match,2012.0,13.0,177000.0,Diesel,Manuelle,6.0
+69000.0,Ssangyong,Ssangyong Tivoli Classy Secure,2022.0,3.0,85000.0,Essence,Manuelle,6.0
+200000.0,VW,Volkswagen Tiguan R-Line,2024.0,1.0,22000.0,Hybride,Automatique,8.0
+89000.0,GWM,GWM Haval H6,2022.0,3.0,85000.0,Essence,Automatique,8.0
+93500.0,Mercedes-Benz,Mercedes-Benz Classe A,2019.0,6.0,200000.0,Diesel,Automatique,6.0
+91000.0,Chery,Chery Tiggo 8 Pro,2023.0,2.0,11000.0,Essence,Automatique,11.0
+99000.0,Mercedes-Benz,Mercedes-Benz Classe C,2017.0,8.0,140000.0,Essence,Automatique,8.0
+78000.0,KIA,KIA Sportage,2018.0,7.0,90000.0,Essence,Automatique,8.0
+89500.0,Toyota,Toyota C-HR,2023.0,2.0,57000.0,Essence,Automatique,6.0
+36000.0,Renault,Renault Captur,2016.0,9.0,200000.0,Essence,Manuelle,5.0
+180000.0,VW,Volkswagen Golf 8 R-Line,2024.0,1.0,15000.0,Essence,Automatique,8.0
+33000.0,Mahindra,Mahindra KUV 100 K8,2022.0,3.0,80000.0,Essence,Manuelle,5.0
+93000.0,KIA,KIA Sportage Toit Ouvrant,2021.0,4.0,126000.0,Hybride,Automatique,7.0
+440000.0,Mercedes-Benz,Mercedes-Benz GLE Coupé,2023.0,2.0,23000.0,Hybride,Automatique,16.0
+92000.0,KIA,KIA Sportage Black Edition,2021.0,4.0,88000.0,Essence,Automatique,8.0
+69000.0,BMW,BMW Série 3 Confort Luxury Line,2015.0,10.0,177000.0,Essence,Automatique,7.0
+195000.0,Ford,Ford Ranger Raptor,2021.0,4.0,45000.0,Diesel,Automatique,7.0
+61000.0,GWM,GWM Haval H6 Luxury,2018.0,7.0,125000.0,Essence,Automatique,9.0
+42000.0,VW,Volkswagen Golf 6,2012.0,13.0,206000.0,Essence,Automatique,7.0
+37500.0,VW,Volkswagen Jetta Confortline,2013.0,12.0,200000.0,Essence,Automatique,7.0
+136000.0,KIA,KIA Sportage,2023.0,2.0,17000.0,Essence,Automatique,10.0
+115000.0,KIA,KIA Seltos,2024.0,1.0,1000.0,Essence,Automatique,8.0
+125000.0,Mercedes-Benz,Mercedes-Benz Classe C coupé,2016.0,9.0,96000.0,Essence,Automatique,9.0
+85000.0,Mercedes-Benz,Mercedes-Benz Classe C Avantgarde,2016.0,9.0,150000.0,Essence,Automatique,9.0
+290000.0,Toyota,Toyota Hilux Double Cabine GR,2024.0,1.0,3000.0,Diesel,Automatique,8.0
+102000.0,Toyota,Toyota RAV 4 Hybride,2020.0,5.0,200000.0,Hybride,Automatique,9.0
+79000.0,GWM,GWM Haval Jolion,2021.0,4.0,65000.0,Essence,Automatique,9.0
+185000.0,Mercedes-Benz,Mercedes-Benz GLC Coupé AMG,2018.0,7.0,150000.0,Diesel,Automatique,11.0
+59000.0,GWM,GWM Haval H2,2021.0,4.0,60000.0,Essence,Automatique,9.0
+68000.0,Nissan,Nissan Qashqai High,2019.0,6.0,90000.0,Essence,Automatique,6.0
+145000.0,Mercedes-Benz,Mercedes-Benz GLC 4 matic,2018.0,7.0,105000.0,Essence,Automatique,12.0
+58000.0,VW,Volkswagen Golf 7 R-Line,2015.0,10.0,220000.0,Essence,Manuelle,5.0
+93500.0,Toyota,Toyota C-HR,2022.0,3.0,65000.0,Essence,Automatique,6.0
+145000.0,Cupra,Cupra Formentor Sport,2022.0,3.0,55000.0,Essence,Automatique,11.0
+69500.0,VW,Volkswagen Taigo Life,2022.0,3.0,95000.0,Essence,Manuelle,5.0
+45000.0,Lexus,Lexus LS 430,2006.0,19.0,278000.0,Essence,Automatique,20.0
+119000.0,BMW,BMW X1 Kit M,2022.0,3.0,68000.0,Essence,Automatique,8.0
+136000.0,BMW,BMW Série 2 Gran Coupé Pack Sport M,2022.0,3.0,69000.0,Essence,Automatique,8.0
+98000.0,KIA,KIA Sportage GT-Line,2020.0,5.0,69000.0,Essence,Automatique,11.0
+79000.0,GWM,GWM Haval Jolion,2022.0,3.0,60000.0,Essence,Automatique,9.0
+85000.0,KIA,KIA Sportage Toit Ouvrant,2018.0,7.0,30000.0,Essence,Automatique,8.0
+195000.0,Audi,Audi Q5 Prestige Plus,2020.0,5.0,111000.0,Essence,Automatique,12.0
+290000.0,Mercedes-Benz,Mercedes-Benz GLE,2021.0,4.0,109000.0,Hybride,Automatique,12.0
+118000.0,GWM,GWM Poer AT,2024.0,1.0,14000.0,Diesel,Automatique,7.0
+234800.0,Mercedes-Benz,Mercedes-Benz Classe C AMG,2023.0,2.0,16000.0,Hybride,Automatique,9.0
+220000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG +,2023.0,2.0,37000.0,Hybride,Automatique,9.0
+230000.0,VW,Volkswagen Golf 8 GTI,2022.0,3.0,38000.0,Essence,Automatique,19.0
+105000.0,Mercedes-Benz,Mercedes-Benz GLA AMG,2020.0,5.0,139000.0,Essence,Automatique,7.0
+63500.0,Mercedes-Benz,Mercedes-Benz Classe A Style,2016.0,9.0,155000.0,Essence,Manuelle,6.0
+35500.0,Toyota,Toyota Agya,2022.0,3.0,160000.0,Essence,Manuelle,5.0
+63000.0,Peugeot,Peugeot E-208 GT,2021.0,4.0,40000.0,Electrique,Automatique,4.0
+147000.0,Mercedes-Benz,Mercedes-Benz Classe C,2020.0,5.0,90000.0,Essence,Automatique,8.0
+71000.0,VW,Volkswagen Tiguan Highline,2016.0,9.0,180000.0,Essence,Automatique,8.0
+67000.0,VW,Volkswagen Tiguan,2015.0,10.0,150000.0,Essence,Automatique,9.0
+120000.0,GWM,GWM Haval H6,2023.0,2.0,7000.0,Essence,Automatique,8.0
+52000.0,Peugeot,Peugeot 308 Allure,2020.0,5.0,33000.0,Essence,Manuelle,6.0
+65000.0,Hyundai,Hyundai i20 High Grade,2021.0,4.0,60000.0,Essence,Automatique,5.0
+155000.0,Audi,Audi Q3 Tech Advanced,2023.0,2.0,70000.0,Essence,Automatique,9.0
+79000.0,Toyota,Toyota Prado,2005.0,20.0,300000.0,Diesel,Manuelle,11.0
+89000.0,Jeep,Jeep Grand Cherokee Limited,2005.0,20.0,170000.0,Essence,Automatique,15.0
+269000.0,Land,Land Rover Discovery,2019.0,6.0,3000.0,Diesel,Automatique,16.0
+58000.0,Audi,Audi Q7 S-Line 7 places,2008.0,17.0,350000.0,Diesel,Automatique,16.0
+250000.0,Mercedes-Benz,Mercedes-Benz Classe S,2014.0,11.0,50000.0,Diesel,Automatique,15.0
+95000.0,Mercedes-Benz,Mercedes-Benz GLA AMG,2017.0,8.0,150000.0,Diesel,Automatique,9.0
+94500.0,GWM,GWM Haval H6,2022.0,3.0,80000.0,Essence,Automatique,8.0
+138000.0,VW,Volkswagen Golf 8 R-Line,2023.0,2.0,50000.0,Essence,Automatique,8.0
+58000.0,Mercedes-Benz,Mercedes-Benz ML AMG,2007.0,18.0,350000.0,Diesel,Automatique,15.0
+94000.0,KIA,KIA Sonet QY,2023.0,2.0,74000.0,Essence,Automatique,6.0
+157000.0,VW,Volkswagen Tiguan,2021.0,4.0,77000.0,Hybride,Automatique,8.0
+47500.0,Nissan,Nissan Juke,2013.0,12.0,150000.0,Essence,Automatique,6.0
+40900.0,Citroën,Citroën C3 Shine,2018.0,7.0,80000.0,Essence,Manuelle,4.0
+365000.0,Mercedes-Benz,Mercedes-Benz GLE Coupé AMG,2021.0,4.0,45000.0,Hybride,Automatique,12.0
+98000.0,BMW,BMW Z4 2.5,2010.0,15.0,147000.0,Essence,Automatique,13.0
+99000.0,Mercedes-Benz,Mercedes-Benz Classe C,2015.0,10.0,168000.0,Essence,Automatique,8.0
+128000.0,Mercedes-Benz,Mercedes-Benz Classe A Berline Premium,2020.0,5.0,34000.0,Essence,Manuelle,6.0
+43000.0,Chevrolet,Chevrolet Sonic,2020.0,5.0,188000.0,Essence,Manuelle,5.0
+100000.0,VW,Volkswagen Passat,2019.0,6.0,120000.0,Essence,Automatique,7.0
+139000.0,Mercedes-Benz,Mercedes-Benz Classe E AMG,2016.0,9.0,149000.0,Essence,Automatique,10.0
+98000.0,Land,Land Rover Range Rover Evoque,2016.0,9.0,175000.0,Essence,Automatique,15.0
+59000.0,Fiat,Fiat Tipo Berline Entry Plus,2023.0,2.0,43000.0,Essence,Manuelle,5.0
+118000.0,Hyundai,Hyundai Tucson High Grade,2022.0,3.0,75000.0,Essence,Automatique,10.0
+86000.0,Honda,Honda HR-V SX Executive,2020.0,5.0,70000.0,Essence,Automatique,7.0
+350000.0,Porsche,Porsche Macan,2022.0,3.0,23000.0,Essence,Automatique,17.0
+265000.0,BMW,BMW X6,2019.0,6.0,90000.0,Diesel,Automatique,16.0
+135000.0,Audi,Audi A3 Sportback,2023.0,2.0,1377.0,Essence,Automatique,8.0
+105000.0,KIA,KIA Seltos,2023.0,2.0,26000.0,Essence,Automatique,7.0
+350000.0,Land,Land Rover Range Rover Sport HSE Dynamic,2018.0,7.0,57000.0,Diesel,Automatique,21.0
+128000.0,Mercedes-Benz,Mercedes-Benz Classe A AMG,2021.0,4.0,35000.0,Hybride,Automatique,8.0
+85000.0,BMW,BMW Série 7 Pack Sport M,2010.0,15.0,200000.0,Essence,Automatique,32.0
+98000.0,Hyundai,Hyundai Tucson N Line,2020.0,5.0,80000.0,Diesel,Automatique,7.0
+44000.0,Lada,Lada 4x4,2019.0,6.0,30000.0,Essence,Manuelle,7.0
+150000.0,Land,Land Rover Range Rover Sport Autobiography,2016.0,9.0,200000.0,Diesel,Automatique,19.0
+106000.0,BMW,BMW Série 1 Pack M,2020.0,5.0,100000.0,Essence,Automatique,8.0
+83000.0,Skoda,Skoda Octavia Business Toit ouvrant,2021.0,4.0,135000.0,Diesel,Automatique,7.0
+235000.0,Mercedes-Benz,Mercedes-Benz GLC Coupé AMG,2020.0,5.0,79000.0,Hybride,Automatique,12.0
+81000.0,BMW,BMW X1 Business Line,2017.0,8.0,121000.0,Essence,Automatique,7.0
+85000.0,Mercedes-Benz,Mercedes-Benz Classe C,2012.0,13.0,44000.0,Essence,Manuelle,9.0
+259000.0,Mercedes-Benz,Mercedes-Benz Classe S Executive,2018.0,7.0,76000.0,Diesel,Automatique,17.0
+92000.0,Suzuki,Suzuki Jimny 3 portes GL,2023.0,2.0,26000.0,Essence,Automatique,6.0
+128000.0,VW,Volkswagen Golf 8 R-Line,2020.0,5.0,50000.0,Essence,Automatique,7.0
+88000.0,Mercedes-Benz,Mercedes-Benz GLA Progressive,2015.0,10.0,190000.0,Essence,Automatique,7.0
+98000.0,Land,Land Rover Discovery Sport HSE,2015.0,10.0,170000.0,Essence,Automatique,15.0
+179000.0,Land,Land Rover Range Rover Evoque S,2020.0,5.0,94000.0,Diesel,Automatique,9.0
+98000.0,MG,MG HS Trophy,2021.0,4.0,35000.0,Essence,Automatique,15.0
+125000.0,Hyundai,Hyundai Tucson,2021.0,4.0,75000.0,Hybride,Automatique,7.0
+78000.0,Mercedes-Benz,Mercedes-Benz CLA AMG,2018.0,7.0,220000.0,Diesel,Manuelle,5.0
+135000.0,BMW,BMW Série 2 Gran Coupé Pack Sport M,2021.0,4.0,79000.0,Essence,Automatique,8.0
+138000.0,Mercedes-Benz,Mercedes-Benz Classe A Kit AMG Pack Night,2020.0,5.0,48000.0,Essence,Automatique,8.0
+169000.0,Land,Land Rover Range Rover Sport HSE,2018.0,7.0,170000.0,Diesel,Automatique,14.0
+63000.0,VW,Volkswagen Polo R-Line,2022.0,3.0,95000.0,Essence,Manuelle,6.0
+165000.0,Mercedes-Benz,Mercedes-Benz GLA 200 Kit AMG,2021.0,4.0,44000.0,Essence,Automatique,9.0
+99000.0,BMW,BMW Série 4 Coupé 420i Pack M,2015.0,10.0,179000.0,Essence,Automatique,10.0
+105000.0,Porsche,Porsche Cayenne V6,2011.0,14.0,150000.0,Essence,Automatique,21.0
+249000.0,Porsche,Porsche Cayenne,2016.0,9.0,130000.0,Diesel,Automatique,15.0
+79500.0,Chery,Chery Tiggo 7 Pro,2022.0,3.0,45000.0,Essence,Automatique,9.0
+140000.0,Land,Land Rover Discovery Sport HSE,2016.0,9.0,42000.0,Essence,Automatique,15.0
+79000.0,VW,Volkswagen T-roc,2020.0,5.0,85000.0,Essence,Manuelle,6.0
+65500.0,VW,Volkswagen Polo R-Line,2020.0,5.0,70000.0,Essence,Manuelle,4.0
+570000.0,Mercedes-Benz,Mercedes-Benz Classe S,2023.0,2.0,3000.0,Hybride,Automatique,16.0
+360000.0,Audi,Audi Q8,2021.0,4.0,22000.0,Hybride,Automatique,23.0
+125000.0,Skoda,Skoda Superb Ambassador,2021.0,4.0,60000.0,Essence,Automatique,8.0
+231000.0,Toyota,Toyota Hilux Double Cabine 4*4,2024.0,1.0,3000.0,Diesel,Automatique,8.0
+106000.0,VW,Volkswagen Passat R-Line,2019.0,6.0,60000.0,Essence,Automatique,8.0
+90000.0,VW,Volkswagen Tiguan,2018.0,7.0,60000.0,Essence,Automatique,7.0
+55000.0,BMW,BMW Série 7,2008.0,17.0,220000.0,Essence,Automatique,22.0
+43000.0,Suzuki,Suzuki Ciaz GLX,2020.0,5.0,96000.0,Essence,Manuelle,6.0
+105000.0,Mercedes-Benz,Mercedes-Benz Classe C Business,2017.0,8.0,105000.0,Essence,Automatique,9.0
+80000.0,Mercedes-Benz,Mercedes-Benz GLK INDIVIDUAL,2009.0,16.0,71000.0,Essence,Automatique,16.0
+66000.0,Mercedes-Benz,Mercedes-Benz Classe A Premium,2017.0,8.0,146000.0,Diesel,Manuelle,5.0
+43000.0,Chery,Chery Tiggo 2 Confort,2021.0,4.0,84000.0,Essence,Manuelle,6.0
+85000.0,Mercedes-Benz,Mercedes-Benz Classe E Elegance,2014.0,11.0,140000.0,Essence,Automatique,9.0
+43500.0,Suzuki,Suzuki Swift GL,2022.0,3.0,95000.0,Essence,Automatique,5.0
+145000.0,Jeep,Jeep Wrangler Rubicon,2015.0,10.0,150000.0,Diesel,Automatique,13.0
+45000.0,KIA,KIA Picanto Smart,2022.0,3.0,90000.0,Essence,Manuelle,5.0
+69000.0,VW,Volkswagen Golf 7 Style Plus,2020.0,5.0,132000.0,Essence,Automatique,6.0
+46000.0,VW,Volkswagen Golf 6 Trend,2012.0,13.0,146000.0,Essence,Manuelle,5.0
+44000.0,KIA,KIA K2700 Double Cabine,2013.0,12.0,120000.0,Diesel,Manuelle,8.0
+44000.0,BMW,BMW Série 1 Sport Line,2013.0,12.0,180000.0,Essence,Manuelle,7.0
+47000.0,Skoda,Skoda Fabia Active,2022.0,3.0,115000.0,Essence,Manuelle,4.0
+68000.0,Chevrolet,Chevrolet Groove Premier,2022.0,3.0,67000.0,Essence,Automatique,6.0
+42000.0,Citroën,Citroën C4 Cactus One Tone,2019.0,6.0,98000.0,Essence,Manuelle,5.0
+78900.0,GWM,GWM Haval Jolion,2023.0,2.0,90000.0,Essence,Automatique,9.0
+85000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG +,2014.0,11.0,164000.0,Essence,Automatique,9.0
+157000.0,Mercedes-Benz,Mercedes-Benz CLA AMG,2021.0,4.0,65000.0,Hybride,Automatique,8.0
+115000.0,VW,Volkswagen Amarok Highline Plus Double Cabine,2017.0,8.0,140000.0,Diesel,Automatique,7.0
+81000.0,Audi,Audi Q3 Ambition Luxe,2017.0,8.0,190000.0,Essence,Automatique,8.0
+68500.0,Mercedes-Benz,Mercedes-Benz Classe E Avantgarde,2012.0,13.0,182000.0,Diesel,Automatique,8.0
+52500.0,BMW,BMW Série 3 Access Plus Sport Line,2012.0,13.0,295000.0,Diesel,Manuelle,6.0
+56000.0,Chery,Chery Tiggo 3X Luxury,2021.0,4.0,33000.0,Essence,Automatique,6.0
+94000.0,KIA,KIA Sportage GT-Line,2019.0,6.0,134000.0,Diesel,Automatique,8.0
+51500.0,KIA,KIA Rio Berline SX,2020.0,5.0,87000.0,Essence,Automatique,6.0
+39000.0,Toyota,Toyota Yaris Sedan,2016.0,9.0,210000.0,Essence,Manuelle,5.0
+56000.0,Ford,Ford Ecosport Titanium,2019.0,6.0,73000.0,Essence,Manuelle,7.0
+99500.0,Mercedes-Benz,Mercedes-Benz Classe C AMG +,2015.0,10.0,170000.0,Essence,Automatique,8.0
+63000.0,VW,Volkswagen Golf 7 Highline,2019.0,6.0,130000.0,Essence,Automatique,6.0
+85000.0,Mercedes-Benz,Mercedes-Benz CLA Urban,2018.0,7.0,146000.0,Essence,Automatique,7.0
+77000.0,GWM,GWM Haval H6 Luxury,2019.0,6.0,80000.0,Essence,Automatique,9.0
+38800.0,Renault,Renault Clio Life Plus,2020.0,5.0,160000.0,Essence,Manuelle,5.0
+37500.0,Suzuki,Suzuki Celerio Populaire,2023.0,2.0,34000.0,Essence,Manuelle,4.0
+49500.0,Mazda,Mazda BT-50,2018.0,7.0,350000.0,Diesel,Manuelle,9.0
+128000.0,Mercedes-Benz,Mercedes-Benz Classe E AMG,2016.0,9.0,174000.0,Essence,Automatique,10.0
+27500.0,Mahindra,Mahindra KUV 100 K6+,2021.0,4.0,100000.0,Essence,Manuelle,5.0
+72000.0,VW,Volkswagen Passat R-Line,2018.0,7.0,280000.0,Essence,Automatique,8.0
+84000.0,Peugeot,Peugeot Landtrek Double Cabine Business,2022.0,3.0,100000.0,Diesel,Manuelle,6.0
+75000.0,Seat,Seat Arona Xperience,2023.0,2.0,100000.0,Essence,Automatique,6.0
+33000.0,Nissan,Nissan Terrano,2001.0,24.0,400000.0,Diesel,Manuelle,10.0
+165000.0,Land,Land Rover Range Rover Evoque Dynamic,2020.0,5.0,49000.0,Hybride,Automatique,11.0
+88000.0,KIA,KIA XCeed EX,2022.0,3.0,99000.0,Diesel,Automatique,7.0
+36500.0,Ford,Ford Fiesta Titanium,2015.0,10.0,200000.0,Essence,Manuelle,5.0
+39500.0,Hyundai,Hyundai Grand i10 Sedan,2022.0,3.0,100000.0,Essence,Manuelle,5.0
+43000.0,Audi,Audi A4 Ambition Luxe,2012.0,13.0,180000.0,Essence,Automatique,7.0
+130000.0,Hyundai,Hyundai Tucson High Grade,2021.0,4.0,70000.0,Hybride,Automatique,7.0
+51000.0,Mercedes-Benz,Mercedes-Benz Classe E Avantgarde,2010.0,15.0,340000.0,Diesel,Automatique,10.0
+43000.0,Hyundai,Hyundai Grand i10 GLS,2023.0,2.0,110000.0,Essence,Manuelle,5.0
+54500.0,KIA,KIA Picanto GT-Line,2024.0,1.0,50000.0,Essence,Automatique,4.0
+47500.0,Nissan,Nissan Qashqai N-connecta,2015.0,10.0,175000.0,Diesel,Manuelle,7.0
+99500.0,Audi,Audi A3 Sportback S-Line,2020.0,5.0,93000.0,Essence,Manuelle,6.0
+54000.0,KIA,KIA Rio 5p Prestige,2022.0,3.0,130000.0,Essence,Manuelle,5.0
+79000.0,Mercedes-Benz,Mercedes-Benz Classe C Avantgarde,2014.0,11.0,180000.0,Essence,Automatique,8.0
+64000.0,Audi,Audi Q7,2007.0,18.0,248000.0,Diesel,Automatique,16.0
+42000.0,Seat,Seat Leon SC Référence,2016.0,9.0,163000.0,Essence,Manuelle,6.0
+40000.0,VW,Volkswagen Passat Confort,2009.0,16.0,180000.0,Essence,Manuelle,7.0
+36500.0,BMW,BMW Série 1 Business Line,2010.0,15.0,180000.0,Essence,Manuelle,7.0
+62000.0,VW,Volkswagen Golf 7 Highline,2018.0,7.0,118000.0,Essence,Automatique,6.0
+57000.0,MG,MG GS Luxe,2017.0,8.0,128000.0,Essence,Automatique,9.0
+74000.0,BMW,BMW Série 3 Business Line Plus,2015.0,10.0,77000.0,Essence,Automatique,10.0
+36500.0,Suzuki,Suzuki Celerio GL,2022.0,3.0,108000.0,Essence,Automatique,4.0
+49000.0,Audi,Audi A4 Ambiente,2014.0,11.0,178000.0,Essence,Manuelle,7.0
+86000.0,Seat,Seat Leon Emotion,2021.0,4.0,58000.0,Essence,Automatique,8.0
+77000.0,Chery,Chery Tiggo 7 Pro,2021.0,4.0,116000.0,Essence,Automatique,9.0
+57000.0,VW,Volkswagen Golf 7 Kit GTI,2013.0,12.0,182000.0,Essence,Manuelle,5.0
+37500.0,Renault,Renault Clio Life Plus,2021.0,4.0,101000.0,Essence,Manuelle,5.0
+260000.0,Land,Land Rover Range Rover Sport Autobiography,2019.0,6.0,103000.0,Hybride,Automatique,17.0
+35500.0,Nissan,Nissan X-trail,2004.0,21.0,357000.0,Diesel,Manuelle,9.0
+95000.0,KIA,KIA Sportage GT-Line,2020.0,5.0,70000.0,Essence,Automatique,11.0
+109000.0,Toyota,Toyota Yaris Cross Hybride Bi-ton 2025,2025.0,0.0,10000.0,Hybride,Automatique,5.0
+45000.0,KIA,KIA Sorento,2010.0,15.0,356000.0,Diesel,Automatique,12.0
+58500.0,VW,Volkswagen Amarok Highline,2013.0,12.0,218000.0,Diesel,Manuelle,8.0
+63000.0,Nissan,Nissan Qashqai Tekna High,2017.0,8.0,163000.0,Essence,Automatique,6.0
+43000.0,Ford,Ford Fiesta Titanium,2020.0,5.0,109000.0,Essence,Manuelle,4.0
+66000.0,Ssangyong,Ssangyong Tivoli Classy,2021.0,4.0,23000.0,Essence,Manuelle,6.0
+175000.0,Land,Land Rover Range Rover Sport SVR,2015.0,10.0,196000.0,Essence,Automatique,43.0
+160000.0,Audi,Audi E-tron Advanced,2020.0,5.0,72000.0,Electrique,Automatique,12.0
+35000.0,Peugeot,Peugeot 208 Allure,2016.0,9.0,106000.0,Essence,Manuelle,5.0
+113000.0,Toyota,Toyota Hilux Double Cabine Double Cabine Premium,2019.0,6.0,250000.0,Diesel,Manuelle,8.0
+122000.0,Porsche,Porsche Cayenne,2010.0,15.0,204000.0,Diesel,Automatique,15.0
+129000.0,Mercedes-Benz,Mercedes-Benz Classe E AMG,2018.0,7.0,176000.0,Essence,Automatique,9.0
+79000.0,Seat,Seat Arona Xperience,2023.0,2.0,90000.0,Essence,Automatique,6.0
+220000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG,2022.0,3.0,29000.0,Hybride,Automatique,9.0
+26500.0,Mini,Mini John Cooper Works,2010.0,15.0,220000.0,Essence,Manuelle,5.0
+97000.0,BMW,BMW X1 Confort,2020.0,5.0,64000.0,Essence,Automatique,7.0
+126000.0,VW,Volkswagen Golf 8 GTE,2024.0,1.0,28300.0,Hybride,Automatique,8.0
+82000.0,VW,Volkswagen T-roc Active,2021.0,4.0,21950.0,Essence,Manuelle,6.0
+185000.0,BMW,BMW X3 Pack M Pro,2019.0,6.0,56000.0,Diesel,Automatique,11.0
+75000.0,Audi,Audi A6 Ambition Luxe,2016.0,9.0,160000.0,Essence,Automatique,10.0
+460000.0,Mercedes-Benz,Mercedes-Benz GLE Coupé AMG Premium Plus,2025.0,0.0,15000.0,Hybride,Automatique,15.0
+118000.0,Mercedes-Benz,Mercedes-Benz Classe E Exclusive,2016.0,9.0,140000.0,Diesel,Automatique,10.0
+258000.0,Land,Land Rover Discovery Sport R-Dynamic S,2021.0,4.0,63500.0,Diesel,Automatique,8.0
+22500.0,Citroën,Citroën C3,2009.0,16.0,309964.0,Essence,Manuelle,5.0
+67000.0,VW,Volkswagen Passat Design,2017.0,8.0,102000.0,Essence,Manuelle,7.0
+167000.0,BMW,BMW iX3 PACK M,2022.0,3.0,48000.0,Electrique,Automatique,6.0
+137000.0,Mercedes-Benz,Mercedes-Benz GLA AMG Pack Night,2021.0,4.0,119000.0,Hybride,Automatique,8.0
+176000.0,BMW,BMW i4 PACK M PRO,2023.0,2.0,7800.0,Electrique,Automatique,6.0
+35100.0,Dacia,Dacia Dokker Van Lux Tolée Plus,2020.0,5.0,88000.0,Diesel,Manuelle,6.0
+93000.0,BMW,BMW Série 1 Business Line,2021.0,4.0,43000.0,Essence,Automatique,6.0
+75000.0,Land,Land Rover Range Rover Evoque Dynamic,2015.0,10.0,162000.0,Diesel,Manuelle,8.0
+62000.0,Seat,Seat Leon Style,2017.0,8.0,59000.0,Essence,Manuelle,6.0
+52000.0,KIA,KIA Rio 5p SX,2021.0,4.0,100000.0,Essence,Manuelle,5.0
+330000.0,Jeep,Jeep Wrangler Unlimited Sahara,2021.0,4.0,30000.0,Essence,Automatique,19.0
+62500.0,VW,Volkswagen Golf 7 Access,2019.0,6.0,130000.0,Essence,Automatique,6.0
+83000.0,BMW,BMW Série 4 Gran Coupé Confort Luxury Line,2015.0,10.0,175000.0,Essence,Automatique,10.0
+121000.0,VW,Volkswagen Golf 8 GTE,2021.0,4.0,71000.0,Hybride,Automatique,8.0
+53000.0,Renault,Renault Megane Sedan,2019.0,6.0,56000.0,Essence,Manuelle,7.0
+74000.0,Ford,Ford Ecosport Titanium,2022.0,3.0,25000.0,Essence,Manuelle,7.0
+420000.0,Mercedes-Benz,Mercedes-Benz GLE Coupé AMG Premium Plus,2021.0,4.0,40000.0,Hybride,Automatique,16.0
+33800.0,VW,Volkswagen Polo Smartline,2015.0,10.0,146500.0,Essence,Manuelle,4.0
+47000.0,Suzuki,Suzuki Vitara GLX SR,2017.0,8.0,299000.0,Essence,Automatique,6.0
+35000.0,Mitsubishi,Mitsubishi Pajero,1993.0,32.0,310000.0,Diesel,Manuelle,10.0
+110000.0,Infiniti,Infiniti Q30,2018.0,7.0,27000.0,Essence,Automatique,9.0
+43800.0,KIA,KIA Sportage,2010.0,15.0,360000.0,Diesel,Manuelle,10.0
+53000.0,Renault,Renault Megane Oui,2017.0,8.0,230000.0,Essence,Manuelle,7.0
+40000.0,Dacia,Dacia Duster,2014.0,11.0,175048.0,Essence,Manuelle,7.0
+32000.0,Renault,Renault Megane,2012.0,13.0,330000.0,Diesel,Manuelle,5.0
+116000.0,Mercedes-Benz,Mercedes-Benz Classe A Berline AMG,2019.0,6.0,99500.0,Diesel,Automatique,6.0
+47500.0,Dacia,Dacia Sandero Stepway,2021.0,4.0,98000.0,Essence,Manuelle,5.0
+42500.0,Dacia,Dacia Logan MCV,2020.0,5.0,75000.0,Essence,Manuelle,5.0
+169000.0,Mercedes-Benz,Mercedes-Benz GLA AMG,2022.0,3.0,35000.0,Hybride,Automatique,8.0
+89500.0,VW,Volkswagen Golf 8 Style,2021.0,4.0,76000.0,Essence,Manuelle,7.0
+76500.0,VW,Volkswagen Golf 8,2021.0,4.0,153000.0,Essence,Automatique,6.0
+129000.0,Audi,Audi A3 Sportback S-Line,2022.0,3.0,98000.0,Hybride,Automatique,8.0
+57500.0,Renault,Renault Megane,2020.0,5.0,170000.0,Diesel,Manuelle,5.0
+198000.0,Mercedes-Benz,Mercedes-Benz GLC Coupé AMG,2021.0,4.0,73000.0,Hybride,Automatique,12.0
+127000.0,Mercedes-Benz,Mercedes-Benz Classe A AMG Premium,2021.0,4.0,48000.0,Hybride,Automatique,8.0
+147000.0,Mercedes-Benz,Mercedes-Benz EQA AMG Line,2022.0,3.0,50000.0,Electrique,Automatique,8.0
+76000.0,Peugeot,Peugeot 3008 GT-Line,2022.0,3.0,115000.0,Essence,Manuelle,6.0
+89000.0,VW,Volkswagen Tiguan Highline,2019.0,6.0,108000.0,Essence,Automatique,12.0
+125000.0,Mercedes-Benz,Mercedes-Benz Classe A AMG Premium,2021.0,4.0,80000.0,Hybride,Automatique,8.0
+169000.0,Mercedes-Benz,Mercedes-Benz Classe A AMG Premium,2024.0,1.0,38000.0,Hybride,Automatique,8.0
+179000.0,Land,Land Rover Range Rover Evoque R-Dynamic HSE,2022.0,3.0,98000.0,Hybride,Automatique,11.0
+189000.0,BMW,BMW Série 5 Pack M,2021.0,4.0,53000.0,Hybride,Automatique,10.0
+163000.0,Mercedes-Benz,Mercedes-Benz GLA AMG,2021.0,4.0,72000.0,Hybride,Automatique,8.0
+49500.0,Peugeot,Peugeot 208,2022.0,3.0,58000.0,Essence,Manuelle,5.0
+129000.0,Mercedes-Benz,Mercedes-Benz Classe A,2021.0,4.0,80000.0,Hybride,Automatique,8.0
+68500.0,Peugeot,Peugeot 2008,2021.0,4.0,143000.0,Diesel,Manuelle,5.0
+46500.0,Renault,Renault Clio Dynamique,2022.0,3.0,158000.0,Essence,Manuelle,5.0
+95000.0,BMW,BMW Série 4 Gran Coupé Pack M Sport,2017.0,8.0,108000.0,Essence,Automatique,7.0
+43500.0,Dacia,Dacia Sandero Stepway,2020.0,5.0,158000.0,Essence,Manuelle,5.0
+155000.0,VW,Volkswagen Tiguan,2021.0,4.0,19000.0,Hybride,Automatique,8.0
+155000.0,Mercedes-Benz,Mercedes-Benz Classe B,2021.0,4.0,43000.0,Hybride,Automatique,8.0
+379000.0,Mercedes-Benz,Mercedes-Benz GLE Coupé AMG,2021.0,4.0,65000.0,Hybride,Automatique,11.0
+29800.0,Peugeot,Peugeot 208 Série Spéciale City,2018.0,7.0,80000.0,Essence,Manuelle,5.0
+41500.0,VW,Volkswagen Golf 6 Match,2012.0,13.0,195000.0,Essence,Manuelle,5.0
+70000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG,2012.0,13.0,300000.0,Essence,Automatique,9.0
+115000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG,2020.0,5.0,156000.0,Diesel,Automatique,7.0
+33000.0,Suzuki,Suzuki Ciaz GL,2021.0,4.0,133000.0,Essence,Manuelle,6.0
+71000.0,Ford,Ford Ecosport Titanium,2023.0,2.0,42000.0,Essence,Manuelle,7.0
+312000.0,Land,Land Rover Range Rover Velar R-Dynamic S,2022.0,3.0,49000.0,Essence,Automatique,16.0
+107000.0,Volvo,Volvo EX30 Core,2024.0,1.0,10700.0,Electrique,Automatique,5.0
+43800.0,Chery,Chery Tiggo 2 Confort,2021.0,4.0,64000.0,Essence,Manuelle,6.0
+47000.0,Hyundai,Hyundai Grand i10 High Grade,2022.0,3.0,79000.0,Essence,Automatique,5.0
+49500.0,VW,Volkswagen Polo Sedan Trendline,2022.0,3.0,83000.0,Essence,Manuelle,5.0
+320000.0,Land,Land Rover Range Rover Sport HSE Dynamic,2021.0,4.0,90000.0,Essence,Automatique,25.0
+83000.0,Jeep,Jeep Renegade Limited,2021.0,4.0,85000.0,Essence,Manuelle,8.0
+125000.0,Jeep,Jeep Renegade Limited,2025.0,0.0,6000.0,Essence,Automatique,8.0
+93000.0,DS,DS 7 Crossback Performance-Line,2020.0,5.0,79000.0,Essence,Automatique,10.0
+53000.0,Hyundai,Hyundai i20 GLS,2022.0,3.0,93000.0,Essence,Manuelle,5.0
+84000.0,VW,Volkswagen T-Cross United,2022.0,3.0,39000.0,Essence,Manuelle,5.0
+42500.0,Hyundai,Hyundai Grand i10 GLS,2022.0,3.0,103000.0,Essence,Manuelle,5.0
+50000.0,Hyundai,Hyundai ix35 Toit Panoramique,2012.0,13.0,228000.0,Diesel,Manuelle,6.0
+39000.0,Renault,Renault Clio Zen,2019.0,6.0,85000.0,Essence,Manuelle,5.0
+140000.0,Mitsubishi,Mitsubishi L200 Sportero Double Cabine,2022.0,3.0,51000.0,Diesel,Automatique,8.0
+45000.0,Renault,Renault Clio Life Plus,2022.0,3.0,74000.0,Essence,Manuelle,4.0
+49900.0,Hyundai,Hyundai i20 GLS,2023.0,2.0,72000.0,Essence,Manuelle,5.0
+39700.0,Fiat,Fiat Panda City Cross,2022.0,3.0,97000.0,Essence,Manuelle,4.0
+70000.0,Hyundai,Hyundai i30 Fastback,2022.0,3.0,88000.0,Essence,Automatique,7.0
+134500.0,BMW,BMW Série 5 Pack M,2019.0,6.0,129000.0,Essence,Automatique,10.0
+77500.0,KIA,KIA Seltos,2020.0,5.0,71000.0,Essence,Automatique,8.0
+83448.0,Ford,Ford Focus sedan Connected,2023.0,2.0,33500.0,Essence,Automatique,7.0
+55000.0,KIA,KIA Rio 5p,2019.0,6.0,93734.0,Essence,Manuelle,5.0
+250000.0,Mercedes-Benz,Mercedes-Benz GLC AMG,2021.0,4.0,56647.0,Hybride,Automatique,12.0
+59000.0,VW,Volkswagen Polo R-Line,2020.0,5.0,96732.0,Essence,Manuelle,4.0
+155000.0,Mercedes-Benz,Mercedes-Benz GLA,2021.0,4.0,82392.0,Hybride,Automatique,8.0
+56000.0,Renault,Renault Megane,2020.0,5.0,189698.0,Diesel,Manuelle,5.0
+115000.0,Suzuki,Suzuki Jimny 5 portes,2024.0,1.0,5019.0,Essence,Automatique,6.0
+125000.0,Mercedes-Benz,Mercedes-Benz Classe A MERCEDES A250 KITT AMG LINE,2021.0,4.0,63692.0,Hybride,Automatique,8.0
+170000.0,Mercedes-Benz,Mercedes-Benz CLA AMG,2022.0,3.0,61885.0,Hybride,Automatique,8.0
+225000.0,Audi,Audi Q5,2021.0,4.0,57974.0,Hybride,Automatique,16.0
+175000.0,Audi,Audi A3 Sportback S-Line,2025.0,0.0,4999.0,Hybride,Automatique,8.0
+165000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG,2020.0,5.0,59764.0,Hybride,Automatique,10.0
+98000.0,Audi,Audi A1 Sportback,2023.0,2.0,71626.0,Essence,Automatique,6.0
+250000.0,Mercedes-Benz,Mercedes-Benz GLC,2021.0,4.0,59720.0,Hybride,Automatique,12.0
+265000.0,Mercedes-Benz,Mercedes-Benz GLC Coupé KIT AMG LINE,2021.0,4.0,39843.0,Hybride,Automatique,12.0
+75000.0,Peugeot,Peugeot Rifter,2020.0,5.0,122607.0,Diesel,Manuelle,5.0
+79662.0,Skoda,Skoda Kamiq,2020.0,5.0,79662.0,Essence,Manuelle,6.0
+80000.0,VW,Volkswagen Golf 7,2019.0,6.0,110233.0,Essence,Automatique,7.0
+120000.0,Mercedes-Benz,Mercedes-Benz Classe A,2020.0,5.0,70769.0,Hybride,Automatique,8.0
+175000.0,Mercedes-Benz,Mercedes-Benz Classe A AMG,2023.0,2.0,6193.0,Hybride,Automatique,8.0
+120000.0,Mercedes-Benz,Mercedes-Benz Classe C,2015.0,10.0,180960.0,Essence,Automatique,8.0
+137000.0,Mercedes-Benz,Mercedes-Benz Classe A A250 KITT AMG LINE,2020.0,5.0,48511.0,Hybride,Automatique,8.0
+145000.0,Mercedes-Benz,Mercedes-Benz Classe A A250 KITT AMG LINE,2021.0,4.0,50041.0,Hybride,Automatique,8.0
+375000.0,Mercedes-Benz,Mercedes-Benz GLE Coupé,2022.0,3.0,46945.0,Hybride,Automatique,12.0
+170000.0,Mercedes-Benz,Mercedes-Benz Classe C,2019.0,6.0,18488.0,Essence,Automatique,9.0
+50000.0,Renault,Renault Clio,2021.0,4.0,46214.0,Essence,Manuelle,5.0
+58000.0,Citroën,Citroën Berlingo Van,2020.0,5.0,145355.0,Diesel,Manuelle,7.0
+175000.0,Audi,Audi A3 Sportback S-Line,2025.0,0.0,3514.0,Hybride,Automatique,8.0
+480000.0,Mercedes-Benz,Mercedes-Benz GLE Coupé,2024.0,1.0,17887.0,Hybride,Automatique,15.0
+60000.0,VW,Volkswagen Caddy,2020.0,5.0,100163.0,Diesel,Manuelle,5.0
+55000.0,Peugeot,Peugeot Partner,2020.0,5.0,87261.0,Diesel,Manuelle,5.0
+150000.0,Nissan,Nissan Qashqai,2025.0,0.0,7032.0,Hybride,Automatique,8.0
+245000.0,Land,Land Rover Range Rover Evoque R-Dynamic,2022.0,3.0,48934.0,Hybride,Automatique,11.0
+390000.0,Mercedes-Benz,Mercedes-Benz GLE Coupé,2022.0,3.0,44090.0,Hybride,Automatique,12.0
+258000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG,2022.0,3.0,5686.0,Hybride,Automatique,12.0
+255000.0,Mercedes-Benz,Mercedes-Benz GLC KITT AMG LINE,2020.0,5.0,73590.0,Hybride,Automatique,12.0
+85000.0,Citroën,Citroën Berlingo MULTISPACE,2021.0,4.0,75254.0,Diesel,Automatique,7.0
+65000.0,Citroën,Citroën Berlingo Van,2022.0,3.0,19329.0,Diesel,Manuelle,5.0
+178000.0,Mercedes-Benz,Mercedes-Benz CLA AMG,2021.0,4.0,44130.0,Hybride,Automatique,8.0
+102000.0,VW,Volkswagen Passat GTE,2021.0,4.0,88000.0,Hybride,Automatique,8.0
+83500.0,VW,Volkswagen T-roc Confortline +,2023.0,2.0,95000.0,Essence,Manuelle,6.0
+53000.0,Toyota,Toyota Hilux Double Cabine,2008.0,17.0,320000.0,Diesel,Manuelle,10.0
+67000.0,Mercedes-Benz,Mercedes-Benz ML,2011.0,14.0,253000.0,Diesel,Automatique,15.0
+93000.0,VW,Volkswagen Golf 7 R-Line,2019.0,6.0,127000.0,Essence,Automatique,6.0
+59000.0,Peugeot,Peugeot 208,2022.0,3.0,41000.0,Electrique,Automatique,5.0
+65000.0,VW,Volkswagen T-roc,2020.0,5.0,170000.0,Essence,Manuelle,6.0
+145000.0,Mercedes-Benz,Mercedes-Benz CLA AMG,2021.0,4.0,3200.0,Essence,Automatique,7.0
+67500.0,MG,MG ZS Luxury,2022.0,3.0,59000.0,Essence,Manuelle,7.0
+84500.0,KIA,KIA Seltos,2021.0,4.0,82500.0,Essence,Automatique,8.0
+119000.0,Peugeot,Peugeot 308 GT GT,2024.0,1.0,19000.0,Essence,Automatique,5.0
+107000.0,BMW,BMW Série 4 Gran Coupé Pack M Sport,2020.0,5.0,132000.0,Essence,Automatique,7.0
+39500.0,KIA,KIA Picanto LX,2020.0,5.0,73000.0,Essence,Manuelle,4.0
+97500.0,Mercedes-Benz,Mercedes-Benz Classe C Avantgarde,2018.0,7.0,148000.0,Essence,Automatique,8.0
+32000.0,Peugeot,Peugeot 208 Populaire,2020.0,5.0,96000.0,Essence,Manuelle,4.0
+55000.0,Suzuki,Suzuki Ciaz GLX,2023.0,2.0,52500.0,Essence,Manuelle,6.0
+139500.0,Toyota,Toyota RAV 4 Hybride,2023.0,2.0,58900.0,Hybride,Automatique,9.0
+63000.0,KIA,KIA Sportage,2016.0,9.0,126000.0,Essence,Automatique,8.0
+135000.0,Cupra,Cupra Formentor Exclusive,2024.0,1.0,26000.0,Essence,Automatique,11.0
+125000.0,Jaguar,Jaguar F-Pace Pure,2018.0,7.0,159000.0,Diesel,Manuelle,9.0
+38000.0,Nissan,Nissan Qashqai Acenta,2013.0,12.0,103000.0,Essence,Manuelle,7.0
+58000.0,Ford,Ford Ecosport Titanium,2020.0,5.0,49500.0,Essence,Manuelle,7.0
+182000.0,Land,Land Rover Range Rover Velar R-Dynamic,2017.0,8.0,92000.0,Diesel,Automatique,15.0
+42000.0,Mazda,Mazda 3 sedan,2016.0,9.0,112000.0,Essence,Manuelle,6.0
+38000.0,VW,Volkswagen Tiguan,2010.0,15.0,184000.0,Essence,Manuelle,12.0
+42000.0,VW,Volkswagen Tiguan,2010.0,15.0,158000.0,Essence,Manuelle,11.0
+286000.0,Volvo,Volvo XC60 Ultimate Bright,2022.0,3.0,19000.0,Hybride,Automatique,20.0
+66000.0,Mercedes-Benz,Mercedes-Benz CLA,2013.0,12.0,143000.0,Essence,Manuelle,7.0
+97000.0,Audi,Audi A5 Sportback Design Luxe,2020.0,5.0,164000.0,Essence,Automatique,8.0
+62000.0,MG,MG ZS Luxe,2020.0,5.0,92000.0,Essence,Automatique,7.0
+44900.0,Seat,Seat Leon SC Référence,2017.0,8.0,158000.0,Essence,Manuelle,6.0
+87000.0,Jeep,Jeep Compass Limited,2021.0,4.0,45000.0,Essence,Manuelle,8.0
+75500.0,Peugeot,Peugeot 2008 Active,2020.0,5.0,43000.0,Essence,Manuelle,5.0
+47000.0,Geely,Geely GX3,2021.0,4.0,73000.0,Essence,Manuelle,6.0
+88000.0,VW,Volkswagen Golf 8 Drive,2022.0,3.0,65500.0,Hybride,Automatique,6.0
+145000.0,Toyota,Toyota Prado Adventure,2014.0,11.0,230000.0,Diesel,Manuelle,11.0
+185000.0,Mercedes-Benz,Mercedes-Benz Classe A AMG,2022.0,3.0,55000.0,Essence,Automatique,19.0
+62000.0,Ford,Ford Kuga Trend,2019.0,6.0,172000.0,Essence,Manuelle,8.0
+39800.0,KIA,KIA Picanto GT-Line,2018.0,7.0,79000.0,Essence,Manuelle,5.0
+69000.0,Toyota,Toyota C-HR,2019.0,6.0,117500.0,Essence,Automatique,6.0
+195000.0,BMW,BMW Série 5 Business Line Plus,2021.0,4.0,18000.0,Essence,Automatique,10.0
+36000.0,Peugeot,Peugeot 2008 Allure,2017.0,8.0,110000.0,Essence,Manuelle,5.0
+95500.0,Mercedes-Benz,Mercedes-Benz Classe E Business,2015.0,10.0,52500.0,Essence,Automatique,10.0
+39500.0,Dongfeng,Dongfeng S50,2019.0,6.0,24000.0,Essence,Manuelle,6.0
+79000.0,Cadillac,Cadillac ATS,2014.0,11.0,58000.0,Essence,Automatique,18.0
+46500.0,Nissan,Nissan Navara LUX Double Cabine,2012.0,13.0,238000.0,Diesel,Manuelle,10.0
+94500.0,GWM,GWM Haval H6,2022.0,3.0,48000.0,Essence,Automatique,8.0
+98000.0,VW,Volkswagen Tiguan R-Line,2020.0,5.0,138000.0,Essence,Automatique,8.0
+42700.0,Hyundai,Hyundai i20 GLS,2018.0,7.0,82000.0,Essence,Manuelle,5.0
+36000.0,BMW,BMW Série 1 3p Active,2010.0,15.0,182000.0,Essence,Manuelle,7.0
+380000.0,Land,Land Rover Range Rover,2019.0,6.0,116000.0,Essence,Automatique,25.0
+83000.0,Seat,Seat Arona FR,2023.0,2.0,27000.0,Essence,Automatique,6.0
+45000.0,Geely,Geely GX3,2021.0,4.0,78000.0,Essence,Manuelle,6.0
+96000.0,Audi,Audi Q5 S-line,2016.0,9.0,112000.0,Diesel,Automatique,8.0
+192000.0,Land,Land Rover Range Rover Velar R-Dynamic,2018.0,7.0,144000.0,Diesel,Automatique,19.0
+289500.0,Porsche,Porsche Macan,2024.0,1.0,9000.0,Electrique,Automatique,9.0
+73000.0,Skoda,Skoda Scala Active,2024.0,1.0,48000.0,Essence,Automatique,6.0
+265000.0,Land,Land Rover Discovery Sport R-Dynamic S,2021.0,4.0,48000.0,Diesel,Automatique,8.0
+147000.0,Toyota,Toyota RAV 4 Hybride,2024.0,1.0,30000.0,Hybride,Automatique,9.0
+39500.0,Ford,Ford Focus Trend Sport,2017.0,8.0,101000.0,Essence,Automatique,7.0
+83000.0,Audi,Audi A1 Sportback City Line,2024.0,1.0,35000.0,Essence,Automatique,6.0
+42000.0,Chery,Chery Tiggo 2 Confort,2020.0,5.0,88000.0,Essence,Manuelle,6.0
+215000.0,Porsche,Porsche Macan,2020.0,5.0,100000.0,Essence,Automatique,16.0
+79000.0,Mercedes-Benz,Mercedes-Benz Classe A Business,2018.0,7.0,122000.0,Essence,Manuelle,9.0
+67000.0,BMW,BMW Série 3 Business Line Edition Navigation,2016.0,9.0,157000.0,Essence,Automatique,7.0
+123000.0,Audi,Audi A5 Sportback Design Luxe Plus,2020.0,5.0,158000.0,Essence,Automatique,8.0
+118000.0,Mercedes-Benz,Mercedes-Benz Classe E Avantgarde,2017.0,8.0,88000.0,Essence,Automatique,9.0
+77000.0,KIA,KIA Sportage Black Edition,2021.0,4.0,113000.0,Essence,Automatique,8.0
+45000.0,Geely,Geely GX3,2021.0,4.0,97000.0,Essence,Manuelle,6.0
+38000.0,Peugeot,Peugeot 301 Active,2022.0,3.0,19500.0,Essence,Manuelle,5.0
+48000.0,Mazda,Mazda 6,2015.0,10.0,157000.0,Essence,Automatique,9.0
+52000.0,Ssangyong,Ssangyong Tivoli Classic,2018.0,7.0,59000.0,Essence,Manuelle,7.0
+38500.0,Fiat,Fiat Tipo 5 portes Entry,2018.0,7.0,39000.0,Essence,Manuelle,6.0
+105500.0,Mercedes-Benz,Mercedes-Benz Classe A Berline Business,2021.0,4.0,37500.0,Essence,Automatique,7.0
+56000.0,Ssangyong,Ssangyong Tivoli Confort,2018.0,7.0,61000.0,Essence,Automatique,8.0
+69000.0,KIA,KIA Sportage,2016.0,9.0,175000.0,Essence,Automatique,8.0
+52000.0,Chery,Chery Tiggo 3X Luxury,2022.0,3.0,68000.0,Essence,Automatique,6.0
+33500.0,Peugeot,Peugeot 208 Access,2018.0,7.0,75000.0,Essence,Manuelle,5.0
+115000.0,Mercedes-Benz,Mercedes-Benz Classe A AMG,2019.0,6.0,86000.0,Diesel,Automatique,6.0
+64500.0,Suzuki,Suzuki Vitara GLX SR,2017.0,8.0,93000.0,Essence,Automatique,6.0
+91500.0,Mercedes-Benz,Mercedes-Benz Classe E coupé,2014.0,11.0,112000.0,Essence,Automatique,10.0
+68000.0,Seat,Seat Arona Référence,2022.0,3.0,39000.0,Essence,Manuelle,6.0
+56500.0,Ford,Ford Kuga Trend,2017.0,8.0,127000.0,Essence,Manuelle,8.0
+69500.0,MG,MG ZS Luxe,2022.0,3.0,51500.0,Essence,Automatique,7.0
+74000.0,BMW,BMW Série 4 Gran Coupé Luxury Line,2017.0,8.0,132500.0,Essence,Automatique,7.0
+72000.0,Hyundai,Hyundai i30,2021.0,4.0,102000.0,Essence,Automatique,7.0
+35500.0,Peugeot,Peugeot 208 Populaire,2020.0,5.0,31500.0,Essence,Manuelle,4.0
+350000.0,Land,Land Rover Range Rover Autobiography,2017.0,8.0,52000.0,Essence,Automatique,43.0
+235000.0,Audi,Audi TT,2022.0,3.0,42000.0,Essence,Automatique,15.0
+140000.0,Audi,Audi A5 Sportback S-Line,2021.0,4.0,94000.0,Essence,Automatique,8.0
+95000.0,KIA,KIA Sportage GT-Line,2021.0,4.0,61000.0,Essence,Automatique,11.0
+99000.0,Honda,Honda CR-V EX,2021.0,4.0,110000.0,Essence,Automatique,11.0
+69000.0,Honda,Honda Civic RS,2020.0,5.0,159000.0,Essence,Automatique,10.0
+162000.0,Mercedes-Benz,Mercedes-Benz CLA AMG,2021.0,4.0,49000.0,Hybride,Automatique,8.0
+160000.0,Ford,Ford Mustang,2017.0,8.0,57000.0,Essence,Automatique,21.0
+73500.0,MG,MG ZS Luxe,2022.0,3.0,23500.0,Essence,Automatique,7.0
+57000.0,Audi,Audi A3 Sportback Ambition,2016.0,9.0,160000.0,Essence,Manuelle,6.0
+114000.0,Mercedes-Benz,Mercedes-Benz Classe A AMG,2021.0,4.0,37000.0,Hybride,Automatique,8.0
+132000.0,BMW,BMW X2 Pack M,2018.0,7.0,38000.0,Essence,Automatique,7.0
+77500.0,MG,MG HS Luxury,2021.0,4.0,78000.0,Essence,Automatique,10.0
+197000.0,Mercedes-Benz,Mercedes-Benz Classe C AMG,2022.0,3.0,46000.0,Hybride,Automatique,9.0
+139000.0,Mercedes-Benz,Mercedes-Benz Classe A AMG,2020.0,5.0,63000.0,Essence,Automatique,7.0
+73000.0,Audi,Audi A3 Berline Design,2019.0,6.0,178000.0,Essence,Automatique,6.0
+85000.0,Mercedes-Benz,Mercedes-Benz Classe C Avantgarde,2018.0,7.0,154000.0,Essence,Automatique,9.0
+59000.0,Jaguar,Jaguar XF Luxe,2011.0,14.0,135000.0,Essence,Automatique,17.0
+40000.0,Citroën,Citroën C3 Shine,2017.0,8.0,72000.0,Essence,Manuelle,4.0
+115000.0,GWM,GWM Haval H6,2023.0,2.0,72000.0,Essence,Automatique,8.0
+43800.0,Suzuki,Suzuki Swift GL,2024.0,1.0,63000.0,Essence,Manuelle,5.0
+69000.0,Audi,Audi A4 Design,2016.0,9.0,220000.0,Essence,Automatique,8.0
+51000.0,Peugeot,Peugeot Partner 1000 Kg,2022.0,3.0,110000.0,Diesel,Manuelle,5.0
+44000.0,Peugeot,Peugeot 208 Active,2022.0,3.0,67000.0,Essence,Manuelle,5.0
+87000.0,BMW,BMW X3 xLine,2014.0,11.0,185000.0,Diesel,Automatique,10.0
+135000.0,Mercedes-Benz,Mercedes-Benz Classe X,2018.0,7.0,158000.0,Diesel,Manuelle,8.0
+69000.0,Toyota,Toyota C-HR,2020.0,5.0,160000.0,Essence,Automatique,6.0
+73000.0,Toyota,Toyota Corolla Dynamic,2021.0,4.0,49900.0,Essence,Automatique,6.0
+39900.0,VW,Volkswagen Polo,2019.0,6.0,197000.0,Essence,Manuelle,4.0
+116000.0,Hyundai,Hyundai Tucson High Grade,2023.0,2.0,28000.0,Essence,Automatique,10.0
+56000.0,BMW,BMW Série 1 Business Line,2017.0,8.0,150000.0,Essence,Manuelle,7.0
+29000.0,Mitsubishi,Mitsubishi Lancer Noir,2010.0,15.0,217000.0,Essence,Automatique,9.0
+124000.0,BMW,BMW X2 Pack M Sport X,2019.0,6.0,79000.0,Essence,Automatique,7.0
+43000.0,Citroën,Citroën C4 Picasso Intensive Plus,2013.0,12.0,145000.0,Diesel,Automatique,6.0
+45000.0,Peugeot,Peugeot 2008 Allure Toit Cielo,2017.0,8.0,32500.0,Essence,Manuelle,5.0
+35000.0,Ford,Ford Transit Custom,2016.0,9.0,670800.0,Diesel,Manuelle,7.0
+37000.0,VW,Volkswagen Transporter Fourgon 6.1 Fourgon,2019.0,6.0,495875.0,Diesel,Manuelle,7.0
+72000.0,DS,DS 7 Crossback Performance-Line,2020.0,5.0,145000.0,Essence,Automatique,10.0
+105000.0,Land,Land Rover Discovery Sport Pure,2017.0,8.0,177000.0,Diesel,Automatique,8.0
+85000.0,Peugeot,Peugeot 308 Allure,2024.0,1.0,15000.0,Essence,Automatique,7.0
+152000.0,Mercedes-Benz,Mercedes-Benz Classe E Exclusive,2020.0,5.0,110000.0,Diesel,Automatique,8.0
+379000.0,Mercedes-Benz,Mercedes-Benz GLE Coupé AMG,2022.0,3.0,17000.0,Hybride,Automatique,12.0
+64000.0,Nissan,Nissan Patrol,2005.0,20.0,260000.0,Diesel,Manuelle,15.0
+35500.0,Dacia,Dacia Sandero,2014.0,11.0,184000.0,Essence,Manuelle,5.0
+46000.0,Nissan,Nissan Altima Tekna,2015.0,10.0,138000.0,Essence,Automatique,11.0
+46500.0,Renault,Renault Clio Life Plus,2018.0,7.0,48000.0,Essence,Manuelle,5.0
+64000.0,Mazda,Mazda 3 sedan Core+ Grade,2021.0,4.0,76000.0,Essence,Manuelle,6.0
+39500.0,Suzuki,Suzuki Celerio Populaire,2023.0,2.0,15000.0,Essence,Manuelle,4.0
+99800.0,GAC,GAC Emzoom R-Style,2025.0,0.0,5000.0,Essence,Automatique,9.0
+35500.0,Renault,Renault Megane coupé,2015.0,10.0,210000.0,Essence,Manuelle,7.0
+112000.0,Mercedes-Benz,Mercedes-Benz Classe A AMG,2019.0,6.0,149000.0,Diesel,Automatique,6.0
+56000.0,Citroën,Citroën Berlingo Live,2018.0,7.0,150000.0,Diesel,Manuelle,5.0
+52000.0,GWM,GWM Haval H6 Luxury,2018.0,7.0,234000.0,Essence,Automatique,9.0
+42000.0,Peugeot,Peugeot 2008 Allure Toit Cielo,2018.0,7.0,127000.0,Essence,Automatique,6.0
+151000.0,Toyota,Toyota Hilux Double Cabine,2019.0,6.0,89000.0,Diesel,Manuelle,8.0
+69000.0,Dacia,Dacia Duster Confort,2020.0,5.0,130000.0,Diesel,Manuelle,6.0
+48000.0,VW,Volkswagen Polo Ambition,2022.0,3.0,119000.0,Essence,Manuelle,4.0
+58000.0,KIA,KIA Rio Berline SX,2019.0,6.0,114000.0,Essence,Automatique,6.0
+59500.0,BMW,BMW Série 5 Access,2012.0,13.0,230000.0,Essence,Automatique,10.0
+41500.0,Peugeot,Peugeot 208 Populaire,2023.0,2.0,22000.0,Essence,Manuelle,4.0
+78000.0,Mercedes-Benz,Mercedes-Benz Classe S,2008.0,17.0,169000.0,Essence,Automatique,15.0
+23000.0,Renault,Renault Symbol Confort,2012.0,13.0,275000.0,Essence,Manuelle,5.0
+39900.0,VW,Volkswagen Golf 6 Team,2010.0,15.0,182000.0,Essence,Manuelle,7.0
+44000.0,KIA,KIA Sportage,2013.0,12.0,276000.0,Diesel,Automatique,11.0
+82000.0,Chery,Chery Tiggo 8 Pro,2022.0,3.0,102000.0,Essence,Automatique,11.0
+77500.0,Hyundai,Hyundai i20 High Grade,2024.0,1.0,49100.0,Essence,Automatique,5.0
+45000.0,Opel,Opel Campo 2001,1996.0,29.0,570000.0,Diesel,Manuelle,10.0
+78000.0,Mazda,Mazda CX-5 High Grade,2018.0,7.0,210000.0,Essence,Automatique,9.0

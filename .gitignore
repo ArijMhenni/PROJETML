@@ -1,9 +1,6 @@
 # Images PNG
 *.png
 
-# Notebook d'entraînement
-training/training.ipynb
-
 # Python cache
 __pycache__/
 *.pyc

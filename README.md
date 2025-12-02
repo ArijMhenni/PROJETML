@@ -184,6 +184,68 @@ results = predictor.predict_batch(vehicles)
 - [ ] Implémenter un système de feedback
 - [ ] Améliorer le modèle avec plus de données
 
+## API REST (Flask : app.py )
+
+We added a small Flask backend that loads your existing `CarPricePredictor` class
+and serves a minimal HTML UI.
+
+Prerequisites
+- You already installed the Python packages from `requirements.txt`.
+- Place your trained model and encoders in:
+  - `models/extra_trees_tuned.pkl`
+  - `models/encoders.pkl`
+  Or set environment variables `MODEL_PATH` and `ENCODERS_PATH` to point to them.
+
+Run locally
+1. (Optional) Create a .env file for configuration:
+   MODEL_PATH=models/extra_trees_tuned.pkl
+   ENCODERS_PATH=models/encoders.pkl
+   PORT=5000
+   FLASK_DEBUG=1
+
+2. Start the server:
+   python app.py
+
+3. Open the UI:
+   http://127.0.0.1:5000
+
+API endpoints
+- GET /health
+- GET /api/brands
+- POST /api/predict  (JSON body: marque, modele, annee, kilometrage, energie, boite_vitesses, puissance_fiscale)
+- POST /api/predict_batch  (JSON body: { "vehicles": [ {...}, {...} ] })
+
+Next steps you can ask me to do
+- Add a Dockerfile and docker-compose for containerized deployment.
+- Create a small React frontend (CRA / Vite) that calls the API.
+- Add server-side validation, logging, or unit tests.
+- Add a production-ready Gunicorn config or a systemd unit.
+
+# Frontend (Vite + React) for Car Price Predictor
+
+This folder contains a Vite + React single-page app that calls your Flask backend.
+
+Quick start (frontend):
+
+!!! python app.py
+
+1. From project root, install deps:
+   cd frontend
+   npm install
+
+2. Run dev server (with proxy to Flask):
+   npm run dev
+
+   Vite dev server will start on http://localhost:5173 and proxies /api requests to http://localhost:5000 (make sure the Flask backend is running).
+
+3. Build for production:
+   npm run build
+   npm run preview
+
+Notes:
+- Proxy is configured in vite.config.js. If your Flask backend runs on another host/port, update the proxy settings.
+- The UI fetches /api/brands on load and posts to /api/predict for single predictions.
+
 ## 👥 Auteurs
 
 ML Project Team - 2025
@@ -191,3 +253,4 @@ ML Project Team - 2025
 ## 📄 Licence
 
 Ce projet est destiné à des fins éducatives et de recherche.
+

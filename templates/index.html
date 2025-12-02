@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <title>Car Price Predictor</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 900px; margin: 2rem auto; padding: 1rem; color:#222; }
+    label { display:block; margin-top: 0.75rem; }
+    input, select { width: 100%; padding: 0.45rem; margin-top: 0.25rem; }
+    button { margin-top: 1rem; padding: 0.6rem 1rem; }
+    .result { border: 1px solid #ddd; padding: 1rem; margin-top: 1rem; background: #f9f9f9; }
+    .error { color: #a00; }
+  </style>
+</head>
+<body>
+  <h1>Car Price Predictor</h1>
+
+  <form id="predict-form" method="post" action="/api/predict" onsubmit="return false;">
+    <label>Marque
+      <select id="marque" required>
+        {% for m in marques %}
+        <option value="{{ m }}">{{ m }}</option>
+        {% endfor %}
+      </select>
+    </label>
+
+    <label>Modèle
+      <input id="modele" placeholder="e.g., Série 3"/>
+    </label>
+
+    <label>Année
+      <input id="annee" type="number" min="1900" max="2100" value="{{ 2022 }}" required/>
+    </label>
+
+    <label>Kilométrage
+      <input id="kilometrage" type="number" min="0" value="50000" required/>
+    </label>
+
+    <label>Énergie
+      <select id="energie" required>
+        {% for e in energies %}
+        <option value="{{ e }}">{{ e }}</option>
+        {% endfor %}
+      </select>
+    </label>
+
+    <label>Boîte de vitesses
+      <select id="boite_vitesses" required>
+        {% for b in boites %}
+        <option value="{{ b }}">{{ b }}</option>
+        {% endfor %}
+      </select>
+    </label>
+
+    <label>Puissance fiscale (CV)
+      <input id="puissance_fiscale" type="number" min="1" value="7" required/>
+    </label>
+
+    <button id="submit">Prédire</button>
+  </form>
+
+  <div id="output"></div>
+
+  <script>
+    const form = document.getElementById('predict-form');
+    const output = document.getElementById('output');
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      output.innerHTML = '⏳ Calcul en cours...';
+
+      const payload = {
+        marque: document.getElementById('marque').value,
+        modele: document.getElementById('modele').value,
+        annee: Number(document.getElementById('annee').value),
+        kilometrage: Number(document.getElementById('kilometrage').value),
+        energie: document.getElementById('energie').value,
+        boite_vitesses: document.getElementById('boite_vitesses').value,
+        puissance_fiscale: Number(document.getElementById('puissance_fiscale').value)
+      };
+
+      try {
+        const res = await fetch('/api/predict', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload)
+        });
+        const data = await res.json();
+        if (!data.success) {
+          output.innerHTML = `<div class="result error"><strong>Erreur:</strong> ${data.error || JSON.stringify(data)}</div>`;
+          return;
+        }
+
+        const html = `
+          <div class="result">
+            <h2>Résultat</h2>
+            <p><strong>Prix estimé:</strong> ${Number(data.prix_predit).toLocaleString()} DT</p>
+            <p><strong>Fourchette:</strong> ${Number(data.prix_min).toLocaleString()} - ${Number(data.prix_max).toLocaleString()} DT</p>
+            <p><strong>Marque:</strong> ${data.marque} ${data.modele} (${data.annee})</p>
+            <p><strong>Kilométrage:</strong> ${Number(data.kilometrage).toLocaleString()} km</p>
+            <p><strong>Énergie:</strong> ${data.energie} | <strong>Boîte:</strong> ${data.boite_vitesses}</p>
+            <p><strong>Puissance:</strong> ${data.puissance_fiscale} CV</p>
+          </div>
+        `;
+        output.innerHTML = html;
+      } catch (err) {
+        console.error(err);
+        output.innerHTML = `<div class="result error"><strong>Erreur:</strong> ${err.message}</div>`;
+      }
+    });
+
+    // Trigger form submit via button (so jinja rendered page works when clicking button)
+    document.getElementById('submit').addEventListener('click', () => form.dispatchEvent(new Event('submit')));
+  </script>
+</body>
+</html>
